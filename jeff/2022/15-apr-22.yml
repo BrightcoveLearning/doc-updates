@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: 'Creating Audio-Only Live Events'
-          Description: 'Added note that audio-only streams can only be defined when you create them'
-          Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html 
-          Product: Live
-          Product_area: Audio-Only
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
