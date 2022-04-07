@@ -10,6 +10,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Conversions'
+          Description: 'In this topic, you will learn about Audience Insight data for converted subscribers.'
+          Link: https://audience-insights.support.brightcove.com/guides/conversions/conversions.html 
+          Product: Audience Insights
+          Product_area: Insights Dashboard
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Creating Audio-Only Live Events'
