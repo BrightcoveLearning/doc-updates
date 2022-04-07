@@ -21,7 +21,7 @@
     - type: Major updates
       docs:
         - Title: 'Creating Audio-Only Live Events'
-          Description: 'Updated screenshots based on feedback'
+          Description: 'Added note that audio-only streams can only be defined when you create them and updated screenshots'
           Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html 
           Product: Live
           Product_area: Audio Only
@@ -30,11 +30,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: 'Creating Audio-Only Live Events'
-          Description: 'Added note that audio-only streams can only be defined when you create them'
-          Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html 
-          Product: Live
-          Product_area: Audio-Only
+        - Title: 'SSAI Performance Analytics'
+          Description: 'Updated note about latency time'
+          Link: https://studio.support.brightcove.com/analytics/ssai-performance-data.html  
+          Product: SSAI
+          Product_area: SSAI Performance
           Product_Update: 'false'
           Feature: ''
           Status: Released
