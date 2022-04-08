@@ -1,0 +1,32 @@
+- date: 15-April-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Engagement: Sessions Over Time'
+          Description: In this topic, you will learn about engagement sessions over time through the Audience Insights data. These metrics will help obtain data related to the sessions over time, broken down by engagement status.'
+          Link: https://audience-insights.support.brightcove.com/guides/engagement/engagement-sessions-over-time.html
+          Product: Audience Insights
+          Product_area: Engagement
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
