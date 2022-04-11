@@ -1,4 +1,4 @@
-- date: 15-April-2022
+- date: 22-April-2022
   types:
     - type: New Docs
       docs:
@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: 'Content Security (DRM) with the Native SDKs'
-          Description: 'Added Android support for HLS with Widevine Modular'
-          Link: https://sdks.support.brightcove.com/features/content-security-drm-native-player-sdks.html 
-          Product: Video Cloud
-          Product_area: Native SDKs
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
