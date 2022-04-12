@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM) in Video Cloud'
+          Description: 'Added Android support for HLS with Widevine Modular (VOD)'
+          Link: https://studio.support.brightcove.com/general/overview-digital-rights-management-drm-video-cloud.html 
+          Product: Video Cloud
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
