@@ -10,6 +10,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Content: Overview'
+          Description: 'In this topic, you will learn about the Content Audience Insights scorecard.'
+          Link: https://audience-insights.support.brightcove.com/guides/content/content-overview.html
+          Product: Audience Insights
+          Product_area: Content
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Concepts: The JavaScript Module Design Pattern'
@@ -20,13 +28,3 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    - type: Minor updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
