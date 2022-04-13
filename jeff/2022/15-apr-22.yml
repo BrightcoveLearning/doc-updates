@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Audience Insights: Distribution'
+          Description: 'In this topic, you will learn about Audience Insight data for the distribution of third-party subscriptions.'
+          Link: https://audience-insights.support.brightcove.com/guides/distribution/distribution.html
+          Product: Audience Insights
+          Product_area: Distribution by Store
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Overview: China Delivery'
