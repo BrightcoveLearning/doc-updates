@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: China Delivery'
+          Description: 'Added diagram and FAQ section'
+          Link: https://studio.support.brightcove.com/general/china-delivery-overview.html 
+          Product: Video Cloud
+          Product_area: China Delivery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Content Security (DRM) with the Native SDKs'
