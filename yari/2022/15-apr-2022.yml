@@ -28,3 +28,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove CMS API Reference (1.0.0)'
+          Description: 'Get playlists sort parameters updated'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html#tag/Playlists
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
