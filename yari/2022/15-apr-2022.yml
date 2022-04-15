@@ -1,0 +1,38 @@
+- date: 15-April-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Engagement: Sessions Over Time'
+          Description: In this topic, you will learn about engagement sessions over time through the Audience Insights data. These metrics will help obtain data related to the sessions over time, broken down by engagement status.'
+          Link: https://audience-insights.support.brightcove.com/guides/engagement/engagement-sessions-over-time.html
+          Product: Audience Insights
+          Product_area: Engagement
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content: Overview'
+          Description: 'In this topic, you will learn about the Content Audience Insights scorecard.'
+          Link: https://audience-insights.support.brightcove.com/guides/content/content-overview.html
+          Product: Audience Insights
+          Product_area: Content
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Concepts: The JavaScript Module Design Pattern'
+          Description: 'A new section was created related to JavaScript variable declaration'
+          Link: https://general.support.brightcove.com/developer/concepts-javascript-module-design-pattern.html#Using_JavaScript_variables
+          Product: Video Cloud
+          Product_area: Developers
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove CMS API Reference (1.0.0)'
+          Description: 'Get playlists sort parameters updated'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html#tag/Playlists
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

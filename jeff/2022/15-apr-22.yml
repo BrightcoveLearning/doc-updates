@@ -1,32 +1,40 @@
-- date: 8-April-2022
+- date: 15-April-2022
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Audience Insights: Distribution'
+          Description: 'In this topic, you will learn about Audience Insight data for the distribution of third-party subscriptions.'
+          Link: https://audience-insights.support.brightcove.com/guides/distribution/distribution.html
+          Product: Audience Insights
+          Product_area: Distribution by Store
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: China Delivery'
+          Description: 'Added diagram and FAQ section'
+          Link: https://studio.support.brightcove.com/general/china-delivery-overview.html 
+          Product: Video Cloud
+          Product_area: China Delivery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Content Security (DRM) with the Native SDKs'
+          Description: 'Added Android support for HLS with Widevine Modular'
+          Link: https://sdks.support.brightcove.com/features/content-security-drm-native-player-sdks.html 
+          Product: Video Cloud
+          Product_area: Native SDKs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM) in Video Cloud'
+          Description: 'Added Android support for HLS with Widevine Modular (VOD)'
+          Link: https://studio.support.brightcove.com/general/overview-digital-rights-management-drm-video-cloud.html 
+          Product: Video Cloud
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
