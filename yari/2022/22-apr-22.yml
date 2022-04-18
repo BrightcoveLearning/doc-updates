@@ -46,3 +46,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Remote Assets'
+          Description: 'Note added with information about live remote asset type'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/using-cms-api-remote-assets.html#Replace_remote_with_VOD
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
