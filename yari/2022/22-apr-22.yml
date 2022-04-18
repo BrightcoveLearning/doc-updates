@@ -30,3 +30,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Working with Remote Asset Videos'
+          Description: 'New limitation added'
+          Link: https://studio.support.brightcove.com/media/working-remote-asset-videos.html#limitations
+          Product: Video Cloud
+          Product_area: Media
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Working with Remote Asset Videos'
+          Description: 'Note added with information about live remote asset type'
+          Link: https://studio.support.brightcove.com/media/working-remote-asset-videos.html#create
+          Product: Video Cloud
+          Product_area: Media
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
