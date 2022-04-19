@@ -48,6 +48,14 @@
     "terminal.ansiMagenta": "#55859B",
     "terminal.ansiRed": "#B16139",
     "terminal.ansiWhite": "#87928A",
-    "terminal.ansiYellow": "#A07E3B"
+    "terminal.ansiYellow": "#A07E3B",
+    "activityBar.background": "#523A28",
+    "activityBar.foreground": "#D0B49F",
+    "activityBar.inactiveForeground": "#b7b7b7",
+    "activityBar.activeBorder": "#adc5d7",
+    "activityBar.activeBackground": "#A47551",
+    "activityBar.border": "#A47551",
+    "titleBar.border": "#A47551",
+    "statusBar.border": "#A47551"
   }
 }
