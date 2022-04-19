@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Content: Popular Content By'
+          Description: 'In this topic, you will learn about the popular content metrics listed in the Audience Insights data. These metrics will help you filter the popular content among your subscribers, allowing you to have a more detailed view of the trending content.'
+          Link: https://audience-insights.support.brightcove.com/guides/content/content-pupular-content-by.html
+          Product: Audience Insights
+          Product_area: Content
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
