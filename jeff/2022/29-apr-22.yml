@@ -1,15 +1,15 @@
-- date: 22-April-2022
+- date: 29-April-2022
   types:
     - type: New Docs
       docs:
-        - Title: 'Offline Playback with Brightcove Beacon Apps'
-          Description: 'In this topic, you will learn how to enable and use Offline Playback with your Brightcove Beacon apps.'
-          Link: https://beacon-help.support.brightcove.com/media/offline-playback-beacon.html 
-          Product: Beacon
-          Product_area: Offline Playback
-          Product_Update: 'true'
-          Feature: 'Offline Playback with Beacon Apps'
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: ''
