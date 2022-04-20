@@ -12,14 +12,22 @@
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Playback Restrictions with Live events using Studio'
+          Description: 'Added AES-128 and DRM details'
+          Link: https://live.support.brightcove.com/live-module/playback-restrictions-live-module.html#Create_a_live_event_with_Playback_Restrictions 
+          Product: Live
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live DRM'
+          Description: 'Added DRM details'
+          Link: https://live.support.brightcove.com/general/live-drm.html  
+          Product: Live
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
