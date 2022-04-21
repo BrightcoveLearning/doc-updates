@@ -10,6 +10,14 @@
           Product_Update: 'true'
           Feature: 'Offline Playback with Beacon Apps'
           Status: Released
+        - Title: 'Integration Spotlight: Braze'
+          Description: 'This integration allows you to automate customer contact.'
+          Link: https://audience-insights.support.brightcove.com/integration/integration_spotlight_braze.html  
+          Product: Audience Insights
+          Product_area: Integration
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Playback Restrictions with Live events using Studio'
