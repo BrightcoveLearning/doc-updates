@@ -36,6 +36,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Added input parameters for Get Redundant Groups'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#operation/GetRedundantGroups  
+          Product: Live
+          Product_area: Redundant Groups
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
