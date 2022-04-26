@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Content: Trial Drivers and Library Breakdown'
+          Description: 'In this topic, you will learn about the trial drivers and library breakdown metrics included in the Audience Insights data. These metrics will help you filter how engaged are new trial users with your content and also provide details about your library comsuption.'
+          Link: https://audience-insights.support.brightcove.com/guides/content/content-trial-drivers-library.html
+          Product: Audience Insights
+          Product_area: Content
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
