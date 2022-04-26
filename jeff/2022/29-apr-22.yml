@@ -16,7 +16,7 @@
           Description: 'Added note and link to new Audio only player feature'
           Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-audio-player-simulated.html 
           Product: Brightcove Player
-          Product_area: Auddio only
+          Product_area: Audio only
           Product_Update: 'false'
           Feature: ''
           Status: Released
@@ -24,7 +24,15 @@
           Description: 'Added note and link to new Audio only player feature'
           Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-audio-only.html 
           Product: Brightcove Player
-          Product_area: Auddio only
+          Product_area: Audio only
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Added audio only section in player configuration'
+          Link: https://player.support.brightcove.com/general/player-configuration-guide.html#configproperties  
+          Product: Brightcove Player
+          Product_area: Audio only
           Product_Update: 'false'
           Feature: ''
           Status: Released
