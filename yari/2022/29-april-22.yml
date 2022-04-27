@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: Social API'
+          Description: 'Note added about operations needed to request client credentials'
+          Link: https://apis.support.brightcove.com/social/getting-started/overview-social-api.html#authentication
+          Product: Video Cloud 
+          Product_area: Social API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
