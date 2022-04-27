@@ -44,6 +44,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Playback Restrictions with Brightcove Player'
+          Description: 'Changed JSON Policy Key value to "none"'
+          Link: https://player.support.brightcove.com/playback/playback-restrictions-with-bcp.html   
+          Product: Brightcove Player
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
