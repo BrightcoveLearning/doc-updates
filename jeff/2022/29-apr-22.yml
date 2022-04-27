@@ -52,6 +52,22 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Removed ad_configuration_transforms from schema'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#tag/SSAI    
+          Product: Live
+          Product_area: SSAI
+          Product_Update: 'true'
+          Feature: 'Deprecation of XSLT in Live SSAI Ad Configs'
+          Status: Released
+        - Title: 'Brightcove Live API: Server-Side Ad Insertion (SSAI)'
+          Description: 'Removed ad_configuration_transforms from samples'
+          Link: https://apis.support.brightcove.com/live-api/ssai/live-api-server-side-ad-insertion-ssai.html     
+          Product: Live
+          Product_area: SSAI
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
