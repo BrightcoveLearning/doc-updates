@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Configuring Player Controls'
+          Description: 'Note added about rates not supported in Safari'
+          Link: https://studio.support.brightcove.com/players/configuring-player-controls.html#rates
+          Product: Video Cloud 
+          Product_area: Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
