@@ -68,6 +68,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Generic Stream Concurrency'
+          Description: 'Updated Correlator identifier examples'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html#Implementation      
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
