@@ -31,10 +31,18 @@
     - type: Minor updates
       docs:
         - Title: 'Output Settings'
-          Description: 'Added notes to explain in what the cases the default MP4 output will be created.'
+          Description: 'Added notes to explain in what the cases the default MP4 output will be created'
           Link: https://zencoder.support.brightcove.com/getting-started/output-settings.html
           Product: Zencoder
           Product_area: Output settings
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Campaign-enabled Player'
+          Description: 'Added note that Campaign-enabled players must be embedded using the Advanced publishing code'
+          Link: https://studio.support.brightcove.com/campaign/general/creating-campaign-enabled-player.html
+          Product: Video Cloud
+          Product_area: Campaign
           Product_Update: 'false'
           Feature: ''
           Status: Released
