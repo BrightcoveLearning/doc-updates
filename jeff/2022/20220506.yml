@@ -22,11 +22,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Live API: Creating VOD Clips'
+          Description: 'Added note and links for creating and managing credentials'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-api-creating-vod-clips.html#Request_body_s3 
+          Product: Live
+          Product_area: VOD Clips
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
