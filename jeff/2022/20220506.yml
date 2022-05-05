@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Audience Insights Glossary'
+          Description: 'A guide to important terminology for Brightcove Audience Insights'
+          Link: https://audience-insights.support.brightcove.com/getting-started/audience-insights-glossary.html 
+          Product: Audience Insights
+          Product_area: Terminology
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Overview: Brightcove Native SDK for Android'
