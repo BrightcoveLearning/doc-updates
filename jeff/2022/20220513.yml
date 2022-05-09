@@ -30,11 +30,27 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Audio Only with Brightcove Player'
+          Description: 'Updated images to use the player sapphire skin'
+          Link: https://player.support.brightcove.com/playback/audio-only-player.html 
+          Product: Video Cloud
+          Product_area: Brightcove Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Working with Audio-Only Content'
+          Description: 'Updated player sample and link'
+          Link: https://beacon-help.support.brightcove.com/general/working-audio-content.html  
+          Product: Beacon
+          Product_area: Audio Only
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Audio Only Live Events'
+          Description: 'Updated audio only player image'
+          Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html
+          Product: Live
+          Product_area: Audio Only
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
