@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Player Management API Reference (2.0.0)'
+          Description: 'Note about player configuration request added'
+          Link: https://apis.support.brightcove.com/player-management/references/reference.html#tag/Player-Configurations
+          Product: Brightcove Player
+          Product_area: Player Managment API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
