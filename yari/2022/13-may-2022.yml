@@ -22,11 +22,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Introduction info updated to reflect blocking screen-recording configuration'
+          Link: https://studio.support.brightcove.com/general/overview-digital-rights-management-drm-video-cloud.html
+          Product: Video Cloud
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
