@@ -46,7 +46,7 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Creating Audio Only Live Events'
+        - Title: 'Creating Audio-Only Live Events'
           Description: 'Updated audio only player image'
           Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html
           Product: Live
@@ -54,3 +54,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Staging
+        - Title: 'Apple TV UI Controls with the Native SDK for tvOS'
+          Description: 'Added note about using the Xcode simulator remote'
+          Link: https://sdks.support.brightcove.com/tvos/playback/apple-tv-ui-controls-native-sdk-tvos.html   
+          Product: Video Cloud
+          Product_area: Native SDK for tvOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
