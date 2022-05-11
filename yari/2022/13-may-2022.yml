@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'SSAI Ad tracking log'
+          Description: 'Log fields table updated'
+          Link: https://ssai.support.brightcove.com/getting-started/video-cloud-ssai-ad-logs.html#Log_fields
+          Product: SSAI
+          Product_area: Ad tracking
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
