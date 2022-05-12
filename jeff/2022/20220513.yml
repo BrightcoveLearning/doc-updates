@@ -10,6 +10,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Audio Only with the Native SDKs'
+          Description: 'In this topic, you will learn how to work with audio-only playback with the Brightcove Native SDKs.'
+          Link: https://sdks.support.brightcove.com/features/audio-only-with-sdks.html  
+          Product: Video Cloud
+          Product_area: Native SDKs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Overview: Brightcove Native SDK for Android'
