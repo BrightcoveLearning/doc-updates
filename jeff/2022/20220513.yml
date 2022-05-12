@@ -70,3 +70,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Using Captions with the Brightcove Native SDKs'
+          Description: 'Updated link for setting Android captions'
+          Link: https://sdks.support.brightcove.com/features/using-captions-brightcove-native-sdks.html#Captions   
+          Product: Video Cloud
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
