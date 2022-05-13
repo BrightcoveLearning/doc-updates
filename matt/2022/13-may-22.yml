@@ -1,0 +1,21 @@
+- date: 13-May-2022
+  types:
+
+    - type: Minor updates
+      docs:
+        - Title: 'Managing Playlists on Pages'
+          Description: 'Added Edit Playlist option'
+          Link: https://beacon-help.support.brightcove.com/layout/managing-playlists-on-pages.html#Edit_playlist
+          Product: Beacon
+          Product_area: Layout
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Playlist Endscreen Plugin'
+          Description: 'Added publishTime option and playlist-endscreen-select event'
+          Link: https://player.support.brightcove.com/plugins/playlist-endscreen-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
