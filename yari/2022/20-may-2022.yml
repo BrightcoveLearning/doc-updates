@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Configuring the Brightcove Player for DRM'
+          Description: 'Playback technologuies information table updated'
+          Link: https://player.support.brightcove.com/plugins/configuring-brightcove-player-drm.html#Playback_technologies_used
+          Product: Brightcove Player
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
