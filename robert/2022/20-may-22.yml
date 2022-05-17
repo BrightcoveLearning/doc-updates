@@ -28,13 +28,21 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Video Cloud Connector for Sitecore'
+          Description: 'New release provides enhanced support for Brightcove Players and In-Page Experiences'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'true'
+          Feature: 'Video Cloud Connector for Sitecore'
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Live API Reference'
+          Description: 'Added example to clarify how to specify custom fields for VOD sent to Video Cloud'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#operation/CreateALiveJob
+          Product: Live
+          Product_area: Live API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
