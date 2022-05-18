@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Multi Language Audio with Live Streams'
+          Description: 'Updated for new Video PID field'
+          Link: https://live.support.brightcove.com/general/multi-language-audio.html  
+          Product: Live
+          Product_area: Multiple Language Audio
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
