@@ -2,14 +2,22 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'Updated steps for creating multiple language audio tracks'
+          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html    
+          Product: Live
+          Product_area: Multiple Language Audio
+          Product_Update: 'true'
+          Feature: 'Live multiple language audio tracks'
+          Status: Released
+        - Title: 'Multi Language Audio with the Live API'
+          Description: 'Added content for Video PID field'
+          Link: https://live.support.brightcove.com/live-api/guides/live-multi-language-audio.html   
+          Product: Live
+          Product_area: Multiple Language Audio
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Overview: Brightcove Native SDK for Android'
@@ -28,22 +36,6 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Multi Language Audio with the Live API'
-          Description: 'Added content for Video PID field'
-          Link: https://live.support.brightcove.com/live-api/guides/live-multi-language-audio.html   
-          Product: Live
-          Product_area: Multiple Language Audio
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging
-        - Title: 'Multi Language Audio with the Live Module'
-          Description: 'Updated steps for creating multiple language audio tracks'
-          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html    
-          Product: Live
-          Product_area: Multiple Language Audio
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
