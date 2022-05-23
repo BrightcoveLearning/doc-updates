@@ -28,6 +28,22 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Multi Language Audio with the Live API'
+          Description: 'Added content for Video PID field'
+          Link: https://live.support.brightcove.com/live-api/guides/live-multi-language-audio.html   
+          Product: Live
+          Product_area: Multiple Language Audio
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'Updated steps for creating multiple language audio tracks'
+          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html    
+          Product: Live
+          Product_area: Multiple Language Audio
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
