@@ -46,6 +46,14 @@
           Status: Released
     - type: Minor updates
       docs:
+        - Title: 'Offline Playback with Brightcove Beacon Apps'
+          Description: 'Updated based on feedback'
+          Link: https://beacon-help.support.brightcove.com/media/offline-playback-beacon.html 
+          Product: Beacon
+          Product_area: 
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         - Title: ''
           Description: ''
           Link: 
