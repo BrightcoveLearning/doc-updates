@@ -44,6 +44,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Implementing Playback Rights'
+          Description: 'Updated the diagram for Geographic checks'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/implementing-playback-rights.html   
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Offline Playback with Brightcove Beacon Apps'
