@@ -62,11 +62,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Added note about Smart TV browser support'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html  
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
