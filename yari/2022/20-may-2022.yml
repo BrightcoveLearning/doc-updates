@@ -1,0 +1,40 @@
+- date: 20-May-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove SSAI Documentation'
+          Description: 'Implementing Server-Side ads with Brightcopve Player video updated'
+          Link: https://ssai.support.brightcove.com/
+          Product: SSAI
+          Product_area: SSAI
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Integrating with the Beacon Web Store'
+          Description: 'Entitlements section JSON updated '
+          Link: https://beacon.support.brightcove.com/beacon-web-store/integration-details.html#Authentication_through_OIDC_and_entitlements
+          Product: Beacon
+          Product_area: Beacon Web Store 
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring the Brightcove Player for DRM'
+          Description: 'Playback technologuies information table updated'
+          Link: https://player.support.brightcove.com/plugins/configuring-brightcove-player-drm.html#Playback_technologies_used
+          Product: Brightcove Player
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
