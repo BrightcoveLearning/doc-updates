@@ -1,0 +1,32 @@
+- date: 3-June-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Native SDK for Android Release Notes'
+          Description: 'Android SDK version 6.18.5 '
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-native-sdk-android-release-notes.html
+          Product: Video Cloud
+          Product_area: Native SDKs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Native SDK for Android: Previous SDK information'
+          Description: 'Added SDK v6.18.4 to previous releases'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-player-sdk-android-previous-sdk-information.html
+          Product: Video Cloud
+          Product_area: Native SDKs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
