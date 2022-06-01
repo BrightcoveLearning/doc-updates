@@ -38,11 +38,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Note about referrer policy added to iframe embed code section'
-          Description: 'Limitation about labels managment added'
+        - Title: 'Choosing the Correct Embed Code'
+          Description: 'Note about referrer policy added to iframe embed code section'
           Link: https://studio.support.brightcove.com/publish/choosing-correct-embed-code.html
           Product: Brightcove Player
           Product_area: Publishing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dimension: referrer_domain'
+          Description: 'Note about referrer policy added to URL parameters section'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-referrerdomain.html
+          Product: Video Cloud
+          Product_area: Analytics API
           Product_Update: 'false'
           Feature: ''
           Status: Released
