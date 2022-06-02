@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Dimension: referrer_domain'
+          Description: 'New section about referrer policy added'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-referrerdomain.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Working with Labels'
@@ -46,11 +54,4 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Dimension: referrer_domain'
-          Description: 'Note about referrer policy added to URL parameters section'
-          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-referrerdomain.html
-          Product: Video Cloud
-          Product_area: Analytics API
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+        
