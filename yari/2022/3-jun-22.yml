@@ -1,0 +1,57 @@
+- date: 3-Jun-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Video Cloud SSAI API'
+          Description: 'New system variable description added'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#System_variables
+          Product: SSAI
+          Product_area: SSAI API
+          Product_Update: 'true'
+          Feature: 'New system variable added'
+          Status: Released
+        - Title: 'Step-by-Step: Simple Video App using the Native SDK for Android'
+          Description: 'Update gradle.properties step added'
+          Link: https://sdks.support.brightcove.com/android/basics/step-step-simple-video-app-using-native-sdk-android.html#Create_a_project
+          Product: Video Cloud
+          Product_area: SDKS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dimension: referrer_domain'
+          Description: 'New section about referrer policy added'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-referrerdomain.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Working with Labels'
+          Description: 'Limitation about labels managment added'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/working-with-labels.html#Limitations
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Choosing the Correct Embed Code'
+          Description: 'Note about referrer policy added to iframe embed code section'
+          Link: https://studio.support.brightcove.com/publish/choosing-correct-embed-code.html
+          Product: Brightcove Player
+          Product_area: Publishing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
