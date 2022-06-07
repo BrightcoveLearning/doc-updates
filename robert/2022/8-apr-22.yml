@@ -1,56 +1,32 @@
-- date: 8-April-2022
+- date: 3-June-2022
   types:
     - type: New Docs
       docs:
-        - Title: 'Managing Slates'
-          Description: 'Enhancements to slates for Cloud PLayout channels'
-          Link: https://studio.support.brightcove.com/cloud-playout/managing-slates.html
-          Product: Video Cloud
-          Product_area: Cloud Playout
-          Product_Update: 'true'
-          Feature: 'Slates for Cloud Playout channels'
-          Status: Released
-        - Title: 'Setting a Hard Start for a Channel'
-          Description: 'Set the exact time for channel content playback to begin, and fill time before that with a slate asset'
-          Link: https://studio.support.brightcove.com/cloud-playout/hard-start.html
-          Product: Video Cloud
-          Product_area: Cloud Playout
-          Product_Update: 'true'
-          Feature: 'Set hard start time for channel content playback'
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: 'Overview: Channels API'
-          Description: 'Add operations for managing slate assets'
-          Link: https://apis.support.brightcove.com/cloud-playout-apis/getting-started/overview-channel-api.html
-          Product: Video Cloud
-          Product_area: Cloud Playout Channels API
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Cloud Playout Channel Manager API Reference'
-          Description: 'Add operations for managing slate assets'
-          Link: https://apis.support.brightcove.com/cloud-playout-apis/references/reference-channels.html
-          Product: Video Cloud
-          Product_area: Cloud Playout Channels API
-          Product_Update: 'true'
-          Feature: 'Slate asset management'
-          Status: Released
-        - Title: 'Getting Started with Brightcove Video Connect for the WordPress CMS'
-          Description: 'New release - the documentation now points to releases and documentation on the GitHub repo'
-          Link: https://integrations.support.brightcove.com/wordpress/getting-started-brightcove-video-connect-wordpress-cms.html
-          Product: Video Cloud
-          Product_area: Word Press Connector
-          Product_Update: 'true'
-          Feature: 'New Release'
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: 'Live API Reference'
-          Description: 'Added notes that audio only must be set when the job is created'
-          Link: https://apis.support.brightcove.com/live-api/references/reference.html
-          Product: Live
-          Product_area: Audio only jobs
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
