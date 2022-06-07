@@ -6,7 +6,8 @@
           Description: 'This document provides an overview of the hosting platforms for the Live Module.'
           Link: https://live.support.brightcove.com/live-module/overview-hosting-platforms.html
           Product: Live
-          Product_Update: Hosting Platforms
+          Product_area: Hosting Platforms
+          Product_Update: 'false'
           Feature: ''
           Status: Released
     - type: Major updates
