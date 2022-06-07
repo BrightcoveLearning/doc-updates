@@ -2,14 +2,13 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: Hosting Platforms'
+          Description: 'This document provides an overview of the hosting platforms for the Live Module.'
+          Link: https://live.support.brightcove.com/live-module/overview-hosting-platforms.html
+          Product: Live
+          Product_Update: Hosting Platforms
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
