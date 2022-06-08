@@ -1,0 +1,32 @@
+- date: 22-April-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Overview: Hosting Platforms'
+          Description: 'This document provides an overview of the hosting platforms for the Live Module.'
+          Link: https://live.support.brightcove.com/live-module/overview-hosting-platforms.html
+          Product: Live
+          Product_area: Hosting Platforms
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Ad keys description updated'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Ad_variables
+          Product: SSAI
+          Product_area: SSAI API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Available Options for the Advanced (in-page) Embed Code'
+          Description: 'Strings not supported by autoplay attribute note added'
+          Link: https://player.support.brightcove.com/publish/available-options-advanced-page-embed-code.html#Attributes
+          Product: Brightcove Player
+          Product_area: Publishing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
