@@ -22,11 +22,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Creating a Stripe Account'
+          Description: 'https://beacon-help.support.brightcove.com/monetization/general/creating-stripe-account.html'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/creating-stripe-account.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
