@@ -30,3 +30,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Corrected some errors in the scheduled clip request.'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: Live
+          Product_area: Clipping
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Domains and Ports that Must Be Accessible to Video Cloud'
+          Description: 'Removed a domain that Brightcove no longer uses.'
+          Link: https://studio.support.brightcove.com/general/domains-and-ports-must-be-accessible-video-cloud.html
+          Product: Video Cloud
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
