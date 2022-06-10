@@ -33,8 +33,8 @@
         - Title: 'Debugging on Mobile Devices'
           Description: 'Added common document (submodule) to SDKs site'
           Link: https://sdks.support.brightcove.com/getting-started/debugging-mobile-devices.html  
-          Product: Video Cloud
-          Product_area: Native SDKs
+          Product: Device SDKs
+          Product_area: General
           Product_Update: 'false'
           Feature: ''
           Status: Released
