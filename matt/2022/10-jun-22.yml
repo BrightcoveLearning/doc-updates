@@ -1,4 +1,4 @@
-- date: 3-June-2022
+- date: 10-June-2022
   types:
     - type: New Docs
       docs:
@@ -23,7 +23,7 @@
     - type: Minor updates
       docs:
         - Title: 'Creating a Stripe Account'
-          Description: 'https://beacon-help.support.brightcove.com/monetization/general/creating-stripe-account.html'
+          Description: 'Updated doc to match changes to Stipe UI.'
           Link: https://beacon-help.support.brightcove.com/monetization/general/creating-stripe-account.html
           Product: Beacon
           Product_area: Monetization
