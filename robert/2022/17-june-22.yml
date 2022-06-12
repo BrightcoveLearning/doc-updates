@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Performance Report Reference'
+          Description: 'Added more detail on what triggers a play_request.'
+          Link: https://studio.support.brightcove.com/analytics/performance-report-reference.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
