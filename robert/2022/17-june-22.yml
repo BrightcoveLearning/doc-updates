@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Update sample response for schedule clip.'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#operation/CreateAScheduledClip
+          Product: Live
+          Product_area: API - schedule clip
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
