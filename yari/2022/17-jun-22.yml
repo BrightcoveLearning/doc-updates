@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Skins and Player Versions'
+          Description: 'New skin sapphire information added'
+          Link: https://player.support.brightcove.com/styling/skins-and-player-versions.html
+          Product: Brightcove Player
+          Product_area: Styling
+          Product_Update: 'true'
+          Feature: 'New skin update for Brightcove Players'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Social Syndication API'
