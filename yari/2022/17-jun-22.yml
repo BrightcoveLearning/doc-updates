@@ -1,0 +1,32 @@
+- date: 17-June-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Social Syndication API'
+          Description: 'Include filter object with special characters note added.'
+          Link: https://apis.support.brightcove.com/social-syndication/getting-started/public-syndication-api-overview.html#Syndication_Resource
+          Product: Video Cloud
+          Product_area: Social Syndication API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
