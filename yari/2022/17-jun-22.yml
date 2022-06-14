@@ -28,6 +28,14 @@
           Product_Update: 'true'
           Feature: 'New skin for Brightcove Players'
           Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Sapphire skin information added'
+          Link: https://apis.support.brightcove.com/player-management/guides/player-configuration-guide.html#configproperties
+          Product: Video Cloud
+          Product_area: Player Managment API
+          Product_Update: 'true'
+          Feature: 'New skin for Brightcove Players'
+          Status: Released
         - Title: 'Player Informational Properties'
           Description: 'New sapphire skin information added'
           Link: https://player.support.brightcove.com/troubleshooting/player-informational-properties.html
