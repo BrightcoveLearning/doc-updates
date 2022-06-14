@@ -28,6 +28,14 @@
           Product_Update: 'true'
           Feature: 'New skin for Brightcove Players'
           Status: Released
+        - Title: 'Player Informational Properties'
+          Description: 'New sapphire skin information added'
+          Link: https://player.support.brightcove.com/troubleshooting/player-informational-properties.html
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'New skin for Brightcove Players'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Social Syndication API'
