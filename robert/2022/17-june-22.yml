@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API: Cue Points and Ad Beacons with SSAI'
+          Description: 'Rollover feature to interpret cue points added within the last 10 minutes of a 24-hour period as scheduling breaks for the following 24-hour period.'
+          Link: https://apis.support.brightcove.com/live-api/ssai/live-api-cue-points-and-ad-beacons-ssai.html#Cue_points
+          Product: Live
+          Product_area: Live API - SSAI cue points
+          Product_Update: 'true'
+          Feature: 'Rollover for end of "day" cue points'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Dynamic Delivery Ingest Priority Queueing'
