@@ -20,6 +20,14 @@
           Product_Update: 'true'
           Feature: 'New skin update for Brightcove Players'
           Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Sapphire skin information added'
+          Link: https://player.support.brightcove.com/general/player-configuration-guide.html#configproperties
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'New skin for Brightcove Players'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Social Syndication API'
