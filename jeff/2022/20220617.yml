@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Managing Stripe Metadata'
+          Description: 'In this topic, you will learn how to manage the Stripe metadata for your Beacon app using the Stripe API.'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/managing-stripe-metadata.html 
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Major updates
       docs:
         - Title: ''
