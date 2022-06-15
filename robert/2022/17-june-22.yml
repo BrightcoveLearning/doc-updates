@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'TLS for Media, Player, and API URLs'
+          Description: 'Analytics, Data Collection, and Cross-Device Resume APIs added to list of APIs that will no longer support TLS 1.0/1 - this page already existed on https://studio.support.brightcove.com, but adding to to https://apis.support.brightcove.com for better visibility'
+          Link: https://apis.support.brightcove.com/general/tls-media-player-and-api-urls.html
+          Product: Video Cloud
+          Product_area: Platform APIs - Transport layer encryption
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Watermarks Settings'
@@ -17,6 +17,22 @@
           Link: https://zencoder.support.brightcove.com/encoding-settings/assets/encoding-settings-watermarks.html
           Product: Zencoder
           Product_area: Watermarks
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live API: Cue Points and Ad Beacons with SSAI'
+          Description: 'Rollover feature to interpret cue points added within the last 10 minutes of a 24-hour period as scheduling breaks for the following 24-hour period.'
+          Link: https://apis.support.brightcove.com/live-api/ssai/live-api-cue-points-and-ad-beacons-ssai.html#Cue_points
+          Product: Live
+          Product_area: Live API - SSAI cue points
+          Product_Update: 'true'
+          Feature: 'Rollover for end of "day" cue points'
+          Status: Released
+        - Title: 'TLS for Media, Player, and API URLs'
+          Description: 'Analytics, Data Collection, and Cross-Device Resume APIs added to list of APIs that will no longer support TLS 1.0/1.1'
+          Link: https://studio.support.brightcove.com/general/tls-media-player-and-api-urls.html
+          Product: Video Cloud
+          Product_area: Transport layer encryption
           Product_Update: 'false'
           Feature: ''
           Status: Released
