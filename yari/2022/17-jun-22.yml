@@ -1,15 +1,5 @@
 - date: 17-June-2022
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Skins and Player Versions'
@@ -25,24 +15,24 @@
           Link: https://player.support.brightcove.com/general/player-configuration-guide.html#configproperties
           Product: Brightcove Player
           Product_area: General
-          Product_Update: 'true'
-          Feature: 'New skin for Brightcove Players'
+          Product_Update: 'false'
+          Feature: ''
           Status: Released
         - Title: 'Player Configuration Guide'
           Description: 'Sapphire skin information added'
           Link: https://apis.support.brightcove.com/player-management/guides/player-configuration-guide.html#configproperties
           Product: Video Cloud
           Product_area: Player Managment API
-          Product_Update: 'true'
-          Feature: 'New skin for Brightcove Players'
+          Product_Update: 'false'
+          Feature: ''
           Status: Released
         - Title: 'Player Informational Properties'
           Description: 'New sapphire skin information added'
           Link: https://player.support.brightcove.com/troubleshooting/player-informational-properties.html
           Product: Brightcove Player
           Product_area: General
-          Product_Update: 'true'
-          Feature: 'New skin for Brightcove Players'
+          Product_Update: 'false'
+          Feature: ''
           Status: Released
         - Title: 'Overview: Brightcove Native SDK for Android'
           Description: 'Android SDK release 6.18.6'
@@ -75,6 +65,14 @@
           Link: https://apis.support.brightcove.com/social-syndication/getting-started/public-syndication-api-overview.html#Syndication_Resource
           Product: Video Cloud
           Product_area: Social Syndication API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using bc() and getPlayer() Methods'
+          Description: 'Note about bc() method added'
+          Link: https://player.support.brightcove.com/coding-topics/using-bc-and-getplayer-methods.html#bc_method_details
+          Product: Brightcove Player
+          Product_area: Coding Topics
           Product_Update: 'false'
           Feature: ''
           Status: Released
