@@ -2,9 +2,9 @@
   types:
     - type: New Docs
       docs:
-        - Title: 'Managing Stripe Metadata'
-          Description: 'In this topic, you will learn how to manage the Stripe metadata for your Beacon app using the Stripe API.'
-          Link: https://beacon-help.support.brightcove.com/monetization/general/managing-stripe-metadata.html 
+        - Title: 'Retrieving Subscription Info with Stripe Metadata'
+          Description: 'In this topic, you will learn how to retrieve subscription information associated with Stripe custom metadata using the Stripe API.'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/stripe-custom-metadata.html  
           Product: Beacon
           Product_area: Monetization
           Product_Update: 'false'
