@@ -1,0 +1,48 @@
+- date: 24-June-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Adobe-AEM-Brightcove Connector: Installation'
+          Description: 'Updated installation instructions for cloud-based AEM'
+          Link: https://integrations.support.brightcove.com/adobe/adobe-aem-brightcove-connector-installation.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for the Drupal CMS'
+          Description: 'Updated for version 3.1.0 with support for in-page experiences'
+          Link: https://integrations.support.brightcove.com/drupal/getting-started-brightcove-video-connect-drupal-cms.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'true'
+          Feature: 'Drupal connector for Video Cloud'
+          Status: Released
+        - Title: 'Drupal 9 - Brightcove Connector: Overview'
+          Description: 'Added link to documentation for use with Gallery'
+          Link: https://integrations.support.brightcove.com/drupal/drupal-9-brightcove-connector-overview.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'Drupal connector for Video Cloud'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'Added notes on EOL for older versions'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: ' false'
+          Feature: ''
+          Status: Released
