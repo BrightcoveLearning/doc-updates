@@ -36,6 +36,14 @@
           Product_Update: 'false'
           Feature: 'Drupal connector for Video Cloud'
           Status: Released
+        - Title: 'Brightcove Product Overview'
+          Description: 'Added Audience Insights and Brightcove Interactivity'
+          Link: https://general.support.brightcove.com/general/brightcove-product-overview.html
+          Product: Audience Insights
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
@@ -43,6 +51,6 @@
           Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
           Product: Video Cloud
           Product_area: Integrations
-          Product_Update: ' false'
+          Product_Update: 'false'
           Feature: ''
           Status: Released
