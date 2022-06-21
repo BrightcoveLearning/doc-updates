@@ -10,6 +10,22 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
+          Description: 'IBM Aspera is a popular solution for reliable high-speed file transfers. Brightcove offers a simple and flexible solution for adding videos and media assets to Video Cloud using Aspera. '
+          Link: https://apis.support.brightcove.com/aspera/overview.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'true'
+          Feature: 'Ingestion via Aspera'
+          Status: Released
+        - Title: 'Manifest/Metadata Reference for Ingestion via Aspera'
+          Description: 'IBM Aspera is a popular solution for reliable high-speed file transfers. Brightcove offers a simple and flexible solution for adding videos and media assets to Video Cloud using Aspera. '
+          Link: https://apis.support.brightcove.com/aspera/manifest-metadata-reference.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'false'
+          Feature: 'Ingestion via Aspera'
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Watermarks Settings'
