@@ -1,0 +1,32 @@
+- date: 24-June-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'The Native SDK for Android Release 7.0.0'
+          Description: 'In this topic, you will learn about the new functionality provided by the Brightcove Native SDK for Android version 7.0.0.'
+          Link: https://sdks.support.brightcove.com/android/framework/android-sdk-7-release.html 
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: 'Reducing Latency for Live Streams'
+          Description: 'Added player versions support for Low Latency HLS with live streams'
+          Link: https://apis.support.brightcove.com/live-api/guides/reducing-latency-live-streams.html 
+          Product: Live
+          Product_area: Low Latency HLS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Jump Start: Header Bidding Ad'
+          Description: 'Updated ima plugin to version 4 and prebid js URL'
+          Link: https://player.support.brightcove.com/advertising/jump-start-header-bidding-ad.html 
+          Product: Brightcove Player
+          Product_area: Advertising
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

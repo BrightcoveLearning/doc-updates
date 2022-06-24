@@ -1,0 +1,39 @@
+- date: 24-June-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Concepts: The JavaScript Module Design Pattern'
+          Description: 'Code Samples updated to reflect ES6 syntax'
+          Link: https://general.support.brightcove.com/developer/concepts-javascript-module-design-pattern.html#Using_JavaScript_variables
+          Product: Video Cloud
+          Product_area: General
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'CMS API: Video Search v2'
+          Description: 'Known issues section added with sort information'
+          Link: https://apis.support.brightcove.com/cms/searching/cms-and-playback-apis-video-search-v2.html
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Page Search Results'
+          Description: 'Known issues section added with sort information'
+          Link: https://apis.support.brightcove.com/cms/searching/using-cms-api-page-search-results.html
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'CMS/Playback API: Videos Search v1'
+          Description: 'Note about default sort value added'
+          Link: https://apis.support.brightcove.com/cms/searching/cmsplayback-api-videos-search.html#Known%20Issues
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
