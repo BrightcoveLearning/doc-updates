@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: 'The Native SDK for Android Release 7.0.0'
-          Description: 'In this topic, you will learn about the new functionality provided by the Brightcove Native SDK for Android version 7.0.0.'
-          Link: https://sdks.support.brightcove.com/android/framework/android-sdk-7-release.html 
-          Product: Device SDKs
-          Product_area: Native SDK for Android
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Reducing Latency for Live Streams'
