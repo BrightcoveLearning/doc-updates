@@ -20,6 +20,14 @@
           Product_Update: 'true'
           Feature: 'Implemenmtation od¿f Short Manifest TTL'
           Status: Released
+        - Title: 'Overview: Content Protection'
+          Description: 'Short Manifest TTL feature information added'
+          Link: https://apis.support.brightcove.com/cms/getting-started/best-practices-cms-and-playback-apis.html
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
