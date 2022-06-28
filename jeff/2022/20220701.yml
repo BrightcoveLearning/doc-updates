@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Code Snippets using the Native SDK for Android'
+          Description: 'Added Android code snippet for using in-manifest captions'
+          Link: https://sdks.support.brightcove.com/android/resources/code-snippets-using-native-sdk-android.html  
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
