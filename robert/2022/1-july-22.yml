@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Installation for Cloud AEM'
+          Description: 'Installation of the Brightcove connector 5.7 for the <strong>cloud version</strong> of the Adobe Experience Manager (AEM)'
+          Link: https://integrations.support.brightcove.com/adobe/adobe-aem-brightcove-connection-installation-cloud.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
