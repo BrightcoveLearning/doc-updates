@@ -28,4 +28,12 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Product Overview'
+          Description: 'URLs updated to redirect to the right place'
+          Link: https://general.support.brightcove.com/general/brightcove-product-overview.html
+          Product: Video Cloud
+          Product_area: General
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         
