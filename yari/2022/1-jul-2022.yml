@@ -1,15 +1,5 @@
 - date: 1-July-2022
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Overview: Content Protection'
@@ -30,11 +20,12 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Generic Stream Concurrency (GSC) with the Native SDK for Android'
+          Description: 'Note updated'
+          Link: https://sdks.support.brightcove.com/android/content-protection/generic-stream-concurrency-android.html
+          Product: Device SDKs
+          Product_area: Content Protection
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
