@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Media Sharing using the Media Module'
+          Description: 'Media sharing limitation about HLS enryption added'
+          Link: https://studio.support.brightcove.com/media/media-sharing-using-media-module.html#limitations
+          Product: Video Cloud
+          Product_area: Media
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
