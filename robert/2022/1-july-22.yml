@@ -10,6 +10,26 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Ingesting via an MRSS Feed'
+          Description: 'You can ingest videos and assets to Video Cloud using MRSS feed described in this article.'
+          Link: https://apis.support.brightcove.com/mrss-ingestion/getting-started/ingesting_from_a_remotely_hosted_mrss_feed.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'true'
+          Feature: 'Ingestion via MRSS feed'
+          Status: Limited Availability
+    - type: New Docs
+      docs:
+        - Title: 'XML Manifest for Ingestion via MRSS'
+          Description: 'This topic explains the structure of the XML used by MRSS ingestion to upload videos to Video Cloud.
+          Link: https://apis.support.brightcove.com/mrss-ingestion/getting-started/xml-manifest-for-ingestion-via-mrss.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'false'
+          Feature: ''
+          Status: Limited Availability
     - type: Major updates
       docs:
         - Title: ''
