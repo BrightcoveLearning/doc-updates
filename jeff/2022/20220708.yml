@@ -1,0 +1,32 @@
+- date: 8-July-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'The Native SDK for Android Release 7.0.1'
+          Description: 'In this topic, you will learn about the new functionality provided by the Brightcove Native SDK for Android version 7.0.1.'
+          Link: https://sdks.support.brightcove.com/android/framework/android-sdk-7-release.html 
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Known Issues: Brightcove Native Player SDKs'
+          Description: 'Added known issue when working with Android 12'
+          Link: https://sdks.support.brightcove.com/developer-support/questions/known-issues-brightcove-native-player-sdks.html
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
