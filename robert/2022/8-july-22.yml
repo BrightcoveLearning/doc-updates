@@ -9,7 +9,7 @@
           Product_area: CMS API
           Product_Update: 'false'
           Feature: ''
-          Status: Released
+          Status: Staging
         - Title: 'Ingesting via an MRSS Feed'
           Description: 'You can ingest videos and assets to Video Cloud using an MRSS feed '
           Link: https://apis.support.brightcove.com/mrss-ingestion/getting-started/ingesting_from_a_remotely_hosted_mrss_feed.html
@@ -35,7 +35,7 @@
           Product_area: Dynamic Ingest
           Product_Update: 'true'
           Feature: 'Auto Transcripts'
-          Status: Released
+          Status: Staging
         - Title: 'CMS API Reference'
           Description: 'Add transcript fields for video updates'
           Link: https://apis.support.brightcove.com/cms/references/reference.html
@@ -43,7 +43,7 @@
           Product_area: CMS API
           Product_Update: 'false'
           Feature: ''
-          Status: Released
+          Status: Staging
         - Title: 'CMS API Video Fields Reference'
           Description: 'Add transcript fields for video updates'
           Link: https://apis.support.brightcove.com/cms/references/cms-api-video-fields-reference.html
@@ -51,7 +51,7 @@
           Product_area: CMS API
           Product_Update: 'false'
           Feature: ''
-          Status: Released
+          Status: Staging
         - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
           Description: 'Added many details on usage'
           Link: https://apis.support.brightcove.com/aspera/overview.html
