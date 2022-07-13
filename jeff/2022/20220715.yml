@@ -3,7 +3,7 @@
     - type: New Docs
       docs:
         - Title: 'Controlling Viewer Access with Roles'
-          Description: 'In this topic, you will learn how to present content to viewers based on their assigned roles.'
+          Description: 'In this topic, you will learn how to present content to viewers based on their assigned roles. You will manage roles in your external VMS and the Brightcove Beacon CMS.'
           Link: https://beacon.support.brightcove.com/using-brightcove-beacon/roles-as-rights.html
           Product: Beacon
           Product_area: Roles as Rights
