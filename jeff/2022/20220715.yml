@@ -7,9 +7,9 @@
           Link: https://beacon.support.brightcove.com/using-brightcove-beacon/roles-as-rights.html
           Product: Beacon
           Product_area: Roles as Rights
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging
+          Product_Update: 'true'
+          Feature: 'Roles as Rights in Beacon CMS'
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Multi Language Audio with the Live Module'
