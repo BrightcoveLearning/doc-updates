@@ -12,16 +12,6 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: 'Multi Language Audio with the Live Module'
-          Description: 'Added a section for the Live control room that displays PID and Video PID'
-          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html#Viewing_live_event_info
-          Product: Live
-          Product_area: Multiple Language Audio
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-    - type: Minor updates
-      docs:
         - Title: ''
           Description: ''
           Link: 
@@ -30,3 +20,13 @@
           Product_Update: 'true | false'
           Feature: '(leave blank if Product_Update is false)'
           Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Player Content Restrictions'
+          Description: 'Limit on the number of domains note improved'
+          Link: https://studio.support.brightcove.com/players/configuring-player-content-restrictions.html
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
