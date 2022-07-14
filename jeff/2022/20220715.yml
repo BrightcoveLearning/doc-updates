@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating Series/Seasons/Episodes'
+          Description: 'Added roles field when adding series and seasons.'
+          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/series-seasons-episodes.html
+          Product: Beacon
+          Product_area: Roles as Rights
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
