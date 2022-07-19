@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Added link to iOS sample for rendering custom captions'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html#Samples   
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
