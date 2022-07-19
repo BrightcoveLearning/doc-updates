@@ -36,6 +36,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Common Configuration Settings'
+          Description: 'Updated screenshot and updated table with asset roles'
+          Link: https://beacon.support.brightcove.com/references/common-configuration-settings.html    
+          Product: Beacon
+          Product_area: Beacon CMS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
