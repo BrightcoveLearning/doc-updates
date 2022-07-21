@@ -22,11 +22,35 @@
       docs:
         - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
           Description: 'Major new features including working with in-page experiences and players in Sitecore, and support for multi-lingual variants for video metadata'
-          Link: 
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
           Product: Video Cloud
           Product_area: Sitecore Connector
           Product_Update: 'true'
           Feature: 'Players, Experiences, Multi-lingual Metadata'
+          Status: Released
+        - Title: 'Dynamic Ingest API: Best Practices'
+          Description: 'Added guidelines for migrating videos to Video Cloud and other mass ingestions'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/dynamic-ingest-api-best-practices.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
+          Description: 'Added guidelines for migrating videos to Video Cloud and other mass ingestions'
+          Link: https://apis.support.brightcove.com/aspera/overview.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Ingesting via an MRSS Feed'
+          Description: 'Added guidelines for migrating videos to Video Cloud and other mass ingestions'
+          Link: https://apis.support.brightcove.com/mrss-ingestion/getting-started/ingesting_from_a_remotely_hosted_mrss_feed.html
+          Product: Video Cloud
+          Product_area: Ingestion
+          Product_Update: 'false'
+          Feature: ''
           Status: Released
     - type: Minor updates
       docs:
