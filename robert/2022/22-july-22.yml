@@ -20,21 +20,37 @@
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
+        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'Major new features including working with in-page experiences and players in Sitecore, and support for multi-lingual variants for video metadata'
           Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+          Product: Video Cloud
+          Product_area: Sitecore Connector
+          Product_Update: 'true'
+          Feature: 'Players, Experiences, Multi-lingual Metadata'
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Live API Reference'
+          Description: 'Removed deprecated live_sliding_window_duration field'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: Live
+          Product_area: Live API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Dimensions, Fields, and Parameters'
+          Description: 'Added note that you can sort results on any field you are returning with the query'
+          Link: https://apis.support.brightcove.com/analytics/getting-started/analytics-api-overview-dimensions-fields-and-parameters.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Analytics API Reference'
+          Description: 'Added note that you can sort results on any field you are returning with the query'
+          Link: https://apis.support.brightcove.com/analytics/references/reference.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
