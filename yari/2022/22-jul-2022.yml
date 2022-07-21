@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Getting Started with Interactivity'
+          Description: 'Note about hapyak plugin added'
+          Link: https://studio.support.brightcove.com/interactivity/getting-started-interactivity.html#configure-player
+          Product: Brightcove Player
+          Product_area: Interactivity
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
