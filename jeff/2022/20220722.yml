@@ -1,0 +1,56 @@
+- date: 22-July-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Sending Push Notifications to Beacon App Viewers'
+          Description: 'Updated screenshots and added test notification'
+          Link: https://beacon-help.support.brightcove.com/registered-users/sending-push-notifications.html 
+          Product: Beacon
+          Product_area: Beacon apps
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Android: Source Selection'
+          Description: 'Updated Android source selection for setting HLS sources'
+          Link: https://sdks.support.brightcove.com/android/playback/android-source-selection.html  
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Added link to iOS sample for rendering custom captions'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html#Samples   
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Common Configuration Settings'
+          Description: 'Updated screenshot and updated table with asset roles'
+          Link: https://beacon.support.brightcove.com/references/common-configuration-settings.html    
+          Product: Beacon
+          Product_area: Beacon CMS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal

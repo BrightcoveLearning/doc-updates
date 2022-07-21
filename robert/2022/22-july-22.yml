@@ -2,14 +2,22 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: Image API'
+          Description: 'The Image API allows you to retrieve a resized, cropped, or rotated version of an image. Open to Beacon customers as well as Video Cloud.'
+          Link: https://apis.support.brightcove.com/images/getting-started/overview.html
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'true'
+          Feature: 'Image API'
+          Status: Released
+        - Title: 'Image API Reference'
+          Description: 'The Image API allows you to retrieve a resized, cropped, or rotated version of an image. Open to Beacon customers as well as Video Cloud.'
+          Link: https://apis.support.brightcove.com/images/references/reference.html
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
