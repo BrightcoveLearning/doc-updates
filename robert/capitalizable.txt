@@ -1,4 +1,4 @@
-Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during June:
+Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month:
 Beacon
 CorpTV
 Virtual Events
@@ -6,5 +6,28 @@ Studio redesign/marketing studio
 Live DRM
 Live scalability and low latency
 Audience Insights
-Hapyak
+Hapyak/Brightcove Interactivity
+
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
+
+
+August:
+Yari:
+Beacon - 5%
+CorpTV - 0 %
+Virtual Events - 0%
+Studio redesign/marketing studio - 5%
+Live DRM - 0 %
+Live scalability and low latency - 0%
+Audience Insights - 40%
+Hapyak/Brightcove Interactivity - 20%
+Me:
+Beacon - 10%
+CorpTV - 0 %
+Virtual Events - 0%
+Studio redesign/marketing studio - 0%
+Live DRM - 0 %
+Live scalability and low latency - 0%
+Audience Insights - 20%
+Hapyak/Brightcove Interactivity - 10%
+
