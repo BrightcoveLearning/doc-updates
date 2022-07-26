@@ -6,10 +6,18 @@
           Description: 'In this topic, you will learn how to create a TVOD monetization package.'
           Link: https://beacon.support.brightcove.com/monetization/general/implementing-tvod.html 
           Product: Beacon
-          Product_area: 
+          Product_area: Monetization
           Product_Update: 'false'
           Feature: ''
           Status: Staging
+        - Title: 'Creating Audio-Only Live Events'
+          Description: 'In this topic, you will learn how to create audio-only live streams.'
+          Link: https://live.support.brightcove.com/live-module/audio-only-live-events.html 
+          Product: Live
+          Product_area: Audio only
+          Product_Update: 'true'
+          Feature: 'Audio-only live streams'
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
