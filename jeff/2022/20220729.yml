@@ -20,14 +20,14 @@
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Beacon Store Webhook Reference'
+          Description: 'Updated for version 1.0.3 of the webhook API'
+          Link: https://beacon.support.brightcove.com/beacon-web-store/beacon-store-webhook-reference.html 
+          Product: Beacon
+          Product_area: Beacon Store
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
