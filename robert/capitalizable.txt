@@ -11,7 +11,7 @@ Hapyak/Brightcove Interactivity
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
 
 
-August:
+July:
 Yari:
 Beacon - 5%
 CorpTV - 0 %
@@ -31,3 +31,7 @@ Live scalability and low latency - 0%
 Audience Insights - 20%
 Hapyak/Brightcove Interactivity - 10%
 
+Bob:
+Virtual Events 10%
+Studio redesign/marketing studio 15%
+Hapyak/Brightcove Interactivity 45% (edited) 
