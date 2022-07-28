@@ -38,6 +38,14 @@
           Status: Released
     - type: Minor updates
       docs:
+        - Title: 'Overview: Brightcove Playback Restrictions'
+          Description: 'Added note that Forensic Watermarking is not supported with License Keys Protection'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/overview-playback-restrictions.html#License_Keys_Protection   
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         - Title: ''
           Description: ''
           Link: 
