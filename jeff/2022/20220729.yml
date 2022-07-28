@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'New fields added to the application_ad_configuration'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#tag/SSAI/operation/CreateAdConfiguration  
+          Product: Live
+          Product_area: SSAI
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
