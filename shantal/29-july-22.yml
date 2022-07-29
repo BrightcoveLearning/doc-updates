@@ -1,0 +1,28 @@
+- date: 29-July-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Developer Tools'
+          Description: 'Developer Tools section added'
+          Link: https://apis.support.brightcove.com/general/developer-tools/index.html
+          Product: Video Cloud
+          Product_area:  General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Features'
+          Description: 'Features section added'
+          Link: https://apis.support.brightcove.com/general/features/index.html
+          Product: Video Cloud
+          Product_area:  General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'General'
+          Description: 'General section added'
+          Link: https://player.support.brightcove.com/coding-topics/general/index.html
+          Product: Player
+          Product_area: Coding topics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
