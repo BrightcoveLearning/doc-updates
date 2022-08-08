@@ -1,0 +1,30 @@
+- date: 5-August-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Using MTR (my traceroute)'
+          Description: 'Using MTR (my traceroute) section added'
+          Link: https://live.support.brightcove.com/general/using-mtr-to-look-at-network-traffic.html
+          Product: Live
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Adding Interactive Chapters to a Video'
+          Description: 'Adding Interactive Chapters to a Video section added'
+          Link: https://interactivity.support.brightcove.com/annotations/adding-chapters-video.html
+          Product: Interactivity
+          Product_area: Annotations
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Adding Interactive Chapters to a Video'
+          Description: 'Updates of links Brightcove Interactivity vs HapYak'
+          Link: https://studio.support.brightcove.com/interactivity/adding-chapters-video.html
+          Product: Video Cloud
+          Product_area:  Interactivity
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
