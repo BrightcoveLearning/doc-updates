@@ -1,0 +1,40 @@
+- date: 5-August-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove Interactivity Javascript Embed API'
+          Description: 'Migrated and updated from old HapYak docs'
+          Link: https://interactivity.support.brightcove.com/developers/embed-api/reference.html
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Dimension: viewer'
+          Description: 'Added sample code for sending the viewer id to the analytics data collector.'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Concurrency Service API'
+          Description: 'Added missing path for deleting a session.'
+          Link: https://apis.support.brightcove.com/playback-restrictions/references/concurrency-service-api/reference.html
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
