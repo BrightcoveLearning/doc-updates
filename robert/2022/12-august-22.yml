@@ -5,11 +5,43 @@
         - Title: 'Brightcove Interactivity Javascript Embed API'
           Description: 'Migrated and updated from old HapYak docs'
           Link: https://interactivity.support.brightcove.com/developers/embed-api/reference.html
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+          Product: Brightcove Interactivity
+          Product_area: APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Annotations Client CRUD API'
+          Description: 'Migrated and updated from old HapYak docs'
+          Link: https://interactivity.support.brightcove.com/developers/annotation-api/reference.html
+          Product: Brightcove Interactivity
+          Product_area: APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Interactivity Extension API'
+          Description: 'Migrated and updated from old HapYak docs'
+          Link: https://interactivity.support.brightcove.com/developers/extension-api/reference.html
+          Product: Brightcove Interactivity
+          Product_area: APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Interactivity Responsive API'
+          Description: 'Migrated and updated from old HapYak docs'
+          Link: https://interactivity.support.brightcove.com/developers/responsive-api/reference.html
+          Product: Brightcove Interactivity
+          Product_area: APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Interactivity Addon API'
+          Description: 'Migrated and updated from old HapYak docs'
+          Link: https://interactivity.support.brightcove.com/developers/addon-api/reference.html
+          Product: Brightcove Interactivity
+          Product_area: APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Dimension: viewer'
