@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating Video Cloud Custom Fields'
+          Description: 'Custom fields images updated'
+          Link: https://beacon.support.brightcove.com/syncing-with-video-cloud/vc-custom-fields.html
+          Product: Beacon
+          Product_area: Custom Fields
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
