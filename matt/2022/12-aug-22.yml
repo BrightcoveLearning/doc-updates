@@ -1,0 +1,12 @@
+- date: 12-August-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Beacon Demo Apps Access'
+          Description: 'In this topic, you will learn how to access demo apps that have been setup for testing.'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/general/demo-apps-access.html
+          Product: Beacon
+          Product_area: Apps
+          Product_Update: 'true'
+          Feature: 'Demo apps for customer testing'
+          Status: Released
