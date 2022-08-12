@@ -1,0 +1,20 @@
+- date: 12-August-2022
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Ad Keys metadata variable description updated'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Metadata_variables
+          Product: SSAI
+          Product_area: SSAI API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Video Cloud Custom Fields'
+          Description: 'Custom fields images updated'
+          Link: https://beacon.support.brightcove.com/syncing-with-video-cloud/vc-custom-fields.html
+          Product: Beacon
+          Product_area: Custom Fields
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
