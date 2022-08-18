@@ -10,21 +10,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Staging
-    - type: Major updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Using TVOD Plans'
+          Description: 'In this topic, you will learn how to assign a TVOD monetization package to media content.'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/using-tvod-plan.html   
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
-        - Title: 'Implementing TVOD'
-          Description: 'Added not that web is currently the only device to publish supported for TVOD'
-          Link: https://beacon.support.brightcove.com/monetization/general/implementing-tvod.html 
+        - Title: 'Creating TVOD Plans'
+          Description: 'Added note that web is currently the only device to publish supported for TVOD'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/creating-tvod-plan.html  
           Product: Beacon
           Product_area: Monetization
           Product_Update: 'false'
