@@ -12,14 +12,38 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Unique Users'
+          Description: 'Added information on how to send a viewer id to the analytics data collector (most useful in cases where there are logged in, registered, or otherwise identifiable users).'
+          Link: https://apis.support.brightcove.com/analytics/general/analytics-api-unique-users.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dimension: viewer'
+          Description: 'Added information on how to send a viewer id to the analytics data collector (most useful in cases where there are logged in, registered, or otherwise identifiable users).'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove University Training Courses'
+          Description: 'Updated page to reflect the current course catalog.'
+          Link: https://studio.support.brightcove.com/get-started/training/brightcove-university.html
+          Product: Video Cloud
+          Product_area: General training
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Documentation Updates'
+          Description: 'Modified the page to flag updates that reflect new feature releases.'
+          Link: https://support.brightcove.com/doc-updates.html
+          Product: All
+          Product_area: Doc and Product Updates
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
