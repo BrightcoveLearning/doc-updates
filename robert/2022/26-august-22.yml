@@ -54,3 +54,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: How to Find More Happy Customers with Twitter Lookalike Campaigns'
+          Description: 'Corrected references to Google that should have been to Twitter.'
+          Link: https://audience-insights.support.brightcove.com/use-cases/acquisition/how_to_find_more_happy_customers_with_tw.html
+          Product: Audience Insights
+          Product_area: Customers
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
