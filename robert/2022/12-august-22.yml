@@ -1,4 +1,4 @@
-- date: 5-August-2022
+- date: 12-August-2022
   types:
     - type: New Docs
       docs:
@@ -60,13 +60,3 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    - type: Minor updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal

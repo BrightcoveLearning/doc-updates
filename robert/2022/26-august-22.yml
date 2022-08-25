@@ -1,0 +1,64 @@
+- date: 26-August-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Unique Users'
+          Description: 'Added information on how to send a viewer id to the analytics data collector (most useful in cases where there are logged in, registered, or otherwise identifiable users).'
+          Link: https://apis.support.brightcove.com/analytics/general/analytics-api-unique-users.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dimension: viewer'
+          Description: 'Added information on how to send a viewer id to the analytics data collector (most useful in cases where there are logged in, registered, or otherwise identifiable users).'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove University Training Courses'
+          Description: 'Updated page to reflect the current course catalog.'
+          Link: https://studio.support.brightcove.com/get-started/training/brightcove-university.html
+          Product: Video Cloud
+          Product_area: General training
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Documentation Updates'
+          Description: 'Modified the page to flag updates that reflect new feature releases.'
+          Link: https://support.brightcove.com/doc-updates.html
+          Product: All
+          Product_area: Doc and Product Updates
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Migration of Static Videos to Dynamic Delivery'
+          Description: 'Added note indicating that the Billing module may show a spike in managed content during the migration, but the spike will not be reflected in actual billing.'
+          Link: https://studio.support.brightcove.com/general/migration-dynamic-delivery.html
+          Product: Video Cloud
+          Product_area: Managed Content, Billing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: How to Find More Happy Customers with Twitter Lookalike Campaigns'
+          Description: 'Corrected references to Google that should have been to Twitter.'
+          Link: https://audience-insights.support.brightcove.com/use-cases/acquisition/how_to_find_more_happy_customers_with_tw.html
+          Product: Audience Insights
+          Product_area: Customers
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
