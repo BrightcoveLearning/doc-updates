@@ -16,25 +16,15 @@
           Product: Beacon
           Product_area: Monetization
           Product_Update: 'true'
-          Feature: 'Using TVOD plans in Beacon Studio and Beacon Classic'
+          Feature: 'Assigning TVOD plans in Beacon Studio and Beacon Classic'
           Status: Released
-    - type: Major updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Creating and Managing Rule Sets'
+          Description: 'Added TVOD as a monetization availability option'
+          Link: https://beacon-help.support.brightcove.com/media/creating-managing-rule-sets.html 
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
