@@ -22,11 +22,19 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Supported browsers table updated'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: References
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Note about chrome mobile for IOS added'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: References
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
