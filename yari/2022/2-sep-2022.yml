@@ -1,4 +1,4 @@
-- date: 3-September-2022
+- date: 2-September-2022
   types:
     - type: Minor updates
       docs:
@@ -27,18 +27,18 @@
           Feature: ''
           Status: Released
         - Title: 'Code Snippets using the Native SDK for iOS'
-          Description: 'Note about  preserve videos from another vendor added'
+          Description: 'Information note added to the desription.'
           Link: https://sdks.support.brightcove.com/ios/resources/code-snippets-using-native-sdk-ios.html
-          Product: Brightcove Player
-          Product_area: References
+          Product: Device SDKs
+          Product_area: Resources
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Code Snippets using the Native SDK for iOS'
-          Description: 'Informastion note added to the desription.'
-          Link: https://sdks.support.brightcove.com/ios/resources/code-snippets-using-native-sdk-ios.html
-          Product: Brightcove Player
-          Product_area: References
+        - Title: 'Setting the Player Update Mode and Version'
+          Description: 'Note about managed release added.'
+          Link: https://studio.support.brightcove.com/players/setting-player-update-mode-and-version.html#managed
+          Product: Video Cloud
+          Product_area: Brightcove Player
           Product_Update: 'false'
           Feature: ''
           Status: Released
