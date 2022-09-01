@@ -26,40 +26,24 @@
           Product_Update: 'true'
           Feature: 'SEO and search across platforms'
           Status: Released
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Using View All Pages'
+          Description: 'In this topic, you will learn how to create, delete and edit default and custom view all pages. A view all page is used when the number of videos in a carousel meets a maximum threshold. When the threshold is exceeded, a View All link is displayed and when the link is clicked by the customer a new page appears displaying all videos, for instance in a grid.'
+          Link: https://beacon-help.support.brightcove.com/layout/using-view-all.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'Using secondary pages as view all pages'
+          Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Using an SVOD Plan'
+          Description: 'Document now shows how SVOD looks in the actual web app'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/using-svod-plan.html#How_TVODSVOD_appear_in_the_apps
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
