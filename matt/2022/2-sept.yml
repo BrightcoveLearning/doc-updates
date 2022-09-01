@@ -34,6 +34,15 @@
           Product_Update: 'true'
           Feature: 'Using secondary pages as view all pages'
           Status: Released
+        - Title: 'Bumper Videos'
+          Description: 'In this topic, you will learn how to implement bumper videos, that is videos that play before the main content video.'
+          Link: https://player.support.brightcove.com/playback/bumper-videos.html
+          Product: Brightcove Player
+          Product_area: Playback
+          Product_Update: 'true'
+          Feature: 'Add a bumper before content video playback'
+          Status: Released
+          
     - type: Major updates
       docs:
         - Title: 'Using an SVOD Plan'
@@ -44,6 +53,7 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+          
     - type: Minor updates
       docs:
         - Title: ''
