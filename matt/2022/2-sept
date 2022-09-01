@@ -1,0 +1,72 @@
+- date: 2-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Adding Pages to Playlists'
+          Description: 'In this topic, you will learn how to create secondary pages and add them to playlists. This gives you the option to have an asset in a playlist that when clicked shows a new page.'
+          Link: https://beacon-help.support.brightcove.com/layout/adding-pages-to-playlists.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'Pages as playlist assets'
+          Status: Released
+        - Title: 'Managing Secondary Pages'
+          Description: 'In this topic, you will learn how to create, delete and edit secondary pages.'
+          Link: https://beacon-help.support.brightcove.com/layout/managing-secondary-pages.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'Basics of secondary pages'
+          Status: Released
+        - Title: 'OTT Catalog Export'
+          Description: 'In this topic, you will learn how to use templates and jobs to generate data reports needed for various platforms' search implementations.'
+          Link: https://beacon-help.support.brightcove.com/layout/ott-catalog-export.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'SEO and search across platforms'
+          Status: Released
+        - Title: ''
+          Description: ''
+          Link:
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area:
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+        - Title: ''
+          Description: ''
+          Link:
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area:
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+        - Title: ''
+          Description: ''
+          Link:
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area:
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
