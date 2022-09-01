@@ -1,0 +1,32 @@
+- date: 2-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Controlling Viewer Access with Roles in Studio'
+          Description: 'In this topic, you will learn how to present content to viewers based on their assigned roles. You will manage roles in your external VMS and Brightcove Beacon Studio'
+          Link: 
+          Product: Beacon
+          Product_area: Roles as rights
+          Product_Update: 'true'
+          Feature: 'Roles as rights in Beacon Studio'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
