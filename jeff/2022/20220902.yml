@@ -6,9 +6,9 @@
           Description: 'In this topic, you will learn how to present content to viewers based on their assigned roles. You will manage roles in your external VMS and Brightcove Beacon Studio'
           Link: 
           Product: Beacon
-          Product_area: Roles as rights
+          Product_area: Role-Based Access Control
           Product_Update: 'true'
-          Feature: 'Roles as rights in Beacon Studio'
+          Feature: 'Role-Based Access Control in Beacon Studio'
           Status: Released
     - type: Major updates
       docs:
