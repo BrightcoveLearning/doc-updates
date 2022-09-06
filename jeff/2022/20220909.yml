@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Installing a Test Build for LG (webOS)'
+          Description: 'In this topic, you will learn how to install test builds of the Brightcove Beacon app for LG using webOS.'
+          Link: https://beacon.support.brightcove.com/publishing-apps/lg/installing-lg-webos-test-build.html 
+          Product: Beacon
+          Product_area: Beacon apps
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: ''
