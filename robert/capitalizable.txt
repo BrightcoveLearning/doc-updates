@@ -12,6 +12,43 @@ Total should be 70% or less. You can respond here or send me an email, whichever
 
 August
 
+Matthew Boles
+Beacon 50%
+CorpTV 5%
+Rest are 0%
+
+
+Jeff Doktor
+Beacon - 50%
+CorpTV - 0
+Virtual Events - 0
+Studio redesign/marketing studio - 0
+Live DRM - 0
+Live scalability and low latency - 5%
+Audience Insights - 0
+Hapyak/Brightcove Interactivity - 0
+
+
+Shantal Ahumada
+Beacon - 0
+CorpTV - 0
+Virtual Events - 0
+Studio redesign/marketing studio - 25%
+Live DRM - 0
+Live scalability and low latency - 0%
+Audience Insights - 0
+Hapyak/Brightcove Interactivity - 45%
+
+Yari
+Beacon - 15%
+CorpTV - 0%
+Virtual Events - 0%
+Studio redesign/marketing studio - 5%
+Live DRM - 0%
+Live scalability and low latency - 0%
+Audience Insights - 30%
+Hapyak/Brightcove Interactivity - 20%
+
 
 July:
 Yari:
