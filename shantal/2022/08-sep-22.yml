@@ -1,0 +1,56 @@
+- date: 06-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Live | Beacon | SSAI | Zencoder
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Interactivity section added'
+          Description: 'Interactivity section added to Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/interactivity/index.html
+          Product: Video Cloud 
+          Product_area: 
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Interactivity section added'
+          Description: 'Interactivity section added to Beacon'
+          Link: https://beacon-help.support.brightcove.com/interactivity/index.html
+          Product: Beacon
+          Product_area: 
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'New FAQ'
+          Description: 'Updated page to use new FAQ style'
+          Link: https://player.support.brightcove.com/advertising/guide-ad-partner-integration.html#FAQ
+          Product: Brightcove Player
+          Product_area: Advertising
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released 
+        - Title: 'New FAQ'
+          Description: 'Updated page to use new FAQ style'
+          Link: https://gallery.support.brightcove.com/settings/securing-portal-experience-ssl.html#faq
+          Product: Gallery
+          Product_area: Gallery settings
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'New FAQ'
+          Description: 'Updated Video Cloud pages to use the new FAQ style.'
+          Link: https://studio.support.brightcove.com/index.html
+          Product: Video Cloud
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
