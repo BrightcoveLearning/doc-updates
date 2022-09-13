@@ -78,3 +78,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Fields for Custom Live Ingest Profiles'
+          Description: 'Added a note to clarify that these ingest profiles are for the live stream itself, not VOD clips.'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/fields-custom-live-ingest-profiles.html
+          Product: Live
+          Product_area: Ingest profiles for the live stream
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
