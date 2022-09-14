@@ -46,11 +46,19 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Video Fields Reference'
+          Description: 'Added values for the text track kind field from the Playback API'
+          Link: https://apis.support.brightcove.com/playback/references/playback-api-video-fields-reference.html#text_track_Object 
+          Product: Video Cloud
+          Product_area: Playback API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Text Tracks Using the CMS API'
+          Description: 'Removed transcript as a valid kind value for text tracks'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/managing-text-tracks.html 
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
