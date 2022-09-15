@@ -103,3 +103,12 @@
           Feature: ''
           Status: Released
 
+        - Title: 'Reviewing Analytics'
+          Description: 'Added a note to explain that analytics only gathers data from Brightcove players and will not reflect activity on OTT apps where other players are used.'
+          Link: https://beacon-help.support.brightcove.com/analytics/index.html
+          Product: Beacon
+          Product_area: Ingest profiles for the live stream
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
