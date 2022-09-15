@@ -62,3 +62,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Step-by-Step: Brightcove Player Debugger'
+          Description: 'Fixed BC Player Debugger to play without IMA ads, and added note'
+          Link: https://player.support.brightcove.com/troubleshooting/step-step-brightcove-player-debugger.html  
+          Product: Brightcove Player
+          Product_area: Troubleshooting
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
