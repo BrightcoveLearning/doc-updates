@@ -70,3 +70,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Implementing Server-Side Ads with Brightcove Player'
+          Description: 'Added note for live SSAI, and moved these into their own section'
+          Link: https://player.support.brightcove.com/plugins/implementing-server-side-ads-brightcove-player.html   
+          Product: Brightcove Player
+          Product_area: SSAI
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
