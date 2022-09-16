@@ -1,0 +1,42 @@
+- date: 16-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Checking for Ad Blockers'
+          Description: 'In this topic, you will learn how to check if an ad blocker is in use.'
+          Link: https://player.support.brightcove.com/advertising/checking-for-ad-blockers.html
+          Product: Brightcove Player
+          Product_area: Advertising
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
+    - type: Major updates
+      docs:
+        - Title: 'Using Page Layouts'
+          Description: 'Added new page layout Redirect'
+          Link: https://beacon-help.support.brightcove.com/layout/using-page-layouts.html#Redirect_link
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'Page layout redirects to web page'
+          Status: Released
+        - Title: 'Brightcove Player Sample: Play Video at End of Playlist'
+          Description: 'Updated as old version no longe working'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-play-video-end-playlist.html
+          Product: Brightcove Player
+          Product_area: Code Samples
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
+    - type: Minor updates
+      docs:
+        - Title: 'Adding Pages to Playlists'
+          Description: 'Added content and screenshot detailing that main pages can also be added to playlists'
+          Link: https://beacon-help.support.brightcove.com/layout/adding-pages-to-playlists.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
