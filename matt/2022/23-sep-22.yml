@@ -1,0 +1,34 @@
+- date: 23-September-2022
+  types:
+    - type: New Docs
+      docs:
+    NONE - New pages for in-app help, but can't link to them in a way that makes sense
+
+    - type: Major updates
+      docs:
+        - Title: 'Configuring Page Availability'
+          Description: 'Added roles based page viewer management. All Layout module docs now include roles information.'
+          Link: https://beacon-help.support.brightcove.com/layout/configuring-page-availability.html#Configuring_role_restrictions
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Sample: Popular Videos Playlist'
+          Description: 'Bug in currently released player caused this sample to fail. Upgraded to latest preview player and all is good.'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-popular-videos-playlist.html
+          Product: Brightcove Player
+          Product_area: Code Samples
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'How To: Create a Page'
+          Description: 'Added the selection of MAIN or SECONDARY page in page creation process'
+          Link: https://beacon-help.support.brightcove.com/get-started/basics/layout/creating-page.html
+          Product: Beacon
+          Product_area: Basics -> Create a Page
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
