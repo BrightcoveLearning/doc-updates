@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
-          Description: 'Posted information about releases 10.1.2 and 10.1.3'
-          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
-          Product: Video Cloud
-          Product_area: Integrations
-          Product_Update: 'true'
-          Feature: 'Sitecore Connector'
-          Status: Released
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
         - Title: 'CMS API Video Fields Reference'
