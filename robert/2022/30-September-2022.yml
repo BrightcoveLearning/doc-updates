@@ -31,7 +31,7 @@
     - type: Minor updates
       docs:
         - Title: 'Overview: Data Collection API'
-          Description: 'Notes that video_duration must be sent for VOD and must not be sent for Live'
+          Description: 'Indicate the requests that must include video duration'
           Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html#VOD_and_Live_Events
           Product: Video Cloud
           Product_area: Analytics, Data Collection
