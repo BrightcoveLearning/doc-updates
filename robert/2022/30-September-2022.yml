@@ -20,6 +20,14 @@
           Product_Update: 'true'
           Feature: 'New passphrase field for SRT captions'
           Status: Released
+        - Title: 'CMS API Reference'
+          Description: 'New endpoint for deleting an image of any kind. Also removed deprecated endpoints for deleting poster and thumbnail'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html#tag/Videos/operation/DeleteVideoImage
+          Product: Video Cloud
+          Product_area: APIs 
+          Product_Update: 'true'
+          Feature: 'CMS API - delete image'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Data Collection API'
