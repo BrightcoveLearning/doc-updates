@@ -1,0 +1,40 @@
+- date: 30-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: China Delivery'
+          Description: 'Android will support China Delivery at a later date'
+          Link: https://studio.support.brightcove.com/general/china-delivery-overview.html 
+          Product: Video Cloud
+          Product_area: China Delivery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'China Delivery with the Native SDKs'
+          Description: 'Android will support China Delivery at a later date'
+          Link: https://sdks.support.brightcove.com/features/china-delivery-sdks.html 
+          Product: Video Cloud
+          Product_area: China Delivery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
