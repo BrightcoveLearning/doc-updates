@@ -46,3 +46,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Ingest Profiles Fields Reference'
+          Description: 'Fixed incorrect field name'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/ingest-profiles-api-fields-reference-dynamic-delivery-and-context-aware-encoding.html
+          Product: Video Cloud
+          Product_area: Ingest Profiles API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
