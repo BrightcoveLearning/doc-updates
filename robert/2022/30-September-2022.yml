@@ -46,3 +46,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Dolby Atmos Audio'
+          Description: 'Added note on support for Dolby Atmos on Android (via the Andriod SDK)'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/dolby-atmos-audio.html#limitations
+          Product: Video Cloud
+          Product_area: Ingest Profiles API, Android SDK
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
