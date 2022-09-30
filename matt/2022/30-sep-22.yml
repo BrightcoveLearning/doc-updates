@@ -1,0 +1,18 @@
+- date: 30-September-2022
+  types:
+    - type: New Docs
+NONE
+
+    - type: Major updates
+      docs:
+        - Title: 'Using Page Layouts'
+          Description: 'Update that redirect page layout works with web, iOS and Android'
+          Link: https://beacon-help.support.brightcove.com/layout/using-page-layouts.html#Redirect_link
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'true'
+          Feature: 'Redirect Page Layout'
+          Status: Released
+
+    - type: Minor updates
+NONE
