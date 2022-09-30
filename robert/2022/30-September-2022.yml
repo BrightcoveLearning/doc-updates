@@ -28,6 +28,14 @@
           Product_Update: 'true'
           Feature: 'CMS API - delete image'
           Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'Added info on the 6.0.1 release of the connector'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Video Cloud
+          Product_area: Integrations 
+          Product_Update: 'true'
+          Feature: 'New version of AEM connector'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Data Collection API'
