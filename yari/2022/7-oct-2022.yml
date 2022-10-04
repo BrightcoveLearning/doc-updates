@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Social Sharing Plugin'
+          Description: 'Note about the Direct Link URL added'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
