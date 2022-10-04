@@ -7,19 +7,19 @@
           Link: https://studio.support.brightcove.com/players/v5-players-support.html
           Product: Video Cloud
           Product_area: Managing Players
-          Product_Update: 'false'
-          Feature: ''
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 5 support'
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Viewing the Brightcove System Status Page'
+          Description: 'Components section added'
+          Link: https://general.support.brightcove.com/support/viewing-brightcove-system-status-page.html
+          Product: Video Cloud
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Update Player Version'
