@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: 'CMS API'
           Status: Released
+        - Title: 'CMS API Playlist Fields Reference'
+          Description: 'Added "state" field for playlists (EXPLICIT/manual only)'
+          Link: https://apis.support.brightcove.com/cms/references/cms-api-playlist-fields-reference.html
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'false'
+          Feature: 'CMS API'
+          Status: Released
