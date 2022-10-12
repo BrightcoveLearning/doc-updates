@@ -1,0 +1,48 @@
+- date: 14-October-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Update Player Version'
+          Description: 'Note about V5 players updated'
+          Link: https://apis.support.brightcove.com/player-management/code-samples/player-managment-api-update-player-version.html#Introduction
+          Product: Video Cloud
+          Product_area: Player Management API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Players'
+          Description: 'Note about V5 players added'
+          Link: https://studio.support.brightcove.com/players/index.html
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Support for Brightcove Player 5'
+          Description: 'Information about V5 players updated'
+          Link: https://studio.support.brightcove.com/players/v5-players-support.html
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
