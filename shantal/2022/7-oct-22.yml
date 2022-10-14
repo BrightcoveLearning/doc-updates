@@ -1,0 +1,12 @@
+- date: 7-October-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Using Content Layouts'
+          Description: 'Different content layouts for use with videos and episodes.'
+          Link: https://beacon-help.support.brightcove.com/layout/using-content-layouts.html
+          Product: Beacon 
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
