@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights
-          Product_area: 
+        - Title: 'Creating a Cloud Playout Channel'
+          Description: 'Fixed a note regarding timezones'
+          Link: https://studio.support.brightcove.com/cloud-playout/cloud-playout-stream-vod.html
+          Product: Video Cloud
+          Product_area: Studio
           Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+          Feature: 'Cloud Playout'
+          Status: Released
