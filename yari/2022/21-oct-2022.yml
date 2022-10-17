@@ -1,0 +1,40 @@
+- date: 14-October-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player Sample: Dynamically Change Source Videos'
+          Description: 'Player example fixed'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-dynamically-change-source-videos.html
+          Product: Brightcove Player
+          Product_area: Source videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pages to Playlists'
+          Description: 'Known issues and limitations section added'
+          Link: https://beacon-help.support.brightcove.com/layout/adding-pages-to-playlists.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
