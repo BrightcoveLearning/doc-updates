@@ -1,0 +1,12 @@
+- date: 21-October-2022
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Add a note for Age ratings'
+          Description: ''
+          Link: https://beacon-help.support.brightcove.com/media/editing-video-properties-using-media-module.html#videotype
+          Product: Beacon 
+          Product_area:  Managing Media
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
