@@ -103,6 +103,25 @@ Live scalability and low latency 0
 Audience Insights 0
 Hapyak/Brightcove Interactivity 0
 
+Oct
+
+Jeff:
+Beacon - 40%
+CorpTV - 0
+Virtual Events - 0
+Studio redesign/marketing studio - 0
+Live DRM - 0
+Live scalability and low latency - 0
+Audience Insights - 0
+Hapyak/Brightcove Interactivity - 
+
+Bob:
+Studio redesign/marketing studio - 50%
+Hapyak/Brightcove Interactivity - 5%
+
+Matt:
+Beacon 45%
+
 
 
 
