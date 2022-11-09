@@ -62,3 +62,27 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Controlling Viewer Access with Roles'
+          Description: 'Changed feature name from Roles As Rights to Secure Experiences'
+          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/roles-as-rights.html  
+          Product: Beacon
+          Product_area: Viewer access
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Controlling Viewer Access with Roles in Studio'
+          Description: 'Changed feature name from Roles As Rights to Secure Experiences'
+          Link: https://beacon-help.support.brightcove.com/registered-users/roles-as-rights-studio.html  
+          Product: Beacon
+          Product_area: Viewer access
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content Security (DRM) with the Native SDKs'
+          Description: 'Added note that FairPlay content cannot be tested in a simulator'
+          Link: https://sdks.support.brightcove.com/features/content-security-drm-native-player-sdks.html  
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
