@@ -78,3 +78,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Content Security (DRM) with the Native SDKs'
+          Description: 'Added note that FairPlay content cannot be tested in a simulator'
+          Link: https://sdks.support.brightcove.com/features/content-security-drm-native-player-sdks.html  
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
