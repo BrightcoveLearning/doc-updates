@@ -17,16 +17,16 @@
           Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
           Product: Brightcove Player
           Product_area: Plugins
-          Product_Update: 'true | false'
+          Product_Update: 'false'
           Feature: ''
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Implementing AuthVOD'
+          Description: 'Image updated based on UI changes'
+          Link: https://beacon.support.brightcove.com/monetization/general/implementing-authvod.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: 'Beacon Classic UI update'
+          Status: Released
