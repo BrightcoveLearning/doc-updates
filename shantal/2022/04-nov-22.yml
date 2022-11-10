@@ -1,0 +1,12 @@
+- date: 4-November-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Managing Viewer Authentication'
+          Description: 'Learn about managing viewer authentication credentials.'
+          Link: https://beacon-help.support.brightcove.com/admin/managing-viewer-authentication.html
+          Product: Beacon 
+          Product_area: 
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging 
