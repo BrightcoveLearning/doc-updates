@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Step-by-Step: Simple Video App using Swift'
+          Description: 'Updated images and steps for latest version of Xcode'
+          Link: https://sdks.support.brightcove.com/ios/basics/step-step-simple-video-app-using-swift.html 
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
