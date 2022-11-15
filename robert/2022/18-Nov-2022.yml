@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Implementing Multiple Audio Tracks'
+          Description: 'Removed note about multiple audio tracks being lost during retranscoding, as this is no longer true'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/implementing-multiple-audio-tracks-using-apis.html
+          Product: Video Cloud
+          Product_area: Dynamic Ingest
+          Product_Update: 'false'
+          Feature: 'Multiple audio tracks'
+          Status: Released
