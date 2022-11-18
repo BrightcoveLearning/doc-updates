@@ -1,0 +1,42 @@
+- date: 18-November-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Customer Success Manager name updated'
+          Description: 'Mass replace Account Manager to Customer Success Manager'
+          Link: https://studio.support.brightcove.com/index.html
+          Product: Beacon
+          Product_area: Managing Players
+          Product_Update: 'false'      
+    - type: Minor updates
+      docs:
+        - Title: 'Players note deleted'
+          Description: 'Version 5 Players note deleted'
+          Link: https://studio.support.brightcove.com/players/index.html
+          Product: Video Cloud 
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Players note deleted'
+          Description: 'Version 5 Players note deleted'
+          Link: https://beacon-help.support.brightcove.com/players/index.html
+          Product: Beacon
+          Product_area: Managing Players
+          Product_Update: 'false'
+        - Title: 'Buttons Text and Style Updated'
+          Description: 'All Button Text and Style Updated for the new UI'
+          Link: https://beacon-help.support.brightcove.com/admin/index.html
+          Product: Beacon 
+          Product_area: Administering Accounts
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Buttons Text and Style Updated'
+          Description: 'All Button Text and Style Updated for the new UI'
+          Link: https://studio.support.brightcove.com/admin/index.html
+          Product: Video Cloud
+          Product_area: Administering Accounts
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
