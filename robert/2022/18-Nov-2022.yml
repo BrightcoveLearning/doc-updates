@@ -12,14 +12,14 @@
           Status: Staging 
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
+        - Title: 'Sample Templates for Universal Syndication'
+          Description: 'Added information on how to reference custom field values'
+          Link: https://apis.support.brightcove.com/aspera/manifest-metadata-reference.html
+          Product: Video Cloud
+          Product_area: Platform APIs
           Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Feature: 'Social Syndication API'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Implementing Multiple Audio Tracks'
