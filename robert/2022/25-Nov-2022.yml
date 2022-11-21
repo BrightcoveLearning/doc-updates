@@ -38,11 +38,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Fields for Custom Live Ingest Profiles'
+          Description: 'Removed some fields that are no longer supported'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/fields-custom-live-ingest-profiles.html
+          Product: Video Cloud
+          Product_area: Ingest Profiles
+          Product_Update: 'false'
+          Feature: 'live ingest profiles'
+          Status: Released
