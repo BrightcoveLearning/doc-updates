@@ -12,14 +12,14 @@
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Chromecast Plugin for Brightcove Player'
+          Description: 'Updated customization options'
+          Link: https://player.support.brightcove.com/plugins/chromecast-plugin-brightcove-player.html 
+          Product: Brightcove Player
+          Product_area: Chromecast
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
