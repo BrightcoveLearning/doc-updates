@@ -12,14 +12,38 @@
           Status: Released
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Updated for iOS SDK release 6.11.2'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'true'
+          Feature: 'iOS SDK release 6.11.2'
+          Status: Released
+        - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
+          Description: 'Updated for iOS SDK release 6.11.2'
+          Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Overview: Brightcove Native SDK for tvOS'
+          Description: 'Updated for iOS SDK release 6.11.2'
+          Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
+          Description: 'Updated for iOS SDK release 6.11.2'
+          Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Code Snippets using the Native SDK for iOS'
