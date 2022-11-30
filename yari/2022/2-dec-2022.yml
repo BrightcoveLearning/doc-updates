@@ -1,4 +1,4 @@
-- date: 25-December-2022
+- date: 2-December-2022
   types:
     - type: New Docs
       docs:
@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live DRM'
+          Description: 'Playback technologies table updated and note related to DASH + PlayReady added'
+          Link: https://live.support.brightcove.com/general/live-drm.html#Playback_technologies_used
+          Product: Live
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
     - type: Minor updates
       docs:
         - Title: 'Configuring the Brightcove Player for DRM'
