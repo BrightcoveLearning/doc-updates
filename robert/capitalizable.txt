@@ -1,14 +1,32 @@
 Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month:
 Beacon
 CorpTV
-Virtual Events
-Studio redesign/marketing studio
+Studio Enhancements
 Live DRM
 Live scalability and low latency
 Audience Insights
-Hapyak/Brightcove Interactivity
+Brightcove Interactivity
 
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
+
+Dec 22
+
+Jeff:
+Beacon - 40%
+Audience Insights - 5%
+
+Matt:
+Beacon 50%
+
+Yari:
+Beacon 20%
+Studio 20%
+
+Bob:
+
+Shantal:
+Beacon 20%
+Studio 20%
 
 August
 
