@@ -2,6 +2,14 @@
   types:
     - type: New Docs
       docs:
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'In this topic, you will learn about the new improvements and features with the major version release for Brightcove Player 7.'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html 
+          Product: Brightcove Player
+          Product_area: Brightcove Player 7
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 7'
+          Status: Released
         - Title: 'Bumper Videos with the Native SDKs'
           Description: 'In this topic, you will learn how to add a bumper video to play before your content when using the Brightcove Native SDKs.'
           Link: https://sdks.support.brightcove.com/features/bumper-video-with-sdks.html 
