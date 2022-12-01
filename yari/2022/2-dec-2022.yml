@@ -10,6 +10,14 @@
           Product_Update: 'true'
           Feature: 'Brightcove Player version 7 release'
           Status: Released
+        - Title: 'Viewability'
+          Description: 'In this topic you will learn about the Brightcove Player viewability feature.'
+          Link: https://player.support.brightcove.com/general/brightcove-player-viewability.html
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 7 new feature'
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Brightcove Player System Requirements'
