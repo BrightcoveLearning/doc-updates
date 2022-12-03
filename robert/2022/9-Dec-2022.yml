@@ -12,21 +12,21 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Managing Slates'
+          Description: 'Added notes clarifying that Cloud Playout slates are used only for Hard Starts and to fill live event time when there is no live input stream, and are not used to fill unused ad slot time (that is a different slate configured via Live SSAI setting.)'
+          Link: https://studio.support.brightcove.com/cloud-playout/managing-slates.html
+          Product: Video Cloud
+          Product_area: Cloud Playout
+          Product_Update: 'false'
+          Feature: 'Slates'
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Managing Text Tracks Using the CMS API'
+          Description: 'Added notes clarifying that the default flag is treated the same for remote and ingested text tracks and that only one file can be set as default per language'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/managing-text-tracks.html
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: 'text tracks'
+          Status: Released
