@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: 'text tracks'
           Status: Released
+        - Title: 'Kollective eCDN Deployment Guide'
+          Description: 'Added note on TTL expiration for videos and how it can be changed'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/kollective-deployment-guide.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'Kollective'
+          Status: Released
