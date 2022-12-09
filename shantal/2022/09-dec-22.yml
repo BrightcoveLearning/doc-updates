@@ -1,14 +1,14 @@
 - date: 9-December-2022
   types:
-    - type: Major updates
+    - type: New Docs
       docs:
         - Title: 'Choosing Your Player'
-          Description: 'Player selection section added'
+          Description: 'Learn how to choose a player in the Beacon apps'
           Link: https://beacon-help.support.brightcove.com/layout/choosing-your-player.html
           Product: Beacon
           Product_area: Managing Pages
-          Product_Update: 'false'
-          Feature: ''
+          Product_Update: 'true'
+          Feature: 'Player E coming soon'
           Status: Staging 
     - type: Minor updates
       docs:
@@ -20,3 +20,4 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+
