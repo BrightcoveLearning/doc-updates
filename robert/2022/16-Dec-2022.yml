@@ -12,14 +12,30 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Salesforce (eCommerce Connector)'
+          Description: 'Added note that this connector is now free for all Marketing Studio customers'
+          Link: https://integrations.support.brightcove.com/ecommerce/salesforce/index.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'eCommerce'
+          Status: Released
+        - Title: 'Adobe Magento (eCommerce Connector)'
+          Description: 'Added note that this connector is now free for all Marketing Studio customers'
+          Link: https://integrations.support.brightcove.com/ecommerce/adobe-magento-commerce/index.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'eCommerce'
+          Status: Released
+        - Title: 'Viewing Channel Output and Analytics'
+          Description: 'Added better explanation of dropped frames and the live input status icon'
+          Link: https://studio.support.brightcove.com/cloud-playout/viewing-channel-output-and-analytics.html
+          Product: Video Cloud
+          Product_area: Cloud Playout
+          Product_Update: 'live events'
+          Feature: 'eCommerce'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
