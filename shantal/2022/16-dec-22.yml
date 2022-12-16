@@ -1,0 +1,20 @@
+- date: 16-December-2022
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Chromecast Plugin for Brightcove Player'
+          Description: 'Chromecast Device Support Update'
+          Link: https://player.support.brightcove.com/plugins/chromecast-plugin-brightcove-player.html#Supported_Chromecast_devices
+          Product: Brightcove Player 
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Chromecast with the Native SDKs'
+          Description: 'Chromecast Device Support Update'
+          Link: https://sdks.support.brightcove.com/features/chromecast-with-sdks.html#Supported_Chromecast_devices
+          Product: Device SDKs
+          Product_area: Features
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
