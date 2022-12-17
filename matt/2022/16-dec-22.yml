@@ -1,0 +1,49 @@
+- date: 16-December-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link:
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area:
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Implementing Cue Points Programmatically'
+          Description: 'Updated code in the HTML5 standard cue points section so code works with Safari and iOS'
+          Link: https://player.support.brightcove.com/general/implementing-cue-points-programmatically.html#HTML5_standard_cue_points
+          Product: Brightcove Player
+          Product_area: Cue Points
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Updated introduction and installation steps'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Receiving In-App Purchase Notifications'
+          Description: 'In the JSON payload specifications table added note on how Apple views renewals differently than other platforms'
+          Link: https://beacon.support.brightcove.com/monetization/general/receive-iap-notifications.html#API_endpoint_specifications
+          Product: Beacon
+          Product_area: Notifications
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Multiple Languages'
+          Description: 'Updated languages in the Choose the languages for your apps section'
+          Link: https://beacon-help.support.brightcove.com/general/references/using-multiple-languages.html#Choose_the_languages_for_your_apps
+          Product: Beacon
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+          
