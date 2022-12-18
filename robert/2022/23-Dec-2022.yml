@@ -20,6 +20,14 @@
           Product_Update: 'true'
           Feature: 'Overlay Plugin - new version'
           Status: Released
+        - Title: 'CMS/Playback APIs Search v1'
+          Description: 'Clarified how to enter multiple search terms for fields'
+          Link: https://apis.support.brightcove.com/cms/searching/cmsplayback-api-videos-search.html#Quoted_search_terms
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'false'
+          Feature: 'CMS/Playback APIs Search v1'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Configuring a Player Overlay Using the Overlay Plugin'
