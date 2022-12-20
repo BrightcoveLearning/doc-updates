@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'Created HTML table for plugin versions'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html#Plugins
+          Product: Brightcove Player
+          Product_area: Player 7
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
