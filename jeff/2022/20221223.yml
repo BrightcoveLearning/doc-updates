@@ -2,24 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
-    - type: Major updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: '3D Secure Authentication with Beacon Apps'
+          Description: 'In this topic, you will learn how to use Stripe 3D Secure authentication with Brightcove Beacon apps.'
+          Link: https://beacon.support.brightcove.com/monetization/general/3d-secure-auth.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: '3D Secure Authentication'
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: 'Brightcove Player 7 Migration Guide'
