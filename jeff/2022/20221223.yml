@@ -1,0 +1,22 @@
+- date: 23-December-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: '3D Secure Authentication with Beacon Apps'
+          Description: 'In this topic, you will learn how to use Stripe 3D Secure authentication with Brightcove Beacon apps.'
+          Link: https://beacon.support.brightcove.com/monetization/general/3d-secure-auth.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: '3D Secure Authentication'
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'Created HTML table for plugin versions'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html#Plugins
+          Product: Brightcove Player
+          Product_area: Player 7
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
