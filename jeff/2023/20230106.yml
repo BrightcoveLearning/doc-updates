@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Chromecast with the Native SDKs'
+          Description: 'Added notes about using your own custom receiver app'
+          Link: https://sdks.support.brightcove.com/features/chromecast-with-sdks.html
+          Product: Device SDKs
+          Product_area: Chromecast
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
