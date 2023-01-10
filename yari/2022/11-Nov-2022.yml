@@ -1,0 +1,32 @@
+- date: 11-November-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Google Tag Manager Configuration Steps Updated'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Implementing AuthVOD'
+          Description: 'Image updated based on UI changes'
+          Link: https://beacon.support.brightcove.com/monetization/general/implementing-authvod.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: 'Beacon Classic UI update'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Note added to review events to track section'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

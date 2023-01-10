@@ -1,0 +1,64 @@
+- date: 2-December-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove Player 7 Now Default Version'
+          Description: 'New document related to the new default version of BC Player'
+          Link: https://player.support.brightcove.com/general/brightcove-player-7-default-version.html
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'Brightcove Player version 7 release'
+          Status: Released
+        - Title: 'Viewability'
+          Description: 'In this topic you will learn about the Brightcove Player viewability feature.'
+          Link: https://player.support.brightcove.com/general/brightcove-player-viewability.html
+          Product: Brightcove Player
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 7 new feature'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Browsers table updated and new note added related to Internet Explorer 11'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: References
+          Product_Update: 'true'
+          Feature: 'Brightcove Player version 7 release'
+          Status: Released
+        - Title: 'Player Events'
+          Description: 'New analytics events section and note added'
+          Link: https://player.support.brightcove.com/coding-topics/player-events.html#analytics_events
+          Product: Brightcove Player
+          Product_area: Coding Topics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live DRM'
+          Description: 'Playback technologies table updated and note related to DASH + PlayReady added'
+          Link: https://live.support.brightcove.com/general/live-drm.html#Playback_technologies_used
+          Product: Live
+          Product_area: DRM
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring the Brightcove Player for DRM'
+          Description: 'Note added related to enabling DRM for Brightcove Player 6 and earlier'
+          Link: https://player.support.brightcove.com/plugins/configuring-brightcove-player-drm.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'true'
+          Feature: 'Brightcove Player version 7 release'
+          Status: Released
+        - Title: 'Configuring Player Controls'
+          Description: 'Note related to playback rates added'
+          Link: https://studio.support.brightcove.com/players/configuring-player-controls.html#rates
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

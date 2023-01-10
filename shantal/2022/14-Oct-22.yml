@@ -1,0 +1,12 @@
+- date: 14-October-2022
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Styling Captions'
+          Description: 'Adding better links for CSS style guide'
+          Link: https://studio.support.brightcove.com/media/styling-captions.html
+          Product: Video Cloud 
+          Product_area: Managing Videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 

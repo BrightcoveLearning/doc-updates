@@ -1,0 +1,12 @@
+- date: 7-October-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove Player Use in Beacon Web Apps'
+          Description: 'In this topic, you will learn how Brightcove Player is integrated into your Beacon web apps.'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/web/bcp-use.html
+          Product: Beacon
+          Product_area: App Behavior
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

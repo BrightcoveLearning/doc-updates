@@ -1,0 +1,32 @@
+- date: 11-November-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Managing Multiple Programs'
+          Description: 'For non-looping Cloud Playout channels, you add new programs to the channel as needed, or re-link a program to update its contents.'
+          Link: https://beacon-help.support.brightcove.com/channels/cloud-playout/managing-programs.html
+          Product: Beacon
+          Product_area: Studio
+          Product_Update: 'true'
+          Feature: 'Cloud Playout - multiple programs for non-looping channels'
+          Status: Staging 
+    - type: Major updates
+      docs:
+        - Title: 'Sample Templates for Universal Syndication'
+          Description: 'Added information on how to reference custom field values'
+          Link: https://apis.support.brightcove.com/aspera/manifest-metadata-reference.html
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'true | false'
+          Feature: 'Social Syndication API'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Implementing Multiple Audio Tracks'
+          Description: 'Removed note about multiple audio tracks being lost during retranscoding, as this is no longer true'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/implementing-multiple-audio-tracks-using-apis.html
+          Product: Video Cloud
+          Product_area: Dynamic Ingest
+          Product_Update: 'false'
+          Feature: 'Multiple audio tracks'
+          Status: Released

@@ -1,0 +1,38 @@
+- date: 21-October-2022
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player Sample: Dynamically Change Source Videos'
+          Description: 'Player example fixed'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-dynamically-change-source-videos.html
+          Product: Brightcove Player
+          Product_area: Source videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pages to Playlists'
+          Description: 'Known issues and limitations section added'
+          Link: https://beacon-help.support.brightcove.com/layout/adding-pages-to-playlists.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs: 
+        - Title: 'Architecture: Brightcove Player SDK for iOS'
+          Description: 'Description updated'
+          Link: https://sdks.support.brightcove.com/ios/basics/architecture-brightcove-player-sdk-ios.html
+          Product: Device SDKs
+          Product_area: iOS Development
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Error Handling with the Native SDK for iOS'
+          Description: 'Playback errors table fixed'
+          Link: https://sdks.support.brightcove.com/ios/troubleshooting/error-handling-native-sdk-ios.html#Playback_errors_table
+          Product: Device SDKs
+          Product_area: iOS Development
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

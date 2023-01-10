@@ -1,0 +1,14 @@
+- date: 25-November-2022
+  types:
+
+
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player Release Notes'
+          Description: 'Brightcove Player release 6.66.7'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
+          Product: Brightcove Player
+          Product_area: Release Notes
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

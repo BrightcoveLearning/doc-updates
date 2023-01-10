@@ -1,15 +1,15 @@
-- date: 13-January-2023
+- date: 11-November-2022
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Managing Programs'
+          Description: 'For non-looping Cloud Playout channels, you add new programs to the channel as needed, or re-link a program to update its contents.'
+          Link: https://studio.support.brightcove.com/cloud-playout/managing-programs.html
+          Product: Video Cloud
+          Product_area: Studio
+          Product_Update: 'true'
+          Feature: 'Cloud Playout - multiple programs for non-looping channels'
+          Status: Staging 
     - type: Major updates
       docs:
         - Title: ''

@@ -1,0 +1,32 @@
+- date: 9-December-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove Player Plugin Compatibility'
+          Description: 'In this topic, you will learn which Brightcove Player plugins are compatible with the different player instances used in Beacon web apps.'
+          Link: https://beacon-help.support.brightcove.com/general/bcp-plugin-compatibility.html
+          Product: Beacon
+          Product_area: General
+          Product_Update: 'true'
+          Feature: 'Player E (based on Brightcove Player) usage in Beacon web apps'
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link:
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area:
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Audio Only with Brightcove Player'
+          Description: 'Added note that Advanced Embed Code must be used in code implementation.'
+          Link: https://player.support.brightcove.com/playback/audio-only-player.html
+          Product: Brightcove Player
+          Product_area: Audio Only
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

@@ -1,0 +1,48 @@
+- date: 30-September-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Support for Brightcove Player 5'
+          Description: 'This topic explains the support provided for version 5 of Brightcove Player.'
+          Link: https://studio.support.brightcove.com/players/v5-players-support.html
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 5 support'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Viewing the Brightcove System Status Page'
+          Description: 'Components section added'
+          Link: https://general.support.brightcove.com/support/viewing-brightcove-system-status-page.html
+          Product: Video Cloud
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Update Player Version'
+          Description: 'Note about v5.x.x players added'
+          Link: https://apis.support.brightcove.com/player-management/code-samples/player-managment-api-update-player-version.html#Introduction
+          Product: Video Cloud
+          Product_area: Player Management API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Players'
+          Description: 'Note about v5.x.x players added'
+          Link: https://studio.support.brightcove.com/players/index.html
+          Product: Video Cloud
+          Product_area: Managing Players
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Social Sharing Plugin'
+          Description: 'Note about the Direct Link URL added'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

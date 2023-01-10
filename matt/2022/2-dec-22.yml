@@ -1,12 +1,12 @@
-- date: 13-January-2023
+- date: 2-December-2022
   types:
     - type: New Docs
       docs:
         - Title: ''
           Description: ''
-          Link: 
+          Link:
           Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
+          Product_area:
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
@@ -14,19 +14,19 @@
       docs:
         - Title: ''
           Description: ''
-          Link: 
+          Link:
           Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
+          Product_area:
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Audio Only with Brightcove Player'
+          Description: 'Added note that Advanced Embed Code must be used in code implementation.'
+          Link: https://player.support.brightcove.com/playback/audio-only-player.html
+          Product: Brightcove Player
+          Product_area: Audio Only
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released

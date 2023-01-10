@@ -1,0 +1,40 @@
+- date: 2-December-2022
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Domains and Ports that Must Be Accessible to Video Cloud'
+          Description: 'Added a note explaining that managed player releases may break content security policies and options if that is a problem for your network.'
+          Link: https://studio.support.brightcove.com/general/architecture/domains-and-ports-must-be-accessible-video-cloud.html
+          Product: Video Cloud
+          Product_area: Architecture
+          Product_Update: 'false'
+          Feature: 'Managed player releases and content security policies'
+          Status: Released
+        - Title: 'Adobe Magento Commerce Extension Installation Guide'
+          Description: 'Updated the guide to clarify some points users found confusing.'
+          Link: https://integrations.support.brightcove.com/ecommerce/adobe-magento-commerce/installation-guide.html
+          Product: Video Cloud
+          Product_area: eCommerce Integrations
+          Product_Update: 'false'
+          Feature: 'Adobe Magento Commerce Extension '
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Removed a note about low latency fallback, as it turns out that feature never got implemented'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#low-latency
+          Product: Live
+          Product_area: Low Latency Streaming
+          Product_Update: 'false'
+          Feature: 'Low latency fallback (there is none)'
+          Status: Released

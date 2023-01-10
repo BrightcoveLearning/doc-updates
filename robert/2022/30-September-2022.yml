@@ -28,6 +28,14 @@
           Product_Update: 'true'
           Feature: 'CMS API - delete image'
           Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'Added info on the 6.0.1 release of the connector'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Video Cloud
+          Product_area: Integrations 
+          Product_Update: 'true'
+          Feature: 'New version of AEM connector'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Data Collection API'
@@ -46,11 +54,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Ingest Profiles Fields Reference'
-          Description: 'Fixed incorrect field name'
-          Link: https://apis.support.brightcove.com/ingest-profiles/references/ingest-profiles-api-fields-reference-dynamic-delivery-and-context-aware-encoding.html
+        - Title: 'Dolby Atmos Audio'
+          Description: 'Added note on support for Dolby Atmos on Android (via the Android SDK)'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/dolby-atmos-audio.html#limitations
           Product: Video Cloud
-          Product_area: Ingest Profiles API
+          Product_area: Ingest Profiles API, Android SDK
           Product_Update: 'false'
           Feature: ''
           Status: Released
