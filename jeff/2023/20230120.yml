@@ -46,11 +46,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Brightcove Native SDKs Feature Support'
+          Description: 'Update iOS/tvOS integration versions for IMA SDK and FreeWheel AdManager'
+          Link: https://sdks.support.brightcove.com/getting-started/brightcove-native-sdks-feature-support.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
