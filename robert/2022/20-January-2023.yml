@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: 'Adding Content'
           Status: Released
+        - Title: 'Fields for Custom Live Ingest Profiles'
+          Description: 'Removed a field that is not supported.'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/fields-custom-live-ingest-profiles.html
+          Product: Video Cloud
+          Product_area: Ingest Profiles
+          Product_Update: 'false'
+          Feature: 'Live Ingest Profiles'
+          Status: Released
