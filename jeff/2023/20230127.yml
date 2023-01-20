@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Managing Playback Rights'
+          Description: 'Added Playback Rights proxy properties table'
+          Link: https://studio.support.brightcove.com/admin/general/managing-playback-rights.html#proxy 
+          Product: Video Cloud
+          Product_area: Playback Rights
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
