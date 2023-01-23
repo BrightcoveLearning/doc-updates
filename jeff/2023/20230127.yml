@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Added new section to clarify using different ad response types with SSAI'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Ad_response_types 
+          Product: SSAI
+          Product_area: Ad configuration
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
