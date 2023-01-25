@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'Added section for Player video_complete Event'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html  
+          Product: Brightcove Player
+          Product_area: Brightcove Player 7
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
