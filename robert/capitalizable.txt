@@ -1,13 +1,38 @@
-Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month:
-Beacon
-CorpTV
-Studio Enhancements
-Live DRM
-Live scalability and low latency
-Audience Insights
-Brightcove Interactivity
+Jan 23
 
-Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
+Yarianna Tineo
+
+Beacon - 20%
+Internal Comms - 0%
+Studio Enhancements - 15%
+Live scalability and low latency
+Audience Insights - 15%
+Brightcove Interactivity - 0%
+Ad Monetization and Insights - 0%
+Cloud Playout for FAST - 0%
+New 3rd Party integrations - 0%
+
+Jeff Doktor
+
+Beacon 35%
+Studio Enhancements 5%
+Audience Insights 5%
+
+Matt
+
+Beacon 55%
+
+Shantal Ahumada
+  2 hours ago
+Beacon 25%
+Studio Enhancements 15%
+ Live 5%
+Players 5%
+
+Chad
+
+Audience Insights 70%
+
 
 Dec 22
 
