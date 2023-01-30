@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: "Brightcove Playback Technology App"
+          Description: 'Added note about Player Information'
+          Link: https://player.support.brightcove.com/troubleshooting/brightcove-playback-technology-app.html
+          Product: Brightcove Player
+          Product_area: Playback information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
