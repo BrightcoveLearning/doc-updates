@@ -12,12 +12,12 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Non-Brightcove Players'
+          Description: 'Main section updated'
+          Link: https://integrations.support.brightcove.com/non-brightcove-players/index.html
+          Product: Brightcove Player
+          Product_area: Integrations
+          Product_Update: 'false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
