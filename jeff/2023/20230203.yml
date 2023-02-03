@@ -20,16 +20,24 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    - type: Minor updates
-      docs:
+        - Title: 'Managing Google Subscriptions Part 1'
+          Description: 'Updated screenshots and steps'
+          Link: https://beacon.support.brightcove.com/publishing-apps/android/managing-google-subscriptions-1.html
+          Product: Beacon
+          Product_area: Publishing apps
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         - Title: 'Brightcove Player 7 Migration Guide'
-          Description: 'The Quality Selector control is supported with BCP 7 release 7.1.0 and newer.'
+          Description: 'Updated notes for the Quality Selector and IE11'
           Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html
           Product: Brightcove Player
           Product_area: Brightcove Player v7
           Product_Update: 'false'
           Feature: ''
           Status: Released
+    - type: Minor updates
+      docs:
         - Title: "Migrating to Brightcove's IMA Plugin 8.0.0"
           Description: 'Changed the IMA SDK dependency to 3.27.1'
           Link: https://sdks.support.brightcove.com/android/advertising/migrating-to-ima-plugin.html
@@ -48,8 +56,8 @@
           Status: Released
         - Title: "Configuring Server-Side Ad Settings"
           Description: 'Added definitions for ad response types'
-          Link: https://live.support.brightcove.com/admin/configuring-server-side-ad-settings.html
-          Product: Live
+          Link: https://studio.support.brightcove.com/admin/general/configuring-server-side-ad-settings.html
+          Product: Video Cloud
           Product_area: SSAI
           Product_Update: 'false'
           Feature: ''
