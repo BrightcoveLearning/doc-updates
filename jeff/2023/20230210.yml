@@ -12,16 +12,24 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Creating a TVOD Plan'
+          Description: 'Added support for Evergent payment method with TVOD'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/creating-tvod-plan.html 
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: 'Evergent TVOD'
+          Status: Released
     - type: Minor updates
       docs:
+        - Title: 'Using a TVOD Plan'
+          Description: 'Added note about using Stripe or Everygent TVOD plans'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/using-tvod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         - Title: 'Chromecast with the Native SDKs'
           Description: 'Added note about using the Brightcove Cast Receiver app with the Native SDKs'
           Link: https://sdks.support.brightcove.com/features/chromecast-with-sdks.html
