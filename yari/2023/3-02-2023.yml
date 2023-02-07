@@ -19,7 +19,7 @@
           Product_area: Integrations
           Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Getting Started with the Media Module'
