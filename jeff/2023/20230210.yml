@@ -23,8 +23,8 @@
     - type: Minor updates
       docs:
         - Title: 'Using a TVOD Plan'
-          Description: 'Added note about using Stripe or Everygent TVOD plans'
-          Link: https://beacon-help.support.brightcove.com/monetization/general/using-tvod-plan.html
+          Description: 'Added Live TVOD and note about Stripe or Everygent TVOD plans'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/using-tvod-plan.html 
           Product: Beacon
           Product_area: Monetization
           Product_Update: 'false'
