@@ -1,0 +1,10 @@
+    - type: Minor updates
+      docs:
+        - Title: 'Programmatically Localizing Brightcove Player'
+          Description: 'Update the documentation to be more consistent with what we can offer to our customers in the supported languages section.'
+          Link: https://player.support.brightcove.com/coding-topics/programmatically-localizing-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: Coding Topics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
