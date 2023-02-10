@@ -1,0 +1,10 @@
+    - type: Minor updates
+      docs:
+        - Title: 'Using Live RTMP Outputs to Stream to Facebook and YouTube'
+          Description: 'Note added about RTMP output has no redundancy function, and only a single rendition can be selected for RTMP output per live job.'
+          Link: https://live.support.brightcove.com/live-module/using-live-rtmp-outputs-stream-facebook-and-youtube.html
+          Product: Live 
+          Product_area: Guides
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
