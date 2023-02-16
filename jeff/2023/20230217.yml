@@ -30,4 +30,12 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Configuring Player Playback Properties'
+          Description: 'Added note Brightcove Player 7 does not require a DRM plugin'
+          Link: https://studio.support.brightcove.com/players/properties/configuring-player-playback-properties.html#drm 
+          Product: Video Cloud
+          Product_area: Brightcove Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         
