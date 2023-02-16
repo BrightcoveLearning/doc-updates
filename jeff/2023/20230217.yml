@@ -12,6 +12,16 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
+        - Title: 'Using a TVOD Plan'
+          Description: 'Added notes: TVOD purchase flow is only available on the web platform, and TVOD is supported with Details I layout only'
+          Link: https://beacon.support.brightcove.com/monetization/general/using-tvod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
         - Title: ''
           Description: ''
           Link: 
@@ -20,13 +30,4 @@
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
-    - type: Minor updates
-      docs:
-        - Title: 'Using a TVOD Plan'
-          Description: 'Updated text and added note that TVOD purchase flow is only available on the web platform'
-          Link: https://beacon.support.brightcove.com/monetization/general/using-tvod-plan.html
-          Product: Beacon
-          Product_area: Monetization
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+        
