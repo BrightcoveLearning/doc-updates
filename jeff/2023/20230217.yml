@@ -22,12 +22,12 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Creating a TVOD Plan'
+          Description: 'Added note about TVOD purchase flow'
+          Link: https://beacon.support.brightcove.com/monetization/general/creating-tvod-plan.html 
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
         
