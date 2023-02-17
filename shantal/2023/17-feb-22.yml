@@ -1,0 +1,18 @@
+    - type: Minor updates
+      docs:
+        - Title: 'Picture-in-Picture Plugin (aka "floating" or "pinned")'
+          Description: 'Note added to PIP plugin'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Trending Now Report Reference'
+          Description: 'Graph updated note'
+          Link: https://studio.support.brightcove.com/analytics/reports/trending-now-report-reference.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
