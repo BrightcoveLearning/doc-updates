@@ -1,3 +1,26 @@
+Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month. We have a new list for 2023. If you don't know what something is, ask me, though that probably means you haven't worked on it...
+
+Self Service/Ease of Use
+Beacon Video Cloud V3
+Studio v2 
+Ad Monetization & Insights
+Comparative Analytics
+Internal Comms Video Portal (MVP)
+Data Services Platform (DSP)
+Cloud Playout for FAST
+Brightcove Interactivity
+Audience Insights Project
+VCPE - SkyMX Search Enhancements
+VCPE - Roles and Permissions Phase 1
+VCPE - Manifest API
+Video Intelligence Project
+QoE/QoS
+New 3rd Party Connectors
+2023 Integrations
+
+Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
+
+
 Jan 23
 
 Yarianna Tineo
