@@ -12,13 +12,13 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
+        - Title: '360°/VR Video Plugin'
+          Description: 'Updates due to the new major version is compatible with Brightcove Player 7'
+          Link: https://player.support.brightcove.com/plugins/360degvr-video-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'true'
+          Feature: 'New major version of 360°/VR Video Plugin'
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
