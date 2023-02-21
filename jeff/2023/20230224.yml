@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Video Cloud SSAI API'
+          Description: 'New Ad response types section added with process flow diagram'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Ad_response_types
+          Product: SSAI
+          Product_area: SSAI API
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'The Native SDK for Android Release 7.0.1'
