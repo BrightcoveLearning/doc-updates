@@ -1,4 +1,4 @@
-- date: 17-February-2023
+- date: 24-February-2023
   types:
     - type: New Docs
       docs:
@@ -10,7 +10,7 @@
           Product_Update: 'true'
           Feature: 'Trending Now Reports'
           Status: Staging
-        - Title: 'Adding an Application ID to the Player Embed Code
+        - Title: 'Adding an Application ID to the Player Embed Code'
           Description: 'This docs existed on the Studio site, but added it to the Brightcove Player site also, as that was a logical place for many people to look for it.'
           Link: https://player.support.brightcove.com/publish/adding-application-id-player-embed-code.html
           Product: Brightcove Player

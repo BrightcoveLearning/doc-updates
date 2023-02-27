@@ -1,4 +1,4 @@
-Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month. We have a new list for 2023. If you don't know what something is, ask me, though that probably means you haven't worked on it...
+Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month. We have a new list for 2023. If you don't know what something is, ask me (though I don't know what a couple of them are either), though that probably means you haven't worked on it...
 
 Self Service/Ease of Use
 Beacon Video Cloud V3
@@ -20,6 +20,32 @@ New 3rd Party Connectors
 
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
 
+Feb 23
+
+Shantal
+Beacon  35%
+Studio v2 25%
+
+Yari
+Audience Insights Project - 50%
+QoE/QoS - 10%
+
+Julissa
+
+Chad
+Audience Insights Project - 50%
+
+Jeff
+Beacon Video Cloud V3 - 20%
+Ad Monetization & Insights - 25%
+QoE/QoS - 20%
+
+Bob
+Interactivity 60%
+
+Matt
+Beacon Video Cloud V3 50%
+Ad Monetization & Insights 5%
 
 Jan 23
 
