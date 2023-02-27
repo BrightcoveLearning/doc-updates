@@ -1,0 +1,28 @@
+    - type: Major updates
+      docs:
+        - Title: 'App Tracking Transparency with the Native SDK for iOS'
+          Description: 'App Tracking Transparency with the Native SDK for iOS section removed'
+          Link: https://sdks.support.brightcove.com/ios/privacy/app-tracking-transparency.html
+          Product: Device SDKs 
+          Product_area: Privacy
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Using Content Layouts'
+          Description: 'Details I Live Events section updated to new UI'
+          Link: https://beacon-help.support.brightcove.com/layout/using-content-layouts.html
+          Product: Beacon
+          Product_area:  Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Managing Playlists on Pages'
+          Description: 'Note added about setting the carousel type to featured, beacon displays up to ten videos from the playlist'
+          Link: https://beacon-help.support.brightcove.com/layout/managing-playlists-on-pages.html
+          Product:  Beacon
+          Product_area: Managing playlists on pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

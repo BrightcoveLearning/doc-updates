@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Advertising Analytics'
+          Description: 'In this topic, you will learn about analytics metrics associated with Brightcove Server-side Advertising (SSAI).'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html
+          Product: Audience Insights
+          Product_area: Advertising Analytics'
+          Product_Update: 'true'
+          Feature: 'Ad analytics module'
+          Status: Staging
     - type: Major updates
       docs:
         - Title: '360°/VR Video Plugin'
@@ -19,14 +19,14 @@
           Product_area: Plugins
           Product_Update: 'true'
           Feature: 'New major version of 360°/VR Video Plugin'
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Creating an Electronic Program Guide (EPG)'
+          Description: 'Cloud Playout Channel link fixed'
+          Link: https://beacon-help.support.brightcove.com/channels/beacon-channels/electronic-program-guides.html
+          Product: Beacon
+          Product_area: Managing Channels 
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
