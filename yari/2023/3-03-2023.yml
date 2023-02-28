@@ -1,0 +1,48 @@
+- date: 3-March-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Advertising Analytics'
+          Description: 'SSAI Errors section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#SSAI_Errors
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: 'Ad analytics and insights feature'
+          Status: Staging
+        - Title: 'Advertising Analytics'
+          Description: 'Ad provider performance section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Provider_Performance
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Advertising Analytics'
+          Description: 'Ad config performance section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Config_Performance
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
