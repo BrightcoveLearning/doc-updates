@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Added section for Reviewing events and dimensions'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html#Reviewing_events_and_dimensions 
+          Product: Brightcove Player
+          Product_area: Player plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Picture in Picture with the Native SDKs'
