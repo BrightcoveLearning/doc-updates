@@ -1,0 +1,32 @@
+- date: 3-March-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Limiting Concurrent Streams per Viewer'
+          Description: 'Created a new section for Block New Streams'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/stream-concurrency.html
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Picture in Picture with the Native SDKs'
+          Description: 'Updated iOS note to say PIP is supported with SSAI, but not with CSAI'
+          Link: https://sdks.support.brightcove.com/features/picture-picture-native-sdks.html#Limitations 
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
