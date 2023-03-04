@@ -1,0 +1,21 @@
+- date: 3-March-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating a post for Instagram'
+          Description: 'Creating a post for instagram section added'
+          Link: https://mstudio.support.brightcove.com/media/publishing-videos-social.html
+          Product: Marketing Studio
+          Product_area: Managing Videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging 
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Updated social doc for new workflow'
+          Link: Publishing Videos to Social Media Platforms
+          Product: Video Cloud
+          Product_area: Social Sharing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging 
+   

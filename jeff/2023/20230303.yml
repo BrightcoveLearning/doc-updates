@@ -1,15 +1,5 @@
 - date: 3-March-2023
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Limiting Concurrent Streams per Viewer'
@@ -17,6 +7,14 @@
           Link: https://apis.support.brightcove.com/playback-restrictions/guides/stream-concurrency.html
           Product: Video Cloud
           Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Added section for Reviewing events and dimensions'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html#Reviewing_events_and_dimensions 
+          Product: Brightcove Player
+          Product_area: Player plugins
           Product_Update: 'false'
           Feature: ''
           Status: Released
