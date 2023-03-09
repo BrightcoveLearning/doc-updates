@@ -33,10 +33,11 @@
           Description: 'In this topic, you will learn about features for Player E when playing live events, and live events with DVR.'
           Link: https://beacon-help.support.brightcove.com/layout/e-live-features.html
           Product: Beacon
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Product_area: Live Streaming
+          Product_Update: 'true'
+          Feature: 'DVR Functionality'
+          Status: Released
+          
     - type: Minor updates
       docs:
         - Title: ''
