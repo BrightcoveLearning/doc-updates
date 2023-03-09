@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Working with 360° VideosR'
+          Description: 'URL for plugin updated'
+          Link: https://studio.support.brightcove.com/general/references/working-360deg-videos.html
+          Product: Video Cloud 
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
