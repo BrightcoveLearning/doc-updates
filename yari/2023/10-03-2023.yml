@@ -46,3 +46,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'System Requirements table updated'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: References
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
