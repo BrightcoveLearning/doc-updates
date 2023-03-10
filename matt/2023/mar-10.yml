@@ -8,7 +8,7 @@
           Product: Beacon
           Product_area: Live Streaming
           Product_Update: 'true'
-          Feature: 'DVR functionality now available'
+          Feature: 'DVR functionality'
           Status: Released
         - Title: 'Brightcove Ad Monetization'
           Description: 'In this topic, you will learn what Brightcove Ad Monetization is and how Brightcove supports your monetization journey with this managed service.'
@@ -37,25 +37,3 @@
           Product_Update: 'true'
           Feature: 'DVR Functionality'
           Status: Released
-          
-    - type: Minor updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
-
-
-
-- Title: ''
-  Description: ''
-  Link:
-  Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-  Product_area:
-  Product_Update: 'true | false'
-  Feature: ''
-  Status: Released | Limited Availability | Staging | Internal
