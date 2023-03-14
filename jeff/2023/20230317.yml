@@ -22,11 +22,19 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
-          Product_Update: 'true | false'
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Removed Android 4 information'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: Supported browsers
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Player Feature Support by Browser'
+          Description: 'Changed note to latest version of browser and removed Android 4 information'
+          Link: https://player.support.brightcove.com/references/player-feature-support-browser.html
+          Product: Brightcove Player
+          Product_area: Supported browsers
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
