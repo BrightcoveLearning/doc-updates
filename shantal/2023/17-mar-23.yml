@@ -1,0 +1,97 @@
+- date: 17-March-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: 
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ’'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Publishing a Video to One Social Media Platform'
+          Description: 'Creating a post for Instagram Section Added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-video-one-social-platform.html#instagram
+          Product: Video Cloud 
+          Product_area: Social Sharing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: ' Setting video properties for Instagram Section Added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html
+          Product: Video Cloud 
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Viewing Billing Information'
+          Description: 'Note Added About How Viewing Billing Information Works'
+          Link: https://studio.support.brightcove.com/admin/general/viewing-billing-information.html
+          Product: Video Cloud
+          Product_area: Administering Accounts
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Storage Regions Section Updated'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: Video Cloud
+          Product_area: Create Redundant Group
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Images and Their Specifications'
+          Description: 'Details I Layout New diagram Added'
+          Link: https://beacon-help.support.brightcove.com/styling/image-requirements.html
+          Product: Beacon
+          Product_area: Styling & Appearance
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Chromecast Plugin for Brightcove Player'
+          Description: 'plugin v3 Updated'
+          Link: https://player.support.brightcove.com/plugins/chromecast-plugin-brightcove-player.html#Implementation
+          Product: Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Browser Support Updated for Chrome iOS'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Player
+          Product_area: References
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Audio Tracks to Videos using the Media Module'
+          Description: 'Supported Audio Formats Note Added'
+          Link: https://studio.support.brightcove.com/media/captions/adding-audio-tracks-videos-using-media-module.html 
+          Product: Video Cloud
+          Product_area: Managing Videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Multiple Audio Tracks'
+          Description: 'Supported Audio Formats Note Added'
+          Link: https://player.support.brightcove.com/general/multiple-audio-tracks.html
+          Product: Players
+          Product_area: General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Multiple Audio Tracks'
+          Description: 'Supported Audio Formats Note Added'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/implementing-multiple-audio-tracks-using-apis.html
+          Product: APIs
+          Product_area:  Dynamic Ingest API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
