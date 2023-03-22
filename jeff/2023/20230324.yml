@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Using an SVOD Plan'
+          Description: 'Added image for manage subscriptions'
+          Link: https://beacon-help.support.brightcove.com/monetization/general/using-svod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
