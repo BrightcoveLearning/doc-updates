@@ -1,16 +1,5 @@
 - date: 24-March-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: 
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
     - type: New Docs
       docs:
         - Title: 'SSAI Open Measurement with the Native SDK for Android'
