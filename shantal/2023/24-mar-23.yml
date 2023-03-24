@@ -1,0 +1,11 @@
+- date: 24-March-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Plugin Version Reference'
+          Description: 'Brightcove Player 7.x plugin URLs Table Added'
+          Link: https://player.support.brightcove.com/plugins/plugin-version-reference.html
+          Product: Brightcove Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
