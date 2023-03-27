@@ -31,6 +31,38 @@
          Product_Update: 'false'
          Feature: ''
          Status: Released
+       - Title: 'Advertising Analytics'
+         Description: 'SSAI Performance section updated'
+         Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#SSAI_Performance
+         Product: Video Cloud
+         Product_area: Analytics
+         Product_Update: 'false'
+         Feature: ''
+         Status: Staging
+       - Title: 'Advertising Analytics'
+         Description: 'SSAI Errors section updated and data view sub-section added'
+         Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#SSAI_Errors
+         Product: Video Cloud
+         Product_area: Analytics
+         Product_Update: 'false'
+         Feature: ''
+         Status: Staging
+       - Title: 'Advertising Analytics'
+         Description: 'Ad provider performance section updated and data view sub-section added'
+         Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Provider_Performance
+         Product: Video Cloud
+         Product_area: Analytics
+         Product_Update: 'false'
+         Feature: ''
+         Status: Staging
+       - Title: 'Advertising Analytics'
+         Description: 'Ad config performance section updated and data view sub-section added'
+         Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Config_Performance
+         Product: Video Cloud
+         Product_area: Analytics
+         Product_Update: 'false'
+         Feature: ''
+         Status: Staging
     - type: Minor updates
       docs:
         - Title: 'Overview: Audience Insights Essentials'
