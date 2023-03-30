@@ -28,6 +28,14 @@
           Product_Update: 'true'
           Feature: 'Android SDK release 8.1.0'
           Status: Released
+        - Title: 'Google Analytics Self Configuration'
+          Description: 'Updated for support of Google Analytics 4'
+          Link: https://player.support.brightcove.com/general/ga-self-configure.html
+          Product: Brightcove Player
+          Product_area:  Google analytics
+          Product_Update: 'true'
+          Feature: 'Support for Google Analytics 4'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Brightcove Playback Restrictions'
