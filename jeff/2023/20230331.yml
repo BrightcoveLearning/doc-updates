@@ -46,14 +46,6 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Sending Brightcove Analytics from the Native SDK for Android'
-          Description: 'Added note about sending accountID field'
-          Link: https://sdks.support.brightcove.com/android/analytics/sending-brightcove-analytics-native-sdk-android.html 
-          Product: Device SDK
-          Product_area: Native SDK for Android
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
         - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
           Description: 'Native SDK for iOS release 6.12.1'
           Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
