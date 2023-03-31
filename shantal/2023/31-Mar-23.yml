@@ -1,0 +1,22 @@
+- date: 31-March-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Long Titles'
+          Description: 'Behavior of Long Titles in the Beacon App'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/general/long-titles.html
+          Product: Beacon
+          Product_area:  General Information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: Skins and Player Versions'
+          Description: 'Table updated about changing the appearance and styling in skins'
+          Link: https://player.support.brightcove.com/styling/skins-and-player-versions.html#Determine_current_skin
+          Product: Brightcove Player
+          Product_area:  Styling & Appearance
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
