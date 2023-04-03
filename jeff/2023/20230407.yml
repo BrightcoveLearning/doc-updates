@@ -1,16 +1,5 @@
 - date: 7-April-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
     - type: New Docs
       docs:
         - Title: ''
@@ -23,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Sending Brightcove Analytics from the Native SDK for Android'
+          Description: 'Updated text and code snippet for sending account ID'
+          Link: https://sdks.support.brightcove.com/android/analytics/sending-brightcove-analytics-native-sdk-android.html
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
