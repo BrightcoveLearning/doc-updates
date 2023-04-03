@@ -20,6 +20,23 @@ New 3rd Party Connectors
 
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
 
+Mar 23
+
+Bob
+Brightcove Interactivity - 65%
+Studio v2 - 5% 
+
+Yari
+Audience Insights Project - 15%
+QoE/QoS - 45%
+
+Matt
+Ad Monetization & Insights 10%
+
+Jeff
+Ad Monetization & Insights 15%
+QoE/QoS 35%
+
 Feb 23
 
 Shantal
@@ -71,7 +88,7 @@ Matt
 
 Beacon 55%
 
-Shantal Ahumada
+Shantal
   2 hours ago
 Beacon 25%
 Studio Enhancements 15%
