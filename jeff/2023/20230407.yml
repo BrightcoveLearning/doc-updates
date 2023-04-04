@@ -2,14 +2,14 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
+        - Title: 'SpringServe Ad Macros with the Native SDKs'
+          Description: 'In this topic, you will learn how to take advantage of ad monetization when using client-side ad insertion (CSAI) with the Brightcove Native SDKs.'
           Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+          Product: Device SDKs
+          Product_area: Ad monetization
+          Product_Update: 'true'
+          Feature: 'SpringServe Ad Macro support'
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Sending Brightcove Analytics from the Native SDK for Android'
