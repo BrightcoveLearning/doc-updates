@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating an SVOD Plan'
+          Description: 'Updated for Evergent SVOD trials'
+          Link: https://beacon.support.brightcove.com/monetization/general/creating-svod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'true'
+          Feature: 'Evergent SVOD trials'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Brightcove Native SDK for Android Release Notes'
