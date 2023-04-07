@@ -4,7 +4,7 @@
       docs:
         - Title: 'SpringServe Ad Macros with the Native SDKs'
           Description: 'In this topic, you will learn how to take advantage of ad monetization when using client-side ad insertion (CSAI) with the Brightcove Native SDKs.'
-          Link: 
+          Link: https://sdks.support.brightcove.com/features/springserve-with-sdks.html
           Product: Device SDKs
           Product_area: Ad monetization
           Product_Update: 'true'
