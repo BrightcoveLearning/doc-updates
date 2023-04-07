@@ -11,3 +11,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Added properties download_button and skip_buttons (Player v7.4.0 and above) to the configuration properties list'
+          Link: https://player.support.brightcove.com/general/player-configuration-guide.html
+          Product: Brightcove Player
+          Product_area: Player Features
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
