@@ -1,16 +1,5 @@
 - date: 14-April-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
     - type: New Docs
       docs:
         - Title: ''
@@ -23,14 +12,22 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Creating a TVOD Plan'
+          Description: 'Added Setup section to open a support ticket'
+          Link: https://beacon.support.brightcove.com/monetization/general/creating-tvod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating an SVOD Plan'
+          Description: 'Added Setup section to open a support ticket'
+          Link: https://beacon.support.brightcove.com/monetization/general/creating-svod-plan.html
+          Product: Beacon
+          Product_area: Monetization
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
