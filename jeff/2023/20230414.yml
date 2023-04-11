@@ -29,10 +29,18 @@
           Feature: ''
           Status: Released
         - Title: 'Code Snippets using the Native SDK for iOS'
-          Description: 'Added snippet to start video playback when player in view'
+          Description: 'Added snippet to detect when the player is in view to start and stop video playback'
           Link: https://sdks.support.brightcove.com/ios/resources/code-snippets-using-native-sdk-ios.html#Start_playback_when_in_view
           Product: Device SDKs
           Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Code Snippets using the Native SDK for Android'
+          Description: 'Added code link to show how to manage video views in a playlist'
+          Link: https://sdks.support.brightcove.com/android/resources/code-snippets-using-native-sdk-android.html#Managing_video_views_in_a_playlist 
+          Product: Device SDKs
+          Product_area: Native SDK for Android
           Product_Update: 'false'
           Feature: ''
           Status: Released
