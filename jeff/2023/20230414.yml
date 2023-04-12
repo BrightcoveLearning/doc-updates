@@ -37,7 +37,7 @@
           Feature: ''
           Status: Released
         - Title: 'Code Snippets using the Native SDK for Android'
-          Description: 'AAdded snippet to detect when the player is in view to start and stop video playback'
+          Description: 'Added snippet to detect when the player is in view to start and stop video playback'
           Link: https://sdks.support.brightcove.com/android/resources/code-snippets-using-native-sdk-android.html#Start_playback_when_in_view 
           Product: Device SDKs
           Product_area: Native SDK for Android
@@ -51,6 +51,14 @@
           Link: https://apis.support.brightcove.com/playback-restrictions/guides/fallback-hdcp.html 
           Product: Video Cloud
           Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Playready in Chromium Edge is available only in Windows 10+'
+          Link: https://studio.support.brightcove.com/general/content-protection/overview-digital-rights-management-drm-video-cloud.html 
+          Product: Video Cloud
+          Product_area: Content protection (DRM)
           Product_Update: 'false'
           Feature: ''
           Status: Released
