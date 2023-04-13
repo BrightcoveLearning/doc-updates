@@ -23,14 +23,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Getting Started with Brightcove Video Connect for the Drupal CMS'
+          Description: 'The current version of the connector is now verified to work with Drupal 10.x'
+          Link: https://integrations.support.brightcove.com/drupal/getting-started-brightcove-video-connect-drupal-cms.html
+          Product: Integrations
+          Product_area: Drupal
+          Product_Update: 'true'
+          Feature: 'Support for Drupal 10.0'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
