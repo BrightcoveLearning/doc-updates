@@ -1,16 +1,7 @@
 - date: 14-April-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title:
-          Description:
-          Customer_Link:
-          Employee_Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
+
+
     - type: New Docs
       docs:
         - Title: 'Brightcove Player Sample: Display Duration'
@@ -21,6 +12,7 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+
     - type: Major updates
       docs:
         - Title: 'Brightcove Player Sample: Download Video Plugin'
@@ -39,21 +31,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link:
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area:
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Player E VOD Features'
+          Description: 'Feature availability table updated to show thumbnail scrubbing available for all platforms except Smart TV'
+          Link: https://beacon-help.support.brightcove.com/layout/e-vod-features.html#Feature_availability_table
+          Product: Beacon
+          Product_area: App Behavior
+          Product_Update: 'true'
+          Feature: 'Thumbnail Scrubbing Availability'
+          Status: Released
