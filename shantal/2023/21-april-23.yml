@@ -1,0 +1,38 @@
+- date: 21-April-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Installing a Test Build for LG (webOS)'
+          Description: 'LG installation guide updated: VS code instructions (supported) added and (depricated/ not supported) IDE instructions removed'
+          Link: https://beacon.support.brightcove.com/publishing-apps/lg/installing-lg-webos-test-build.html
+          Product:  Beacon
+          Product_area:  App Publishing and Behavior
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Installing the Kollective Player Plugin'
+          Description: 'including the the URL and policy key as part of the plugin configuration'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/add-kollective-player-plugin.html
+          Product: CMS Integrations
+          Product_area: Kollective
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Plugin Version Reference'
+          Description: 'Plugins Updates'
+          Link: https://player.support.brightcove.com/plugins/plugin-version-reference.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Seek Buttons Plugin'
+          Description: 'Seek Buttons Plugins Updated to New Version'
+          Link: https://player.support.brightcove.com/plugins/seek-buttons-plugin.html
+          Product:  Brightcove Player 
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
