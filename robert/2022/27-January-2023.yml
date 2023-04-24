@@ -1,0 +1,40 @@
+- date: 27-January-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Installing the Kollective Player Plugin'
+          Description: 'Put this in a separate page because it applies both to Brightcove-hosted and self-hosted implementations'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/add-kollective-player-plugin.html
+          Product: Video Cloud
+          Product_area: eCDN Integrations
+          Product_Update: 'true'
+          Feature: 'Brightcove-host Kollective integrations'
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Kollective eCDN Deployment Guide'
+          Description: 'Note the new Brightcove-hosted Syndicator app for Kollective'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/kollective-deployment-guide.html
+          Product: Video Cloud
+          Product_area: eCDN integrations
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Standard Ingest Profiles for Dynamic Delivery and Context Aware Encoding'
+          Description: 'Overhauled doc to remove confusing information'
+          Link: https://studio.support.brightcove.com/admin/ingest-profiles/standard-ingest-profiles-dynamic-delivery-and-context-aware-encoding.html
+          Product: Video Cloud
+          Product_area: Ingest Profiles
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: '(leave blank if Product_Update is false)'
+          Status: Released | Limited Availability | Staging | Internal

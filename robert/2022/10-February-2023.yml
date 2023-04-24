@@ -1,4 +1,4 @@
-- date: 13-January-2023
+- date: 10-February-2023
   types:
     - type: New Docs
       docs:
@@ -22,11 +22,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: 'Brightcove Live: Best Practices'
-          Description: 'Added note that support for I/B/P frames depends on the ingest profile used, not the input stream'
-          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html#gop_structure
-          Product: Live
-          Product_area: Live ingest profiles
+        - Title: 'Overview: Adding Captions to a Video'
+          Description: 'Modified a note indicating the 608 captions embedded in the source video will not be passed through to renditions, as this is no longer the case - they are retained now'
+          Link: https://studio.support.brightcove.com/media/captions/overview-adding-captions-video.html
+          Product: Video Cloud
+          Product_area: Captions
           Product_Update: 'false'
           Feature: ''
           Status: Released

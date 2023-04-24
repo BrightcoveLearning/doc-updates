@@ -1,0 +1,32 @@
+- date: 21-April-2023
+  types:
+
+    - type: New Docs
+      docs:
+        - Title: 'Interactivity Viewer Plugin'
+          Description: 'In this topic, you will learn about using the interactivity plugin to allow usage of Brightcove Interactivity functionality.'
+          Link: https://player.support.brightcove.com/plugins/interactivity-viewer.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Kollective eCDN Plugin'
+          Description: 'In this topic, you will learn to implement the Kollective eCDN plugin.'
+          Link: https://player.support.brightcove.com/plugins/kollective-ecdn-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
+    - type: Minor updates
+      docs:
+        - Title: 'Player Configuration Guide'
+          Description: 'Added interactivity_project_id to the list of properties'
+          Link: https://player.support.brightcove.com/general/player-configuration-guide.html#interactivity_project_id
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

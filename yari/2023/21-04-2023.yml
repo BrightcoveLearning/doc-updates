@@ -1,0 +1,13 @@
+- date: 21-April-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Seek Buttons Plugin'
+          Description: 'Code sample for seek buttons added'
+          Link: https://player.support.brightcove.com/plugins/seek-buttons-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+   

@@ -1,32 +1,32 @@
-- date: 13-January-2023
+- date: 3-February-2023
   types:
     - type: New Docs
       docs:
         - Title: ''
           Description: ''
-          Link: 
+          Link:
           Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
+          Product_area:
           Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
+          Feature: ''
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: ''
           Description: ''
-          Link: 
+          Link:
           Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | Interactivity | Audience Insights
-          Product_area: 
+          Product_area:
           Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
+          Feature: ''
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: 'Brightcove Live: Best Practices'
-          Description: 'Added note that support for I/B/P frames depends on the ingest profile used, not the input stream'
-          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html#gop_structure
-          Product: Live
-          Product_area: Live ingest profiles
+        - Title: 'Creating Your Application Design - Layout Options'
+          Description: 'Changed player options to display a video of Player E features since that is the only player now available.'
+          Link: https://beacon.support.brightcove.com/getting-started/creating-your-app-design-layout-options.html
+          Product: Beacon
+          Product_area: Getting Started
           Product_Update: 'false'
           Feature: ''
           Status: Released

@@ -1,0 +1,52 @@
+- date: 31-March-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Download Button Plugin'
+          Description: 'In this topic, you will learn about the download plugin for Brightcove Player. This plugin will allow you to download an mp4 file of the video or a text file of the video transcript.'
+          Link: https://player.support.brightcove.com/plugins/download-button-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'true'
+          Feature: 'New download button plugin for Brightcove Player'
+          Status: Released
+        - Title: 'Brightcove Support Slack'
+          Description: 'In this topic you will learn how to use Slack to open a case with Brightcove Support.'
+          Link: https://studio.support.brightcove.com/support/brightcove-support-slack.html
+          Product: Video Cloud
+          Product_area: Support
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: '360°/VR Video Plugin'
+          Description: 'Steps updated in implement using players module'
+          Link: https://player.support.brightcove.com/plugins/360degvr-video-plugin.html#Implement_using_Players_module
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Ad Analytics'
+          Description: 'Title renamed'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+          

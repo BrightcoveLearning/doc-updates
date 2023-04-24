@@ -1,0 +1,36 @@
+- date: 14-April-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Player E Selection'
+          Description: 'Update Player E Selection doc to match latest UI'
+          Link: https://beacon-help.support.brightcove.com/layout/e-selection.html
+          Product: Beacon
+          Product_area: Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Delivery System API'
+          Description: 'Delivery System API: highlight warning note added to create repository, and not to update a player repository'
+          Link: https://apis.support.brightcove.com/delivery-system/overview-delivery-system-api.html
+          Product: APIs
+          Product_area: Delivery System API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Step-by-Step: Delivery System API'
+          Description: 'Delivery System API: highlight warning note added to create repository, and not to update a player repository'
+          Link: https://apis.support.brightcove.com/delivery-system/step-step-delivery-system-api.html
+          Product: APIs
+          Product_area: Delivery System API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring App Settings'
+          Description: 'Update Configuring App Settings to latest UI'
+          Link: https://beacon-help.support.brightcove.com/layout/configuring-app-settings.html
+          Product: Beacon 
+          Product_area:  Managing Pages
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

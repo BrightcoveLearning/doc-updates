@@ -1,0 +1,32 @@
+- date: 28-April-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Automated Captions using the Live API'
+          Description: 'In this topic you will learn how to use the Live API to enable automated captions in your live stream.'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-auto-captions.html 
+          Product: Live
+          Product_area: Captions
+          Product_Update: 'true'
+          Feature: 'Live Automated Captions'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Live API Reference'
+          Description: 'Added properties related to automated captions'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html 
+          Product: Live
+          Product_area: Captions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating a Video Clip Using the Live Module'
+          Description: 'Added note about automated captions and video clipping'
+          Link: https://live.support.brightcove.com/live-module/creating-video-clip-using-live-module.html 
+          Product: Live
+          Product_area: Captions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

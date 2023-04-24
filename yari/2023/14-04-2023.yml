@@ -1,0 +1,37 @@
+- date: 14-April-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Seek Buttons Plugin'
+          Description: 'In this topic, you will learn about the seek buttons plugin for Brightcove Player. This plugin will allow you to seek forward/back through a video for a configurable amount of time.'
+          Link: https://player.support.brightcove.com/plugins/seek-buttons-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'true'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Download Button Plugin'
+          Description: 'Steps listed in the Implement using Players module section updated'
+          Link: https://player.support.brightcove.com/plugins/download-button-plugin.html#Implement_using_Players_module
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'React Player Loader'
+          Description: 'onEmbedCreated information added to parameters section'
+          Link: https://player.support.brightcove.com/coding-topics/react-player-loader.html#Parameters
+          Product: Brightcove Player
+          Product_area: Coding Topics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Server-Side Ads with Brightcove Player'
+          Description: 'vmapURLParams information added to options section'
+          Link: https://player.support.brightcove.com/plugins/implementing-server-side-ads-brightcove-player.html#Options
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'true'
+          Feature: 'New vmapURLParams option created'
+          Status: Released

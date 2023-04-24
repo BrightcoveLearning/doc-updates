@@ -1,0 +1,21 @@
+- date: 7-April-2023
+  types:
+
+    - type: Major updates
+      docs:
+        - Title: 'Using Content Layouts'
+          Description: 'Updated the App Settings screenshots to include the new Channels option'
+          Link: https://beacon-help.support.brightcove.com/layout/using-content-layouts.html
+          Product: Beacon
+          Product_area: Managing Pages & Layouts
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Added properties download_button and skip_buttons (Player v7.4.0 and above) to the configuration properties list'
+          Link: https://player.support.brightcove.com/general/player-configuration-guide.html
+          Product: Brightcove Player
+          Product_area: Player Features
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

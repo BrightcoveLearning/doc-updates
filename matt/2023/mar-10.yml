@@ -1,0 +1,39 @@
+- date: 10-March-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Implementing Live with DVR'
+          Description: 'In this topic, you will learn how to configure Brightcove Live using DVR functionality.'
+          Link: https://beacon-help.support.brightcove.com/live/get-started/implement-live-with-dvr.html
+          Product: Beacon
+          Product_area: Live Streaming
+          Product_Update: 'true'
+          Feature: 'DVR functionality'
+          Status: Released
+        - Title: 'Brightcove Ad Monetization'
+          Description: 'In this topic, you will learn what Brightcove Ad Monetization is and how Brightcove supports your monetization journey with this managed service.'
+          Link: https://player.support.brightcove.com/advertising/bc-ad-monetization.html
+          Product: Brightcove Player
+          Product_area: Advertising
+          Product_Update: 'true'
+          Feature: 'Advertising Monetization'
+          Status: Released
+        - Title: 'Enable Live DVR'
+          Description: 'This topic explains how to enable correctly configured live events and channels in a specific account to use DVR.'
+          Link: https://beacon-la.support.brightcove.com/beacon-onboarding-topics/dvr-account-enable.html
+          Product: Beacon
+          Product_area: Live Streaming
+          Product_Update: 'true'
+          Feature: 'DVR functionality'
+          Status: Internal
+
+    - type: Major updates
+      docs:
+        - Title: 'Player E Live Features'
+          Description: 'In this topic, you will learn about features for Player E when playing live events, and live events with DVR.'
+          Link: https://beacon-help.support.brightcove.com/layout/e-live-features.html
+          Product: Beacon
+          Product_area: Live Streaming
+          Product_Update: 'true'
+          Feature: 'DVR Functionality'
+          Status: Released

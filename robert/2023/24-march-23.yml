@@ -1,0 +1,91 @@
+- date: 24-March-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: 
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Overview: Salesforce Sales Cloud Integration'
+          Description: 'This integration connects Audience Insights to Salesforce Sales Cloud to update Contacts with insights into their video viewing.'
+          Link: https://audience-insights.support.brightcove.com/integration/salesforce-sales-cloud/overview-sfsc-integration.html
+          Product: Audience Insights
+          Product_area: Integrations
+          Product_Update: 'true'
+          Feature: 'Salesforce Sales Cloud Integration'
+          Status: Released
+        - Title: 'Salesforce Connected App Setup'
+          Description: 'For a third party integration to update content content within Salesforce, there needs to be a connected app set up in the Salesforce account to manage access to the Salesforce data.'
+          Link: https://audience-insights.support.brightcove.com/integration/salesforce-sales-cloud/salesforce-connected-app-setup.html
+          Product: Audience Insights
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'Salesforce Sales Cloud Integration'
+          Status: Released
+        - Title: 'Salesforce Properties Setup'
+          Description: 'This topic will cover how to set up the properties in Salesforce that will be updated by the Audience Insights Salesforce publish integration.'
+          Link: https://audience-insights.support.brightcove.com/integration/salesforce-sales-cloud/salesforce-properties-setup.html
+          Product: Audience Insights
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'Salesforce Sales Cloud Integration'
+          Status: Released
+        - Title: 'Audience Insights Salesforce Integration Setup'
+          Description: 'Once a connected app has been created in Salesforce, a Salesforce publish integration can be added to the Audience Insights system.'
+          Link: https://audience-insights.support.brightcove.com/integration/salesforce-sales-cloud/audience-insights-publish-integration-setup.html
+          Product: Audience Insights
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: 'Salesforce Sales Cloud Integration'
+          Status: Released
+        - Title: 'Index of Platform API Code Samples'
+          Description: 'Index of all sample code and apps for the various Platform APIs.'
+          Link: https://apis.support.brightcove.com/getting-started/index-code-samples.html
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove-Shopify Integration Overview'
+          Description: 'Added additional required configuration step discovered during testing'
+          Link: https://integrations.support.brightcove.com/ecommerce/shopify/brightcove-shopify-commerce-platform-overview.html
+          Product: Video Cloud
+          Product_area: Integrations
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Live Redundancy'
+          Description: 'Added note that including h264_profile": "baseline in any output is not supported by Redundancy and may call the stream to stall or become unstable.'
+          Link: https://apis.support.brightcove.com/live-api/guides/using-live-redundancy.html
+          Product: Live
+          Product_area: Redundancy
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Social Sharing Plugin'
+          Description: 'removed mention of obsolete Google+'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Playback API Reference'
+          Description: 'Fixed incorrect statement that you can retrieve multiple videos using a comma-delimited list of video ids.'
+          Link: https://apis.support.brightcove.com/playback/references/reference_v2.html#tag/Videos/operation/Get_Video_by_ID_or_Reference_ID
+          Product: Video Cloud
+          Product_area: Platform APIs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

@@ -1,0 +1,54 @@
+- date: 3-February-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Code Snippets using the Native SDK for iOS'
+          Description: 'Updated tabs to use the new site framework'
+          Link: https://sdks.support.brightcove.com/ios/resources/code-snippets-using-native-sdk-ios.html
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Google Subscriptions Part 1'
+          Description: 'Updated screenshots and steps'
+          Link: https://beacon.support.brightcove.com/publishing-apps/android/managing-google-subscriptions-1.html
+          Product: Beacon
+          Product_area: Publishing apps
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'Updated notes for the Quality Selector, IE11, and automatic mode'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html
+          Product: Brightcove Player
+          Product_area: Brightcove Player v7
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: "Migrating to Brightcove's IMA Plugin 8.0.0"
+          Description: 'Changed the IMA SDK dependency to 3.27.1'
+          Link: https://sdks.support.brightcove.com/android/advertising/migrating-to-ima-plugin.html
+          Product: Device SDKs
+          Product_area: Native SDK for Android
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: "Brightcove Playback Technology App"
+          Description: 'Added note about Player Information'
+          Link: https://player.support.brightcove.com/troubleshooting/brightcove-playback-technology-app.html
+          Product: Brightcove Player
+          Product_area: Playback information
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: "Configuring Server-Side Ad Settings"
+          Description: 'Added definitions for ad response types'
+          Link: https://studio.support.brightcove.com/admin/general/configuring-server-side-ad-settings.html
+          Product: Video Cloud
+          Product_area: SSAI
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

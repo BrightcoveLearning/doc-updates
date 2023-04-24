@@ -1,13 +1,104 @@
-Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month:
-Beacon
-CorpTV
-Studio Enhancements
-Live DRM
-Live scalability and low latency
-Audience Insights
+Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month. We have a new list for 2023. If you don't know what something is, ask me (though I don't know what a couple of them are either), though that probably means you haven't worked on it...
+
+Self Service/Ease of Use
+Beacon Video Cloud V3
+Studio v2 
+Ad Monetization & Insights
+Comparative Analytics
+Internal Comms Video Portal (MVP)
+Data Services Platform (DSP)
+Cloud Playout for FAST
 Brightcove Interactivity
+Audience Insights Project
+VCPE - SkyMX Search Enhancements
+VCPE - Roles and Permissions Phase 1
+VCPE - Manifest API
+Video Intelligence Project
+QoE/QoS
+New 3rd Party Connectors
+2023 Integrations
 
 Total should be 70% or less. You can respond here or send me an email, whichever is easier. Doesn't have to be exact - just your best guess.
+
+Mar 23
+
+Bob
+Brightcove Interactivity - 65%
+Studio v2 - 5% 
+
+Yari
+Audience Insights Project - 15%
+QoE/QoS - 45%
+
+Matt
+Ad Monetization & Insights 10%
+
+Jeff
+Ad Monetization & Insights 15%
+QoE/QoS 35%
+
+Feb 23
+
+Shantal
+Beacon  35%
+Studio v2 25%
+
+Yari
+Audience Insights Project - 50%
+QoE/QoS - 10%
+
+Julissa
+
+Chad
+Audience Insights Project - 50%
+
+Jeff
+Beacon Video Cloud V3 - 20%
+Ad Monetization & Insights - 25%
+QoE/QoS - 20%
+
+Bob
+Interactivity 60%
+
+Matt
+Beacon Video Cloud V3 50%
+Ad Monetization & Insights 5%
+
+Jan 23
+
+Yarianna Tineo
+
+Beacon - 20%
+Internal Comms - 0%
+Studio Enhancements - 15%
+Live scalability and low latency
+Audience Insights - 15%
+Brightcove Interactivity - 0%
+Ad Monetization and Insights - 0%
+Cloud Playout for FAST - 0%
+New 3rd Party integrations - 0%
+
+Jeff Doktor
+
+Beacon 35%
+Studio Enhancements 5%
+Audience Insights 5%
+
+Matt
+
+Beacon 55%
+
+Shantal
+  2 hours ago
+Beacon 25%
+Studio Enhancements 15%
+ Live 5%
+Players 5%
+
+Chad
+
+Audience Insights 70%
+
 
 Dec 22
 

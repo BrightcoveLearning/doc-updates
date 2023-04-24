@@ -1,0 +1,104 @@
+- date: 3-March-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Working with the Immersion Portal Template'
+          Description: 'In this topic you will learn about the features available in the Immersion Portal template.'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/working-with-immersion-template.html
+          Product: Video Cloud
+          Product_area: Gallery
+          Product_Update: 'true'
+          Feature: ’New Gallery Immersion Template'
+          Status: Released
+        - Title: 'Customizing the Immersion Template Settings'
+          Description: 'In this topic you will learn how to customize the settings for the Immersion template.'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/customizing-immersion-template-settings.html
+          Product: Video Cloud
+          Product_area: Gallery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Overview of Gallery Portal Templates'
+          Description: ‘Added information on the Immersion template'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/overview-gallery-portal-templates.html
+          Product: Video Cloud
+          Product_area: Gallery
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Limiting Concurrent Streams per Viewer'
+          Description: 'Created a new section for Block New Streams'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/stream-concurrency.html
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Added section for Reviewing events and dimensions'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html#Reviewing_events_and_dimensions 
+          Product: Brightcove Player
+          Product_area: Player plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising Analytics'
+          Description: 'SSAI Errors section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#SSAI_Errors
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: 'Ad analytics and insights feature'
+          Status: Staging
+        - Title: 'Advertising Analytics'
+          Description: 'Ad provider performance section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Provider_Performance
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Advertising Analytics'
+          Description: 'Ad config performance section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-analytics-insights.html#Ad_Config_Performance
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Creating a post for Instagram'
+          Description: 'Creating a post for instagram section added'
+          Link: https://mstudio.support.brightcove.com/media/publishing-videos-social.html
+          Product: Marketing Studio
+          Product_area: Managing Videos
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging 
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Updated social doc for new workflow'
+          Link: Publishing Videos to Social Media Platforms
+          Product: Video Cloud
+          Product_area: Social Sharing
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: 'Picture in Picture with the Native SDKs'
+          Description: 'Updated iOS note to say PIP is supported with SSAI, but not with CSAI'
+          Link: https://sdks.support.brightcove.com/features/picture-picture-native-sdks.html#Limitations 
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video Cloud Basics: Uploading Videos'
+          Description: 'Added note clarifying that embedded 608 captions in the source video are passed through to renditions of all types'
+          Link: https://studio.support.brightcove.com/get-started/basics/uploading-videos.html
+          Product: Video Cloud
+          Product_area: Captions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
