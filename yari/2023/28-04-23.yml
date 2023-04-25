@@ -1,4 +1,4 @@
-- date: 14-April-2023
+- date: 28-April-2023
   types:
     - type: New Brightcove Academy Courses
       docs:
@@ -38,6 +38,14 @@
           Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-automatically-set-caption-language.html
           Product: Brightcove Player
           Product_area: Code Samples
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Audio Tracks to Videos'
+          Description: 'Limitation related to videos shared from other accounts added'
+          Link: https://corptv.support.brightcove.com/media/captions/adding-audio-tracks-videos-using-media-module.html
+          Product: CorpTV
+          Product_area: Media
           Product_Update: 'false'
           Feature: ''
           Status: Released
