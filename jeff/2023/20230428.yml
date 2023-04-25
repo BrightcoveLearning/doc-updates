@@ -10,6 +10,22 @@
           Product_Update: 'true'
           Feature: 'Live Automated Captions'
           Status: Released
+        - Title: 'Brightcove QoE Analytics'
+          Description: 'In this topic, you will learn about Quality of Experience (QoE) analytics associated with Brightcove Player.'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-analytics.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'true'
+          Feature: 'Brightcove QoE Analytics'
+          Status: Released
+        - Title: 'Configuring a Non-Brightcove Player for QoE'
+          Description: 'In this topic, you will learn how to send Quality of Experience (QoE) Analytics data to Brightcove from your custom, non-Brightcove player.'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/configuring-nonbc-player-qoe.html  
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Live API Reference'
@@ -17,6 +33,14 @@
           Link: https://apis.support.brightcove.com/live-api/references/reference.html 
           Product: Live
           Product_area: Captions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Added Fields and events for QoE section'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html#Fields_and_events_for_QoE  
+          Product: Video Cloud
+          Product_area: Analytics
           Product_Update: 'false'
           Feature: ''
           Status: Released
