@@ -1,26 +1,5 @@
 - date: 28-April-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Jump Start: Pre-roll Ad'
@@ -49,3 +28,28 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Dynamic Ingest API: Best Practices'
+          Description: 'Link for fetch the available profiles for the account updated.'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/dynamic-ingest-api-best-practices.html
+          Product: Video Cloud
+          Product_area: Dynamic Ingest API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dynamic Ingest API: Best Practices'
+          Description: 'Link for fetch the available profiles for the account updated.'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/dynamic-ingest-api-best-practices.html
+          Product: Video Cloud
+          Product_area: Dynamic Ingest API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live API: Static Entry Points'
+          Description: 'Link for create job updated.'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-api-static-entry-points.html#Creating_a_static_entry_point
+          Product: Video Cloud
+          Product_area: Live API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
