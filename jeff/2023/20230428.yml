@@ -44,6 +44,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Added new ip claim for Playback Restrictions'
+          Link: https://apis.support.brightcove.com/general/features/create-json-web-token.html 
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Creating a Video Clip Using the Live Module'
