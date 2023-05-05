@@ -7,8 +7,8 @@
           Link: https://apis.support.brightcove.com/live-api/guides/live-auto-captions.html 
           Product: Live
           Product_area: Captions
-          Product_Update: 'true'
-          Feature: 'Live Automated Captions'
+          Product_Update: 'false'
+          Feature: ''
           Status: Released
         - Title: 'Brightcove QoE Analytics'
           Description: 'In this topic, you will learn about Quality of Experience (QoE) analytics associated with Brightcove Player.'
@@ -28,6 +28,14 @@
           Status: Released
     - type: Major updates
       docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Added support for automated captions'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#create 
+          Product: Live
+          Product_area: Captions
+          Product_Update: 'true'
+          Feature: 'Live Automated Captions'
+          Status: Released
         - Title: 'Live API Reference'
           Description: 'Added properties related to automated captions'
           Link: https://apis.support.brightcove.com/live-api/references/reference.html 
