@@ -1,0 +1,28 @@
+- date: 05-May-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Seek Buttons Plugin'
+          Description: 'Brightcove Player v7.5.0 information updated'
+          Link: https://player.support.brightcove.com/plugins/seek-buttons-plugin.html
+          Product: Brightcove Player 
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Notifications for Dynamic Ingest'
+          Description: 'Note updated about the use of get status of ingest jobs'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/notifications-dynamic-delivery-video-cloud.html
+          Product: APIs
+          Product_area: Dynamic Ingest API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'HEVC Video'
+          Description: 'Note added about VOD supporting HEVC and AES-128'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/hevc-video.html
+          Product: APIs
+          Product_area: Guides
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
