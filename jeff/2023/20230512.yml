@@ -1,16 +1,5 @@
 - date: 12-May-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
     - type: New Docs
       docs:
         - Title: ''
