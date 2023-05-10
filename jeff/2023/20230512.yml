@@ -2,14 +2,38 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Overview: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn how Engagement Insights for Beacon allow you to understand viewer engagement and optimize your content strategy.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/overview.html 
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'true'
+          Feature: 'Engagement Insights for Beacon'
+          Status: Staging
+        - Title: 'Summary Reports: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Summary tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/summary-reports.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Viewer Engagement: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Engagement tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/viewer-engagement.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Content: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Content tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/content-metrics.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Major updates
       docs:
         - Title: 'Sending Brightcove Analytics from the Native SDK for iOS'
