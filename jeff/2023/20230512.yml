@@ -44,6 +44,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove QoE Insights'
+          Description: 'Updated Interest Phase section after reviewing demo recording'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html#Completion_Rate 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
