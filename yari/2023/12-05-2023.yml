@@ -31,6 +31,22 @@
           Product_Update: 'false'
           Feature: ''
           Status: Staging
+        - Title: 'Google Analytics Plugin'
+          Description: 'GA4 Events updated'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html#GA4_events_and_custom_dimensions
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Google Analytics Event Tracking'
+          Description: 'Custom dimensions and events information added'
+          Link: https://studio.support.brightcove.com/players/general/configuring-google-analytics-event-tracking.html
+          Product: Video Cloud
+          Product_area: Player Module
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Thumbnail Seeking with Brightcove Player'
