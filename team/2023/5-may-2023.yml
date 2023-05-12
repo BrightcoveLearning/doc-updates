@@ -1,0 +1,82 @@
+- date: 5-April-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove QoE Insights'
+          Description: 'In this topic, you will learn about Brightcove Quality of Experience (QoE) Insights associated with Brightcove Players.'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'true'
+          Feature: 'Quality of Experience (QoE) Insights'
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: 'Captions with Live Streams'
+          Description: 'Added a note on the new auto caption option with a link to that document'
+          Link: https://studio.support.brightcove.com/live/general/captions-with-live-streams.html
+          Product: Live
+          Product_area: Captions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'Added notes on GOP structure that will help produce better results for sports and other high motion videos'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html#gop_structure
+          Product: Live
+          Product_area: Best Practices
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Seek Buttons Plugin'
+          Description: 'Brightcove Player v7.5.0 information updated'
+          Link: https://player.support.brightcove.com/plugins/seek-buttons-plugin.html
+          Product: Brightcove Player 
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Notifications for Dynamic Ingest'
+          Description: 'Note updated about the use of get status of ingest jobs'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/notifications-dynamic-delivery-video-cloud.html
+          Product: Video Cloud
+          Product_area: Dynamic Ingest API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'HEVC Video'
+          Description: 'Note added about VOD supporting HEVC and AES-128'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/hevc-video.html
+          Product: Video Cloud
+          Product_area: Guides
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Playback Rights'
+          Description: 'Fixed a small issue in the sample curl code'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/implementing-playback-rights.html
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Analytics Module UI Glossary'
+          Description: 'Added a clarifying note that viewed_minutes does not include time the video was paused'
+          Link: https://studio.support.brightcove.com/analytics/module/analytics-module-ui-glossary.html#V
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Most Watched Videos in Playlist'
+          Description: 'Enlarged the player in the sample to make it more visually effective'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-most-watched-videos-playlist.html
+          Product: Brightcove Player
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
