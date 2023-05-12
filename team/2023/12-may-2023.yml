@@ -1,0 +1,99 @@
+- date: 12-May-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: 
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Using Brightcove with Frequency for FAST'
+          Description: 'Push Brightcove videos to frequency.com for use in FAST channels'
+          Link: https://studio.support.brightcove.com/channels/fast/getting-started/fast-frequency.html
+          Product: Integrations
+          Product_area: FAST
+          Product_Update: 'true | false'
+          Feature: 'FAST with Frequency'
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Ad Insights'
+          Description: 'New information added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-insights.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Google Analytics Plugin'
+          Description: 'GA4 Events updated'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html#GA4_events_and_custom_dimensions
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Google Analytics Event Tracking'
+          Description: 'Custom dimensions and events information added'
+          Link: https://studio.support.brightcove.com/players/general/configuring-google-analytics-event-tracking.html
+          Product: Video Cloud
+          Product_area: Player Module
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Self Configuration'
+          Description: 'List of events updated'
+          Link: https://player.support.brightcove.com/analytics/ga-self-configure.html
+          Product: Brightcove Player
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sending Brightcove Analytics from the Native SDK for iOS'
+          Description: 'Removed global setting for account ID, and added code snippet to set for a single video'
+          Link: https://sdks.support.brightcove.com/ios/analytics/sending-brightcove-analytics-native-sdk-ios.html 
+          Product: Device SDKs
+          Product_area: Native SDK for iOS
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove QoE Insights'
+          Description: 'Updated Interest Phase section after reviewing demo recording'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html#Completion_Rate 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: 'Thumbnail Seeking with Brightcove Player'
+          Description: 'Thumbnails URL updated'
+          Link: https://player.support.brightcove.com/plugins/thumbnails-plugin.html#Implementing_WebVTT_thumbnails
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Offline Playback with the Native Player SDKs'
+          Description: 'In the rendition Downloaded section, it is updated on how the peak bitrate for downloading is set.'
+          Link: https://sdks.support.brightcove.com/features/offline-playback-native-player-sdks.html#Content_delivery
+          Product: Device SDKs 
+          Product_area: Features
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Picture-in-Picture Plugin (aka "floating" or "pinned")'
+          Description: 'The native picture-in-picture button does not display when ads are enabled.'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
