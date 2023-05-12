@@ -1,0 +1,20 @@
+- date: 12-May-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Offline Playback with the Native Player SDKs'
+          Description: 'In the rendition Downloaded section, it is updated on how the peak bitrate for downloading is set.'
+          Link: https://sdks.support.brightcove.com/features/offline-playback-native-player-sdks.html#Content_delivery
+          Product: Device SDKs 
+          Product_area: Features
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Picture-in-Picture Plugin (aka "floating" or "pinned")'
+          Description: 'The native picture-in-picture button does not display when ads are enabled.'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
