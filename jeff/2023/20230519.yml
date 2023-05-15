@@ -36,14 +36,22 @@
           Status: Staging
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: 
-          Product_Update: 'true | false'
-          Feature: '(leave blank if Product_Update is false)'
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Brightcove QoE Analytics'
+          Description: 'Changed feature offering to only include Video start time and Summary charts'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-analytics.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove QoE Insights'
+          Description: 'Changed feature offering to include 4 charts and Summary above other insights'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
