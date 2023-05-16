@@ -62,3 +62,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Offline Playback with the Native Player SDKs'
+          Description: 'Added license expiration max limit and note'
+          Link: https://sdks.support.brightcove.com/features/offline-playback-native-player-sdks.html#Security  
+          Product: Device SDKs
+          Product_area: Offline Playback
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
