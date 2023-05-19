@@ -1,0 +1,38 @@
+- date: 19-May-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Section added about Youtube Shorts'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html
+          Product: Video Cloud 
+          Product_area: ' General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Device Apps Validation Guide'
+          Description: 'Supported platforms and versions updated'
+          Link: https://beacon.support.brightcove.com/publishing-apps/general/device-apps-validation-guide.html
+          Product:  Beacon 
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pigeonhole Q&A to a Live Event In-Page Experience'
+          Description: 'Embed code updated'
+          Link: https://gallery.support.brightcove.com/experiences/live/in-page/adding-pigeonhole-live-event-page-experience.html
+          Product: Gallery
+          Product_area: 'In-Page'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Updated information about we are currently supporting HLS+Widevine.'
+          Link: https://studio.support.brightcove.com/general/content-protection/overview-digital-rights-management-drm-video-cloud.html
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
