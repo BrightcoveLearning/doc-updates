@@ -37,6 +37,38 @@
           Product_Update: 'true'
           Feature: 'Watched Google Drive Folder'
           Status: Released
+        - Title: 'Overview: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn how Engagement Insights for Beacon allow you to understand viewer engagement and optimize your content strategy.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/overview.html 
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'true'
+          Feature: 'Engagement Insights for Beacon'
+          Status: Staging
+        - Title: 'Summary Reports: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Summary tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/summary-reports.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Viewer Engagement: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Engagement tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/viewer-engagement.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Content: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Content tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/content-metrics.html  
+          Product: Beacon
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Major updates
       docs:
         - Title: 'Interactive Examples Gallery'
@@ -71,6 +103,46 @@
           Product_Update: 'true'
           Feature: 'New version'
           Status: Released
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'Information updated to reflect GA4 support'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Ad Insights'
+          Description: 'Screenshoots updated and requirements section added'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-insights.html
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Brightcove QoE Analytics'
+          Description: 'Changed feature offering to only include Video start time and Summary charts'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-analytics.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove QoE Insights'
+          Description: 'Changed feature offering to include 4 charts and Summary above other insights'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html 
+          Product: Video Cloud
+          Product_area: Analytics
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Section added about Youtube Shorts'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html
+          Product: Video Cloud 
+          Product_area: ' General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
     - type: Minor updates
       docs:
         - Title: 'Videos by Delivery Type'
@@ -102,6 +174,62 @@
           Link: https://apis.support.brightcove.com/cms/references/reference.html
           Product: Video Cloud
           Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Google Analytics Event Tracking'
+          Description: 'Notes and links updated'
+          Link: https://studio.support.brightcove.com/players/general/configuring-google-analytics-event-tracking.html
+          Product: Video Cloud
+          Product_area: Brightcove Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'List of events for GA4 updated'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html#GA4_events_and_custom_dimensions
+          Product: Brightcove Player
+          Product_area: Plugins
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Chromecast Plugin for Brightcove Player'
+          Description: 'Added note about Chromecast + Windows 10 Overscan'
+          Link: https://player.support.brightcove.com/plugins/chromecast-plugin-brightcove-player.html 
+          Product: Brightcove Player
+          Product_area: Chromecast
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Offline Playback with the Native Player SDKs'
+          Description: 'Added license expiration max limit and note'
+          Link: https://sdks.support.brightcove.com/features/offline-playback-native-player-sdks.html#Security  
+          Product: Device SDKs
+          Product_area: Offline Playback
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Device Apps Validation Guide'
+          Description: 'Supported platforms and versions updated'
+          Link: https://beacon.support.brightcove.com/publishing-apps/general/device-apps-validation-guide.html
+          Product:  Beacon 
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pigeonhole Q&A to a Live Event In-Page Experience'
+          Description: 'Embed code updated'
+          Link: https://gallery.support.brightcove.com/experiences/live/in-page/adding-pigeonhole-live-event-page-experience.html
+          Product: Gallery
+          Product_area: 'In-Page'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Updated information about we are currently supporting HLS+Widevine.'
+          Link: https://studio.support.brightcove.com/general/content-protection/overview-digital-rights-management-drm-video-cloud.html
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: 'General Information'
           Product_Update: 'false'
           Feature: ''
           Status: Released
