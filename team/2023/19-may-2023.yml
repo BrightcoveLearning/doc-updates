@@ -1,0 +1,107 @@
+- date: 19-May-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Overview of the Integrations Module'
+          Description: 'New integrations module in Studio'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/getting-started/getting-started-integrations-module.html
+          Product: Integrations
+          Product_area: 'Integrations module'
+          Product_Update: 'true'
+          Feature: 'Module overview'
+          Status: Released
+        - Title: 'Setting Up an Automatic Ingestion Folder on Dropbox'
+          Description: 'Set up a connection to Dropbox and select a folder that Video Cloud will watch to automatically ingest videos placed in the folder.'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/watched-folders/dropbox.html
+          Product: Integrations
+          Product_area: 'Integrations module'
+          Product_Update: 'true'
+          Feature: 'Watched Dropbox Folder'
+          Status: Released
+        - Title: 'Setting Up an Automatic Ingestion Folder on Google Drive'
+          Description: 'Set up a connection to Google Drive and select a folder that Video Cloud will watch to automatically ingest videos placed in the folder.'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/watched-folders/google-drive.html
+          Product: Integrations
+          Product_area: 'Integrations module'
+          Product_Update: 'true'
+          Feature: 'Watched Google Drive Folder'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Interactive Examples Gallery'
+          Description: 'Updated all samples to use Interactivity'
+          Link: https://studio.support.brightcove.com/interactivity/examples/index.html
+          Product: Brightcove Interactivity
+          Product_area: 'Samples'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Troubleshooting Guide'
+          Description: 'Updated information on the MEDIA_ERR_SRC_NOT_SUPPORTED error to provide better information about common causes for the error'
+          Link: https://player.support.brightcove.com/troubleshooting/brightcove-player-troubleshooting-guide.html
+          Product: Brightcove Player
+          Product_area: 'Samples'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'API Operations for Client Credentials Requests'
+          Description: 'Added operations needed to create client credentials for the Cross Device Resume API'
+          Link: https://apis.support.brightcove.com/oauth/guides/api-operations-client-credentials-requests.html
+          Product: Video Cloud
+          Product_area: 'Platform APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'New release (8.1.1) of the Android SDK'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'Android SDK'
+          Product_Update: 'true'
+          Feature: 'New version'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Videos by Delivery Type'
+          Description: 'Removed sample because no longer relevant - all legacy ingest assets have been converted'
+          Link: https://apis.support.brightcove.com/cms/code-samples/cms-api-sample-videos-delivery-type.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Text Tracks Using the CMS API'
+          Description: 'Removed references to static (legacy ingest) assets'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/managing-text-tracks.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove CMS API Reference'
+          Description: 'Removed all operations for legacy ingest media assets'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove CMS API Reference'
+          Description: 'Corrected information about which requests can be made on multiple video ids'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
