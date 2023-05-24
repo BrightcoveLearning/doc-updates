@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: Engagement Insights for Beacon'
+          Description: 'Updated best practices section'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/overview.html 
+          Product: Beacon
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
     - type: Minor updates
       docs:
         - Title: ''
