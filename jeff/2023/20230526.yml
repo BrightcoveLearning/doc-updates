@@ -54,3 +54,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Playback Rights API Reference'
+          Description: 'Example names changed'
+          Link: https://apis.support.brightcove.com/playback-restrictions/references/playback-rights/reference.html  
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
