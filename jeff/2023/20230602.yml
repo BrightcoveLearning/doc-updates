@@ -38,3 +38,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'Added note about using playlist plugins with BC Player 7'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html#Plugins 
+          Product: Brightcove Player 
+          Product_area: 'Playlist'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Playlist API Guide'
+          Description: 'Added note about using playlist plugins with BC Player 7'
+          Link: https://player.support.brightcove.com/references/guide-playlist-api.html#playlist 
+          Product: Brightcove Player 
+          Product_area: 'Playlist'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
