@@ -54,3 +54,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'Updated note about input bitrate to top profile ratio'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html#Content_context 
+          Product: Live 
+          Product_area: 'Best Practices'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
