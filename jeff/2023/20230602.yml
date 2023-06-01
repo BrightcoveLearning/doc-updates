@@ -22,11 +22,19 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Using Captions with the Brightcove Native SDKs'
+          Description: 'Added note about using captions with PiP and the Native SDKs'
+          Link: https://sdks.support.brightcove.com/features/using-captions-brightcove-native-sdks.html#Picture_in_Picture_mode 
+          Product: Device SDKs
+          Product_area: 'Picture-in-Picture'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Picture in Picture with the Native SDKs'
+          Description: 'Added note about using captions with PiP and the Native SDKs'
+          Link: https://sdks.support.brightcove.com/features/picture-picture-native-sdks.html#Android_implementation  
+          Product: Device SDKs
+          Product_area: 'Picture-in-Picture'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
