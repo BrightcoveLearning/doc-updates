@@ -1,0 +1,155 @@
+- date: 26-May-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Overview: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn how Engagement Insights for Beacon allow you to understand viewer engagement and optimize your content strategy.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/overview.html 
+          Product: Beacon
+          Product_area: 'Insights'
+          Product_Update: 'true'
+          Feature: 'Engagement Insights'
+          Status: Released
+        - Title: 'Summary Reports: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Summary tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/summary-reports.html 
+          Product: Beacon
+          Product_area: 'Insights'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Viewer Engagement: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Engagement tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/viewer-engagement.html 
+          Product: Beacon
+          Product_area: 'Insights'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content: Engagement Insights for Beacon'
+          Description: 'In this topic, you will learn about the reports included in the Content tab for Beacon Engagement Insights.'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/content-metrics.html 
+          Product: Beacon
+          Product_area: 'Insights'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sample Dynamic Overlays'
+          Description: 'Added some sample dynamic overlays for Cloud Playout that can be used for testing'
+          Link: https://studio.support.brightcove.com/channels/cloud-playout/sample-overlays/index.html 
+          Product: Video Cloud
+          Product_area: 'Cloud Playout'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Interactivity Heartbeat Module Update'
+          Description: 'Steps to access up to the minute analytics data for Interactivity and legacy HapYak'
+          Link: https://studio.support.brightcove.com/interactivity/analytics/getting-up-to-the-minute-data.html
+          Product: Brightcove Interactivity
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Google Analytics Self Configuration with Beacon'
+          Description: 'Updated steps for Google Analytics 4'
+          Link: https://beacon-help.support.brightcove.com/analytics/third-party/ga-self-configuration.html 
+          Product: Beacon
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising with the FreeWheel Plugin'
+          Description: 'Added additional configuration fields'
+          Link: https://player.support.brightcove.com/plugins/advertising-freewheel-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Advertising'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Autoplay Considerations'
+          Description: 'Updated to match the options currently available in the player'
+          Link: https://player.support.brightcove.com/playback/autoplay-considerations.html
+          Product: Brightcove Player
+          Product_area: 'Playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'SSAI: Ad Block Detection and Auto-Failover'
+          Description: 'Added subsection on implementing auto-failover for those writing custom code against the player'
+          Link: https://ssai.support.brightcove.com/vod/guides/ssai-ad-block-detection-and-auto-failover.html#Implementing_autofailover_using_Studio
+          Product: SSAI
+          Product_area: 'Failover'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Getting Playback Position from XDR API'
+          Description: 'Added section on how to send the viewer ID from the Brightcove Player'
+          Link: https://apis.support.brightcove.com/xdr/getting-started/get-playback-position.html
+          Product: Video Cloud
+          Product_area: 'Cross Device Resume'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Ingest Profiles Fields Reference'
+          Description: 'Added note that a watermark width must be sent as a string even when it is just a number'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/ingest-profiles-api-fields-reference-dynamic-delivery-and-context-aware-encoding.html#watermarkFields
+          Product: Video Cloud
+          Product_area: 'Ingest Profiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'Fixed JSON code blocks'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html 
+          Product: Brightcove Player
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Playback Rights API Reference'
+          Description: 'Example names changed'
+          Link: https://apis.support.brightcove.com/playback-restrictions/references/playback-rights/reference.html  
+          Product: Video Cloud
+          Product_area: Playback Restrictions
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'Rewording for clarification'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html 
+          Product: Integrations
+          Product_area: Sitecore
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Dimensions, Fields, and Parameters'
+          Description: 'Added note that combinations of up to four dimensions are documented - some additional combinations of more than four dimensions will work, but users will need to test and see'
+          Link: https://apis.support.brightcove.com/analytics/getting-started/analytics-api-overview-dimensions-fields-and-parameters.html
+          Product: Video Cloud
+          Product_area: Analytics API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'CMS API: Playlists Search'
+          Description: 'Corrected available options for sorting results when searching for playlists'
+          Link: https://apis.support.brightcove.com/cms/searching/cms-api-playlists-search.html
+          Product: Video Cloud
+          Product_area: CMS API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
