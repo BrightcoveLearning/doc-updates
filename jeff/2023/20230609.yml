@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Static URL Delivery'
+          Description: 'Removed references to Playback API v2 since it is the only version available now'
+          Link: https://apis.support.brightcove.com/playback/guides/static-url-delivery.html 
+          Product: Video Cloud
+          Product_area: 'Playback API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
