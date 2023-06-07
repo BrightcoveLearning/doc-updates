@@ -33,11 +33,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Download Button Plugin'
+          Description: 'Note about the events added'
+          Link: https://player.support.brightcove.com/plugins/download-button-plugin.html#Events
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
