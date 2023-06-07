@@ -38,3 +38,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Generic Stream Concurrency'
+          Description: 'Changed the Active Sessions method to GET, and fixed the Stop Sessions endpoint'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html#implementation_via_API  
+          Product: Video Cloud
+          Product_area: 'Concurrency Service API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
