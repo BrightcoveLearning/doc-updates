@@ -20,6 +20,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Added audience claim for Playback Restrictions'
+          Link: https://general.support.brightcove.com/developer/create-json-web-token.html#Claims_for_Playback_Restrictions 
+          Product: Video Cloud
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Download Button Plugin'
