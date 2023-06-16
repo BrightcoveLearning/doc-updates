@@ -1,0 +1,28 @@
+- date: 16-june-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Dynamic Delivery Ingest Priority Queueing'
+          Description: 'Ingest queue capacity numbers updated'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/dynamic-delivery-ingest-priority-queueing.html
+          Product: APIs
+          Product_area: 'Ingest Guides'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Beacon Apps Ad Targeting'
+          Description: ' Note added about consent management in place to resolve GDPR, CCPA, GDPR CONSENT, and US PRIVACY macros.'
+          Link: https://beacon.support.brightcove.com/monetization/ssai/beacon-apps-ad-targeting.html
+          Product:  Beacon
+          Product_area: 'SSAI'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+         - Title: 'Configuring Language Settings'
+          Description: 'Update on the steps to be followed to set the language '
+          Link: https://studio.support.brightcove.com/admin/general/configuring-language-settings.html
+          Product: Video Cloud 
+          Product_area: 'Administration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
