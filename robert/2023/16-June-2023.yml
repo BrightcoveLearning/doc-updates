@@ -1,0 +1,40 @@
+- date: 16-June-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Requesting Late Binding'
+          Description: 'Requesting late binding provides a way to add or modify progressive MP4 renditions for an existing video without re-creating other existing renditions.'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/requesting-late-binding.html
+          Product: Video Cloud
+          Product_area: 'Platform APIs'
+          Product_Update: 'true'
+          Feature: 'Dynamic Ingest - Late Binding'
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Adding Captions to Videos using the Media Module'
+          Description: 'Added a note that the text encoding for uploaded caption files must be UTF-8'
+          Link: https://studio.support.brightcove.com/media/captions/adding-captions-videos-using-media-module.html#captionsfile
+          Product: Video Cloud
+          Product_area: 'Media Module - Captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Audience Insights Salesforce Integration Setup'
+          Description: 'Updated wording of requirements'
+          Link: https://audience-insights.support.brightcove.com/integrations/salesforce-sales-cloud/audience-insights-publish-integration-setup.html
+          Product: Integrations
+          Product_area: 'Audience Insights Salesforce Integration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
