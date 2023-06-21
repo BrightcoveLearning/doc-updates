@@ -33,11 +33,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Beacon App Skip Intros and Credits'
+          Description: 'Updated based on feedback'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/app-behavior/skip-intro-credits.html 
+          Product: Beacon
+          Product_area: 'App behavior'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Staging
