@@ -1,0 +1,44 @@
+- date: 23-June-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Interactivity Documentation'
+          Description: 'Added a warning to all pages that this is documentation for the deprecated HapYak version of Interactivity (with a link to the current documentation)'
+          Link: https://interactivity.support.brightcove.com/index.html
+          Product: Brightcove Interactivity
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: 'Deprecated version'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Using Live Redundancy'
+          Description: 'Added a note that the labels for all output renditions must be unique or redundancy may fail'
+          Link: https://apis.support.brightcove.com/live-api/guides/using-live-redundancy.html
+          Product: Live
+          Product_area: 'Live Redundancy'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
