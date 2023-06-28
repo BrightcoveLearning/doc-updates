@@ -23,14 +23,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Viewing Beacon App Data in Google Analytics 4'
+          Description: 'Updated with Looker Studio and GA4 events and parameters'
+          Link: https://beacon-help.support.brightcove.com/analytics/third-party/viewing-analytics-data-google.html 
+          Product: Beacon
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Google Looker Studio'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Implementing Server-Side Ads with Brightcove Player'
