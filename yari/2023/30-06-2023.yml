@@ -33,11 +33,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Using a Non-Brightcove Player'
+          Description: 'Description of the document updated'
+          Link: https://player.support.brightcove.com/publish/using-non-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: 'Publish'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
