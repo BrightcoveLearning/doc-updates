@@ -1,20 +1,9 @@
 - date: 30-June-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
     - type: New Docs
       docs:
         - Title: 'Player Series'
-          Description: 'New player series section'
+          Description: 'New player series page created'
           Link: https://player.support.brightcove.com/player-series/
           Product: Brightcove Player
           Product_area: 'Player'
@@ -38,6 +27,14 @@
           Link: https://player.support.brightcove.com/publish/using-non-brightcove-player.html
           Product: Brightcove Player
           Product_area: 'Publish'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started'
+          Description: 'Note about the Campaign Module added'
+          Link: https://campaign.support.brightcove.com/get-started/index.html
+          Product: Video Cloud
+          Product_area: 'Campaign'
           Product_Update: 'false'
           Feature: ''
           Status: Released
