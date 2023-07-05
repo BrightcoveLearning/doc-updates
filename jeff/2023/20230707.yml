@@ -31,6 +31,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Implementing Delivery Rules'
+          Description: 'Added clarification for preferred CDN provider and domain'
+          Link: https://apis.support.brightcove.com/delivery-rules/getting-started/implementing-delivery-rules.html#Defining_rules  
+          Product: Video Cloud
+          Product_area: 'Delivery Rules'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
