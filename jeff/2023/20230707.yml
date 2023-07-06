@@ -21,6 +21,14 @@
           Product_Update: 'true'
           Feature: 'Skip Intros and Credits'
           Status: Released
+        - Title: 'Brightcove Player with Beacon Web Apps'
+          Description: 'In this topic, you will learn about using Brightcove Player with Beacon web apps.'
+          Link: https://beacon-help.support.brightcove.com/players/getting-started/bcp-with-beacon-web-apps.html 
+          Product: Beacon
+          Product_area: 'Beacon Web Apps'
+          Product_Update: 'true'
+          Feature: 'Brightcove Player 7 Updates'
+          Status: Staging
     - type: Major updates
       docs:
         - Title: 'Viewing Beacon App Data in Google Analytics'
