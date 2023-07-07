@@ -1,0 +1,40 @@
+- date: 07-July-23
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Continue Watching'
+          Description: 'In this topic, you will learn how continue watching work in Brightcove Beacon apps'
+          Link: https://beacon.support.brightcove.com/publishing-apps/app-behavior/continue-watching.html
+          Product:  Beacon
+          Product_area: 'App behavior'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player Release Notes'
+          Description: 'Brightcove player new release'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
+          Product:  Brightcove Player
+          Product_area: 'Release notes'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Plugin Version Reference'
+          Description: 'New IMA3 Advertising and Social Media plugins'
+          Link: https://player.support.brightcove.com/plugins/plugin-version-reference.html
+          Product:  Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Live API Reference (1.0.0)'
+          Description: 'Pass through API request added'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#tag/Live-Jobs/operation/CreateALiveJob
+          Product: APIs
+          Product_area: 'Live api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
