@@ -17,7 +17,7 @@
           Product_area: 'Beacon Web Apps'
           Product_Update: 'true'
           Feature: 'Brightcove Player 7 Updates'
-          Status: Staging
+          Status: Released
     - type: Major updates
       docs:
         - Title: 'Viewing Beacon App Data in Google Analytics'
