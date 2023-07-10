@@ -1,0 +1,43 @@
+- date: 14-July-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    - type: New Docs
+      docs:
+        - Title: 'Integration Spotlight: Blueshift'
+          Description: 'In this topic you will learn about Blueshift, this integration allows external imports via an S3 bucket.'
+          Link: https://audience-insights.support.brightcove.com/integrations/integration_spotlight_blueshift.html
+          Product: Audience Insights
+          Product_area: 'Integrations'
+          Product_Update: 'true'
+          Feature: 'New Blueshift integration'
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
