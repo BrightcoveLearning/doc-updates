@@ -33,11 +33,11 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Training on Demand: Implementing VOD Server-Side Ads'
+          Description: 'Implementing VOD SSAI links fixed'
+          Link: https://beacon.support.brightcove.com/training/training-demand-vod-ssai.html
+          Product: Beacon
+          Product_area: 'Training'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
