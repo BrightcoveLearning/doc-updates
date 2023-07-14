@@ -1,25 +1,23 @@
 - date: 14-July-2023
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Advertising with the IMA3 Plugin'
+          Description: 'Added section for Brightcove Ad Monetization macros'
+          Link: https://player.support.brightcove.com/plugins/advertising-ima3-plugin.html#Ad_macros_and_the_serverUrl
+          Product: Brightcove Player
+          Product_area: 'Advertising'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Added section for Brightcove Ad Monetization macros'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html
+          Product: SSAI
+          Product_area: 'Advertising'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Live DRM'
