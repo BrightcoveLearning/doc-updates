@@ -1,0 +1,30 @@
+- date: 30-June-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Player Series'
+          Description: 'New player series page created'
+          Link: https://player.support.brightcove.com/player-series/
+          Product: Brightcove Player
+          Product_area: 'Player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Using a Non-Brightcove Player'
+          Description: 'Description of the document updated'
+          Link: https://player.support.brightcove.com/publish/using-non-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: 'Publish'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started'
+          Description: 'Note about the Campaign Module added'
+          Link: https://campaign.support.brightcove.com/get-started/index.html
+          Product: Video Cloud
+          Product_area: 'Campaign'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

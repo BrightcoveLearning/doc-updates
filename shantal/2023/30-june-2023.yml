@@ -1,0 +1,11 @@
+- date: 30-June-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: '概要：iOS用BrightcoveプレーヤーSDK'
+          Description: 'Brightcove Player SDK for iOS Updated'
+          Link: https://ja.sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product:  Device SDKs
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
