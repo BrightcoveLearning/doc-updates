@@ -1,0 +1,22 @@
+- date: 21-July-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Segments'
+          Description: 'The Segments feature, found in Custom Reports, allows you to create audience segments of your audience based on video viewing/engagement metrics.'
+          Link: https://studio.support.brightcove.com/analytics/reports/segments-report.html
+          Product: Video Cloud 
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status:  Staging 
+    - type: Major updates
+      docs:
+        - Title: 'Integration Spotlight: Braze'
+          Description: 'In this topic you will learn about Braze, this integration allows you to automate customer contact.'
+          Link: https://audience-insights.support.brightcove.com/integrations/integration_spotlight_braze.html
+          Product: Audience Insights
+          Product_area: 'Integrations'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
