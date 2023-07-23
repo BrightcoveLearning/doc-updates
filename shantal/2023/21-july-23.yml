@@ -20,3 +20,43 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK Release v8.2.0'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: SDKs
+          Product_area: 'Android Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Brightcove Native SDK for Android Release Notes'
+          Description: 'Android SDK Releases notes updated'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-native-sdk-android-release-notes.html
+          Product: SDKs
+          Product_area: 'Android Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Brightcove Native SDK for Android Release Notes'
+          Description: 'Previous releases table updated'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-player-sdk-android-previous-sdk-information.html
+          Product: SDKs
+          Product_area: 'Android Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Publishing a Video to One Social Media Platform'
+          Description: 'Pinterest section added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-video-one-social-platform.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'true'
+          Feature: 'Pinterest'
+          Status: Staging
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Pinterest section added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'true'
+          Feature: 'Pinterest'
+          Status: Staging 
