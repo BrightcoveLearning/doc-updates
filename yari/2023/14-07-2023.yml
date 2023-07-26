@@ -21,16 +21,6 @@
           Product_Update: 'true'
           Feature: 'New Blueshift integration'
           Status: Staging
-    - type: Major updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
         - Title: 'Training on Demand: Implementing VOD Server-Side Ads'
