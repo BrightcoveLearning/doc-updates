@@ -33,7 +33,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    
+        - Title: 'Accessing Reporting Endpoints'
+          Description: 'Sample code updated and link to get credentials added'
+          Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
+          Product: Video Cloud
+          Product_area: 'Interactivity API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
