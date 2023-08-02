@@ -43,11 +43,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Adding Audio Tracks to Videos using the Media Module'
+          Description: 'Notes section updated to add the default option'
+          Link: https://studio.support.brightcove.com/media/captions/adding-audio-tracks-videos-using-media-module.html
+          Product: Video Cloud
+          Product_area: 'Media'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
