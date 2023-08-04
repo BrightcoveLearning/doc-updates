@@ -1,0 +1,29 @@
+- date: 04-Aug-2023
+  types:    
+    - type: Major updates
+      docs:
+        - Title: 'Interactive Examples Gallery'
+          Description: 'Fix the responsiveness of the videos'
+          Link: https://studio.support.brightcove.com/interactivity/examples/index.html
+          Product:  Interactivity 
+          Product_area: 'studio'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Audience Sync Configuration'
+          Description: 'Update Document Images'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/customer-data-platforms/audience-sync-configuration.html#Set_up_an_integration
+          Product:  Integrations 
+          Product_area: 'customer-data-platforms'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Signed URLs and Token Auth with a Live Stream'
+          Description: 'Add new Limitations Section'
+          Link: https://apis.support.brightcove.com/live-api/guides/signed-urls-and-token-auth-live-stream.html#Limitations
+          Product:  Video Cloud 
+          Product_area: 'Guides'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
