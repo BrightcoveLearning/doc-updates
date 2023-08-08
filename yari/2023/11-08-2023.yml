@@ -1,0 +1,71 @@
+- date: 11-Aug-2023
+  types:
+    - type: New Brightcove Academy Courses
+      docs:
+        - Title: 
+          Description: 
+          Customer_Link: 
+          Employee_Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released
+    
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player Sample: Download Video Plugin'
+          Description: 'Player sample updated'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-download-video-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Archiving Masters'
+          Description: 'Legacy references removed'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/archiving-masters.html
+          Product: Video Cloud
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Marketo REST Integration Testing Guide'
+          Description: 'Wording updated'
+          Link: https://studio.support.brightcove.com/campaign/integrations/marketo/marketo-rest-integration-testing-guide.html
+          Product: Integrations
+          Product_area: 'Marketo'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'How to Search for Videos and Playlists in the Media Module'
+          Description: 'Wording updated'
+          Link: https://studio.support.brightcove.com/media/module/how-search-videos-and-playlists-media-module.html
+          Product: Video Cloud
+          Product_area: 'Media Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing the Event Agenda'
+          Description: 'Pigeonhole reference removed'
+          Link: https://gallery.support.brightcove.com/experiences/virtual-event/agenda-speakers/managing-agenda-virtual-event-experience.html#adding_sessions
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
