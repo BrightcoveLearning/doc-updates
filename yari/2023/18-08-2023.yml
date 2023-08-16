@@ -1,4 +1,4 @@
-- date: 11-Aug-2023
+- date: 18-Aug-2023
   types:
     - type: New Brightcove Academy Courses
       docs:
@@ -14,14 +14,14 @@
     
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Known Issues: Brightcove QoE'
+          Description: 'In this topic, you will learn about the current known issues for Quality of Experience (QoE).'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-known-issues.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     
     - type: Major updates
       docs:
@@ -38,6 +38,14 @@
           Link: https://apis.support.brightcove.com/ingest-profiles/guides/archiving-masters.html
           Product: Video Cloud
           Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Accessing Reporting Endpoints'
+          Description: 'API permissions updated'
+          Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
+          Product: Brightcove Interactivity
+          Product_area: 'Interactivity API'
           Product_Update: 'false'
           Feature: ''
           Status: Released
@@ -68,4 +76,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        
+        - Title: 'Live API Reference'
+          Description: 'Note about input_media_file objet fields added'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#tag/Live-Jobs/operation/GetLiveJobDetails
+          Product: Video Cloud
+          Product_area: 'Live API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'eventsToTrackGA4 option added'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html#Options
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
