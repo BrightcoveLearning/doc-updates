@@ -1,17 +1,5 @@
 - date: 18-Aug-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
-    
     - type: New Docs
       docs:
         - Title: 'Known Issues: Brightcove QoE'
@@ -46,6 +34,14 @@
           Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
           Product: Brightcove Interactivity
           Product_area: 'Interactivity API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Customizing Player Appearance'
+          Description: 'Player properties updated'
+          Link: https://player.support.brightcove.com/styling/customizing-player-appearance.html
+          Product: Brightcove Player
+          Product_area: 'Styling'
           Product_Update: 'false'
           Feature: ''
           Status: Released
@@ -85,7 +81,7 @@
           Feature: ''
           Status: Released
         - Title: 'Google Analytics Plugin'
-          Description: 'eventsToTrackGA4 option added'
+          Description: 'Typo fixed'
           Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html#Options
           Product: Brightcove Player
           Product_area: 'Plugins'
