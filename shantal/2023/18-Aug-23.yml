@@ -34,7 +34,7 @@
           Product_area: ' tvOS Development'
           Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released 
         - Title: 'Overview: Brightcove Native SDK for tvOS'
           Description: 'Brightcove Native Player for iOS release 6.12.3'
           Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
@@ -43,6 +43,30 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'Pinterest Section Added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'true'
+          Feature: 'New Pinterest Integration with Social'
+          Status: Released
+        - Title: 'Publishing a Video to One Social Media Platform'
+          Description: 'Pinterest Section Added'
+          Link: https://studio.support.brightcove.com/social/general/publishing-video-one-social-platform.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'true'
+          Feature: 'New Pinterest Integration with Social'
+          Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Monitoring the stream Section Added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#ext-monitoring
+          Product: Live
+          Product_area: 'Using the Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released     
     - type: Minor updates
       docs:
         - Title: 'Authenticating Studio Users using Single Sign-On'
@@ -50,6 +74,14 @@
           Link: https://studio.support.brightcove.com/admin/general/authenticating-studio-users-using-single-sign.html
           Product: Video Cloud
           Product_area: ' Administration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Configuring Roku Search'
+          Description: 'Adding new Roku link for information about new UI'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/roku/configuring-roku-search.html
+          Product: Beacon
+          Product_area: 'Publishing apps'
           Product_Update: 'false'
           Feature: ''
           Status: Released 
