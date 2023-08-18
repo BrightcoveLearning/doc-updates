@@ -1,0 +1,71 @@
+- date: 18-Aug-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Interactivity Javascript Embed API'
+          Description: 'create new setting custom user identification variables section'
+          Link: https://apis.support.brightcove.com/interactivity/embed-api/reference.html#custom_user_identification_variables
+          Product: Video Cloud
+          Product_area: 'embed-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring a Player Overlay Using the Overlay Plugin'
+          Description: 'update links'
+          Link: https://studio.support.brightcove.com/players/appearance/configuring-player-overlay-using-overlay-plugin.html#configure
+          Product: Video Cloud
+          Product_area: 'appearance'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Working with the Immersion Portal Template'
+          Description: 'Typo'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/working-with-immersion-template.html#create_portal
+          Product: Video Cloud
+          Product_area: 'templates'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Interactivity Reports Reference'
+          Description: 'Link fix'
+          Link: https://studio.support.brightcove.com/interactivity/analytics/interactivity-reports-reference.html
+          Product: Video Cloud
+          Product_area: 'analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released  
+        - Title: 'Known Issues: Studio, Brightcove Player and APIs'
+          Description: 'add info'
+          Link: https://general.support.brightcove.com/support/known-issues-studio-brightcove-player-and-apis.html#analytics
+          Product: Video Cloud
+          Product_area: 'Player Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released  
+        - Title: 'FAQ: Analytics Module'
+          Description: 'add info'
+          Link: https://studio.support.brightcove.com/analytics/module/faq-analytics-module.html#understanding_data
+          Product: Video Cloud
+          Product_area: 'module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'add info'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html#Android_support
+          Product: Device SDKs
+          Product_area: 'basics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'The Brightcove Native SDKs'
+          Description: 'add a note'
+          Link: https://sdks.support.brightcove.com/getting-started/brightcove-native-player-sdks.html#Mobile_devices
+          Product: Device SDKs
+          Product_area: 'getting-started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
