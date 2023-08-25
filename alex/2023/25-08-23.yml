@@ -1,0 +1,124 @@
+- date: 18-Aug-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Using an SVOD Plan'
+          Description: 'Update documentation description'
+          Link: https://beacon.support.brightcove.com/monetization/general/using-svod-plan.html#Understanding_the_rights_management_custom_fields
+          Product: Beacon
+          Product_area: 'general'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Live Redundancy'
+          Description: 'Health field description'
+          Link: https://apis.support.brightcove.com/live-api/guides/using-live-redundancy.html#Get_Redundant_Group_Status
+          Product: Video Cloud
+          Product_area: 'guides'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Remove all references to Engage'
+          Description: 'Remove all references to Engage'
+          Link: https://support.brightcove.com/
+          Product: Video Cloud
+          Product_area: 'support'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Server-Side Ads in the Live Module'
+          Description: 'live analytics information note'
+          Link: https://live.support.brightcove.com/live-module/implementing-server-side-ads-live-module.html#Publishing_a_remote_live_event
+          Product: Live
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Step-by-Step: Player Management'
+          Description: 'image update'
+          Link: https://apis.support.brightcove.com/player-management/getting-started/step-step-player-management.html
+          Product: Video Cloud
+          Product_area: 'player-management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'updating limitations'
+          Link: https://corptv.support.brightcove.com/live/live-module/multi-language-audio.html
+          Product: CorpTV
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'updating limitations'
+          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html
+          Product: Live
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'updating limitations'
+          Link: https://beacon-help.support.brightcove.com/live/live-module/multi-language-audio.html
+          Product: Beacon
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Best Practices: The Video Creating, Transcoding, and Uploading Workflow'
+          Description: 'updating HEVC Video info'
+          Link: https://studio.support.brightcove.com/general/references/best-practices-video-creating-transcoding-and-uploading-workflow.html
+          Product: Video Cloud
+          Product_area: 'references'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'UploadTimeoutError'
+          Description: 'typo'
+          Link: https://zencoder.support.brightcove.com/error-troubleshooting/error-codes/error-uploadtimeouterror.html
+          Product: Zencoder
+          Product_area: 'error-codes'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Ingest Profiles for Context Aware Encoding'
+          Description: 'correct the redirection link'
+          Link: https://studio.support.brightcove.com/admin/creating-ingest-profiles-context-aware-encoding.html
+          Product: Video Cloud
+          Product_area: 'admin'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Cloud Playout Channel'
+          Description: 'clarify broken link'
+          Link: https://studio.support.brightcove.com/channels/cloud-playout/getting-started/cloud-playout-stream-vod.html
+          Product: Video Cloud
+          Product_area: 'getting-started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Picture-in-Picture Plugin'
+          Description: 'update link'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html#Implement_using_code
+          Product: Video Cloud
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'ClientApi'
+          Description: 'fix broken link'
+          Link: https://apis.support.brightcove.com/in-page-exerience-client-api/ClientApi.html#~Player
+          Product: Video Cloud
+          Product_area: 'in-page-exerience-client-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Learning Guide: Video Advertising'
+          Description: 'image update'
+          Link: https://player.support.brightcove.com/getting-started/learning-guide-video-advertising.html
+          Product: Video Cloud
+          Product_area: 'getting-started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
