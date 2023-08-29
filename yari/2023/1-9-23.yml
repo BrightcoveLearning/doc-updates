@@ -14,17 +14,6 @@
     
     - type: New Docs
       docs:
-        - Title: 'Playlist UI Plugin'
-          Description: 'Add/remove playlist items section added'
-          Link: https://player.support.brightcove.com/plugins/playlist-ui-plugin.html
-          Product: Brightcove Player
-          Product_area: 'Plugins'
-          Product_Update: 'true'
-          Feature: 'New add/remove playlist items feature'
-          Status: Released | Limited Availability | Staging | Internal
-    
-    - type: Major updates
-      docs:
         - Title: ''
           Description: ''
           Link: 
@@ -33,6 +22,17 @@
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Major updates
+      docs:
+        - Title: 'Playlist UI Plugin'
+          Description: 'Add/remove playlist items section added'
+          Link: https://player.support.brightcove.com/plugins/playlist-ui-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'true'
+          Feature: 'New add/remove playlist items feature'
+          Status: Released
     
     - type: Minor updates
       docs:
