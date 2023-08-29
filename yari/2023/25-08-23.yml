@@ -1,0 +1,34 @@
+- date: 25-Aug-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Requesting Late Binding'
+          Description: 'Requesting late binding provides a way to add or modify progressive MP4 renditions for an existing video without re-creating other existing renditions. This allows you to reduce processing time while adding needed features to existing videos.'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/requesting-late-binding.html
+          Product: Video Cloud
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'true'
+          Feature: 'New Late Bindind feature'
+          Status: Released
+    
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove QoE Analytics'
+          Description: 'Glossary updated'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-analytics.html#Glossary
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+          
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player System Requirements'
+          Description: 'Non supported browsers removed from the table'
+          Link: https://player.support.brightcove.com/references/brightcove-player-system-requirements.html
+          Product: Brightcove Player
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: 'References'
+          Status: Released

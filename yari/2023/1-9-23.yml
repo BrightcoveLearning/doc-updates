@@ -36,11 +36,27 @@
     
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Managing Text Tracks'
+          Description: 'Limitations section added'
+          Link: https://mstudio.support.brightcove.com/media/managing-text-tracks.html
+          Product: Video Cloud
+          Product_area: 'Media'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Adding WebVTT Captions (Text Tracks)'
+          Description: 'Note about remote text tracks added'
+          Link: https://mstudio.support.brightcove.com/media/managing-text-tracks.html#Limitations
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Remote Assets'
+          Description: 'Limitation about remote text tracks added'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/using-cms-api-remote-assets.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
