@@ -1,0 +1,32 @@
+- date: 20-July-2023
+  types:
+    - type: New Docs
+      docs:
+      - Title: 'Brightcove Interactivity API Reference'
+        Description: 'Interactivity Read/Write API Documentation'
+        Link: https://apis.support.brightcove.com/interactivity/references/reference.html
+        Product: Brightcove Interactivity
+        Product_area: 'References'
+        Product_Update: 'true'
+        Feature: 'Brightcove Interactivity API Reference'
+        Status: Released 
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'Input and Output bitrate values for Live Streaming Updated'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
+          Product:  Brightcove Player
+          Product_area: 'Getting Started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
