@@ -1,4 +1,4 @@
-- date: 20-July-2023
+- date: 01-Sep-2023
   types:
     - type: New Docs
       docs:
@@ -22,11 +22,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Live API Reference (1.0.0)'
+          Description: 'Max output video bitrate updated'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: APIs
+          Product_area: 'References'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
