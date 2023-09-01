@@ -1,0 +1,28 @@
+- date: 1-Sep-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'add instructions'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#work_recurring
+          Product: Live 
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Remote Assets'
+          Description: 'fix image'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/using-cms-api-remote-assets.html#workflow
+          Product: Video Cloud
+          Product_area: 'managing-videos'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native Player for iOS Reference'
+          Description: 'fix section links'
+          Link: https://sdks.support.brightcove.com/ios/reference/sdk/index.html
+          Product: Device SDKs
+          Product_area: 'sdk'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
