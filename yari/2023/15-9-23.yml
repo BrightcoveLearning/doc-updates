@@ -1,4 +1,4 @@
-- date: 8-Sep-2023
+- date: 15-Sep-2023
   types:
     - type: New Brightcove Academy Courses
       docs:
@@ -14,14 +14,14 @@
     
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Content Security Polices that Must Be Accessible to Video Cloud'
+          Description: 'This topic provides an overview of the Video Cloud Studio content security policies.'
+          Link: https://beacon-help.support.brightcove.com/general/architecture/domains-and-ports-must-be-accessible-video-cloud.html
+          Product: Video Cloud
+          Product_area: 'General'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     
     - type: Major updates
       docs:
