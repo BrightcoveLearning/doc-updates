@@ -1,0 +1,86 @@
+- date: 8-Sep-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating and Managing Templates'
+          Description: 'update image with new settings and settings description'
+          Link: https://studio.support.brightcove.com/interactivity/templates/creating-and-managing-templates.html
+          Product: Video Cloud
+          Product_area: 'Interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Applying Templates to Projects'
+          Description: 'update image with new settings and workflow description'
+          Link: https://studio.support.brightcove.com/interactivity/templates/applying-templates-projects.html
+          Product: Video Cloud
+          Product_area: 'Interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Social'
+          Description: 'Add clip videos section'
+          Link: https://studio.support.brightcove.com/social/module/getting-started-brightcove-social.html#view
+          Product: Video Cloud
+          Product_area: 'module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Video Cloud SSAI Overview'
+          Description: 'Add SSAI audio-only limitation'
+          Link: https://ssai.support.brightcove.com/getting-started/video-cloud-ssai-overview.html#Limitations
+          Product: SSAI 
+          Product_area: 'getting-started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Working with the Immersion Portal Template'
+          Description: 'typo correction'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/working-with-immersion-template.html#menu
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Working with the Immersion Portal Template'
+          Description: 'typo correction'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/working-with-immersion-template.html#menu
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Adding Text Tracks to a Video'
+          Description: 'typo correction'
+          Link: https://campaign.support.brightcove.com/videos/adding-text-tracks-to-a-video.html
+          Product: Video Cloud
+          Product_area: 'videos'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Publishing Videos to Social Media Platforms'
+          Description: 'typo correction'
+          Link: https://studio.support.brightcove.com/social/general/publishing-videos-social-media-platforms.html#youtube
+          Product: Video Cloud
+          Product_area: 'general'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Adding Pigeonhole Q&A to a Live Event In-Page Experience'
+          Description: 'Add limitation'
+          Link: https://gallery.support.brightcove.com/experiences/live/in-page/adding-pigeonhole-live-event-page-experience.html#limitations
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Video Cloud SSAI Overview'
+          Description: 'Add note'
+          Link: https://ssai.support.brightcove.com/getting-started/video-cloud-ssai-overview.html
+          Product: SSAI
+          Product_area: 'getting-started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
