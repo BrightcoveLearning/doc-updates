@@ -1,39 +1,81 @@
 - date: 15-Sep-2023
   types:
-    - type: New Brightcove Academy Courses
-      docs:
-        - Title: 
-          Description: 
-          Customer_Link: 
-          Employee_Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released
-    
     - type: New Docs
       docs:
-        - Title: 'Content Security Polices that Must Be Accessible to Video Cloud'
-          Description: 'This topic provides an overview of the Video Cloud Studio content security policies.'
-          Link: https://beacon-help.support.brightcove.com/general/architecture/domains-and-ports-must-be-accessible-video-cloud.html
+    - type: Major updates
+      docs:
+        - Title: 'Engagement: Overview'
+          Description: 'Document updated to reflect the new Engagement UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-overview.html
           Product: Video Cloud
-          Product_area: 'General'
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'New Engagement Insights UI'
+          Status: Released
+        - Title: 'Engagement: Usage trends'
+          Description: 'Document updated to reflect the new Engagement UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-usage-trends.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    
-    - type: Major updates
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Engagement: Status Over Time'
+          Description: 'Document updated to reflect the new Engagement UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-status-over-time.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
-    
+          Status: Released
+        - Title: 'Engagement: Sessions Over Time'
+          Description: 'Document updated to reflect the new Engagement UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-sessions-over-time.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Engagement: Hours Viewed By'
+          Description: 'Document updated to reflect the new Engagement UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-hours-viewed-by.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content: Overview'
+          Description: 'Document updated to reflect the new Content UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/engagement/engagement-overview.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'New Content Insights UI'
+          Status: Released
+        - Title: 'Content: Catalog and Explorer'
+          Description: 'Document updated to reflect the new Content UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/content/content-catalog-by.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content: Popular Content'
+          Description: 'Document updated to reflect the new Content UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/content/content-pupular-content-by.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Content: Library Breakdown and First Watched'
+          Description: 'Document updated to reflect the new Content UI for Video Cloud Studio'
+          Link: https://studio.support.brightcove.com/analytics/content/content-trial-drivers-library.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Overview: Social Syndication API'
