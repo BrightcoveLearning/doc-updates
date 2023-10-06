@@ -1,0 +1,22 @@
+- date: 06-October-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Videos on Roku Trick Play'
+          Description: 'New section about using DASH'
+          Link: https://general.support.brightcove.com/general/roku-trick-play.html
+          Product: Video Cloud 
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'OTT Catalog Export'
+          Description: 'Roku Search Feed section updated'
+          Link: https://beacon-help.support.brightcove.com/layout/ott-catalog-export.html
+          Product: Beacon 
+          Product_area: 'Managing Pages'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
