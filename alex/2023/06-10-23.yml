@@ -1,0 +1,62 @@
+- date: 06-Oct-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Sending Brightcove Analytics from the Native SDK for iOS'
+          Description: 'New Cross platform analytics fields'
+          Link: https://sdks.support.brightcove.com/ios/analytics/sending-brightcove-analytics-native-sdk-ios.html#Customize_properties
+          Product: Device SDKs
+          Product_area: 'analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sending Brightcove Analytics from the Native SDK for Android'
+          Description: 'New Cross platform analytics fields'
+          Link: https://sdks.support.brightcove.com/android/analytics/sending-brightcove-analytics-native-sdk-android.html#Customize_properties
+          Product: Device SDKs
+          Product_area: 'analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Player Localization'
+          Description: 'New section Languages supported'
+          Link: https://studio.support.brightcove.com/players/appearance/configuring-player-localization.html
+          Product: Video Cloud
+          Product_area: 'players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating a Network Log'
+          Description: 'update term for safari'
+          Link: https://player.support.brightcove.com/troubleshooting/creating-network-log.html#Create_a_web_archive_from_Safari
+          Product: Brightcove Player
+          Product_area: 'troubleshooting'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Network Log'
+          Description: 'update steps and images for firefox'
+          Link: https://player.support.brightcove.com/troubleshooting/creating-network-log.html#Create_a_network_log_from_Firefox
+          Product: Brightcove Player
+          Product_area: 'troubleshooting'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'new values added to device_os field'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html#all-event-parameters
+          Product: Video Cloud
+          Product_area: 'date-collection'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'New Cross platform analytics fields'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html#all-event-parameters
+          Product: Video Cloud
+          Product_area: 'data-collection'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
