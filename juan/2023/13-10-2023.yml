@@ -1,0 +1,30 @@
+- date: 13-Oct-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Adding Chapters to a Video'
+          Description: 'Added limitations section'
+          Link: https://studio.support.brightcove.com/media/captions/adding-chapters-video.html
+          Product: Video Cloud
+          Product_area: 'Media'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Entfernte Vermögenswerte'
+          Description: 'fixed a URL'
+          Link: https://de.apis.support.brightcove.com/cms/managing-videos/using-cms-api-remote-assets.html#api-Video-Update_Video
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Fixed wording on note'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product: Device SDKs
+          Product_area: 'IOS'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
