@@ -1,0 +1,12 @@
+- date: 13-October-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating Your Application Design - Layout Options'
+          Description: 'Movie and Series Details I updated'
+          Link: https://beacon.support.brightcove.com/getting-started/creating-your-app-design-layout-options.html
+          Product:  Beacon 
+          Product_area: 'Getting Started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
