@@ -40,3 +40,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Multi Language Audio with the Live Module'
+          Description: 'New limitation added'
+          Link: https://live.support.brightcove.com/live-module/multi-language-audio.html#Limitations
+          Product: Live
+          Product_area: 'Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
