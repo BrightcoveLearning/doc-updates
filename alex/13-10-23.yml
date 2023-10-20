@@ -1,0 +1,70 @@
+- date: 13-Oct-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Brightcove Native Player for iOS new release v6.12.5'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product: Device SDKs 
+          Product_area: 'iOS Development'
+          Product_Update: 'true'
+          Feature: ''
+          Status: Released 
+        - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
+          Description: 'SDK v6.12.4 Previous release added'
+          Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
+          Product: Device SDKs 
+          Product_area: 'iOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for tvOS'
+          Description: 'Brightcove Native Player for iOS new release v6.12.5'
+          Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
+          Product: Device SDKs
+          Product_area: 'tvOS Development'
+          Product_Update: 'true'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
+          Description: 'SDK v6.12.4 Previous release added'
+          Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
+          Product: Device SDKs
+          Product_area: ' tvOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Multilingual Metadata'
+          Description: 'add note'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/multilingual-metadata.html
+          Product: Video Cloud
+          Product_area: 'cms'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'CMS/Playback API: Videos Search v1'
+          Description: 'fix link'
+          Link: https://apis.support.brightcove.com/cms/searching/cmsplayback-api-videos-search.html#required_excluded_terms
+          Product: Video Cloud
+          Product_area: 'cms'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Delivering HLS Video'
+          Description: 'fix link'
+          Link: https://player.support.brightcove.com/playback/delivering-hls-video.html
+          Product: Brightcove Player
+          Product_area: 'playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: '100% Integration Reliability'
+          Description: 'update link'
+          Link: https://zencoder.support.brightcove.com/integration/100-integration-reliability.html
+          Product: Zencoder
+          Product_area: 'integration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
