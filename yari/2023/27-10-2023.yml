@@ -24,11 +24,19 @@
     
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Kollective eCDN User Guide'
+          Description: 'Note added to Synchronizing live events section'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/kollective-user-guide.html#Synchronizing_live_events
+          Product: Live 
+          Product_area: 'eCDN'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Note added to Duplicating an event section'
+          Link: https://studio.support.brightcove.com/live/live-module/creating-and-managing-live-events-using-live-module.html#duplicate
+          Product: Video Cloud
+          Product_area: 'Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
