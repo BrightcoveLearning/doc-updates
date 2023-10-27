@@ -1,0 +1,42 @@
+- date: 27-Oct-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Deep Linking For Mobile Apps'
+          Description: 'The Beacon Deep Linking feature allows audiences to either download the Beacon App or to be directed to a specific section or page of the Beacon App'
+          Link: https://beacon-help.support.brightcove.com/general/notifications/app-deep-linking.html
+          Product:  Beacon 
+          Product_area: ''
+          Product_Update: 'true'
+          Feature: 'App Deep Linking'
+          Status: Released 
+    - type: Major updates
+      docs:
+        - Title: 'Skip Intros and Credits within Beacon Apps'
+          Description: 'Updated Information about Skip Intros and Credits within Beacon Apps'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/app-behavior/skip-intro-credits.html
+          Product:  Beacon
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Engagement Subscribers Insights'
+          Description: 'New name for Insights in Beacon: Engagement Subscribers Insights'
+          Link: https://beacon-help.support.brightcove.com/analytics/engagement-insights/index.html
+          Product:  Beacon
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+
+      
