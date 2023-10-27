@@ -1,0 +1,47 @@
+- date: 27-Oct-2023
+  types: 
+    - type: Major updates
+      docs:
+        - Title: 'Adding Captions to Videos Programmatically'
+          Description: 'Added and additional approach to the code implementation'
+          Link: https://player.support.brightcove.com/user-interface/adding-captions-videos-programmatically.html
+          Product: Brightcove Player
+          Product_area: 'Captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Using Page Layouts'
+          Description: 'Removed beacon from valid content'
+          Link: https://beacon-help.support.brightcove.com/layout/using-page-layouts.html
+          Product:  Beacon 
+          Product_area: 'Page Layouts'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Working with the Immersion Portal Template'
+          Description: 'Removed not supported portal settings'
+          Link: https://gallery.support.brightcove.com/experiences/portal/templates/working-with-immersion-template.html
+          Product:  Video Cloud 
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Updated minimal data needed'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html
+          Product:  Video Cloud 
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video Sitemap Generator'
+          Description: 'Updated the code sample'
+          Link: https://apis.support.brightcove.com/cms/code-samples/cms-api-sample-video-sitemap-generator.html
+          Product:  Video Cloud 
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
