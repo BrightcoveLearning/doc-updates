@@ -1,0 +1,12 @@
+- date: 27-Oct-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Signed URLs and Token Auth with a Live Stream'
+          Description: 'Update document to add new optional fields'
+          Link: https://apis.support.brightcove.com/live-api/guides/signed-urls-and-token-auth-live-stream.html
+          Product: Video Cloud
+          Product_area: 'live-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
