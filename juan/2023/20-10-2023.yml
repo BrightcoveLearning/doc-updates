@@ -1,0 +1,48 @@
+- date: 20-Oct-2023
+  types:
+
+    - type: Major updates
+      docs:
+        - Title: 'Installing the Kollective Player Plugin'
+          Description: 'Added several changes for the new Kollective Plugin'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/add-kollective-player-plugin.html
+          Product: Video Cloud
+          Product_area: 'Brightcove Player'
+          Product_Update: 'true'
+          Feature: 'New Kollective Plugin for Brightcove Player'
+          Status: Released
+        - Title: 'Kollective eCDN User Guide'
+          Description: 'Added several changes for the new Kollective Plugin'
+          Link: https://integrations.support.brightcove.com/ecdn/kollective/kollective-user-guide.html
+          Product: Video Cloud
+          Product_area: 'Brightcove Player'
+          Product_Update: 'true'
+          Feature: 'New Kollective Plugin for Brightcove Player'
+          Status: Released
+        - Title: 'Overview: OAuth API'
+          Description: 'Added a known issues section'
+          Link: https://apis.support.brightcove.com/oauth/getting-started/overview-oauth-api-v4.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Video Fields Reference'
+          Description: 'Added transcripts as a primary field'
+          Link: https://apis.support.brightcove.com/playback/references/playback-api-video-fields-reference.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Forensic Watermarking'
+          Description: 'Added a dimensions limitation'
+          Link: https://apis.support.brightcove.com/general/features/overview-forensic-watermarking.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

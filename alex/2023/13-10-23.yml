@@ -2,32 +2,14 @@
   types:
     - type: Major updates
       docs:
-        - Title: 'Creating Your Application Design - Layout Options'
-          Description: 'Movie and Series Details I updated'
-          Link: https://beacon.support.brightcove.com/getting-started/creating-your-app-design-layout-options.html
-          Product:  Beacon 
-          Product_area: 'Getting Started'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Adding Chapters to a Video'
-          Description: 'Added limitations section'
-          Link: https://studio.support.brightcove.com/media/captions/adding-chapters-video.html
-          Product: Video Cloud
-          Product_area: 'Media'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        
         - Title: 'Overview: Brightcove Native SDK for iOS'
           Description: 'Brightcove Native Player for iOS new release v6.12.5'
           Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
           Product: Device SDKs 
           Product_area: 'iOS Development'
           Product_Update: 'true'
-          Feature: 'New iOs SDK release'
+          Feature: ''
           Status: Released 
-        
         - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
           Description: 'SDK v6.12.4 Previous release added'
           Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
@@ -36,7 +18,6 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released 
-        
         - Title: 'Overview: Brightcove Native SDK for tvOS'
           Description: 'Brightcove Native Player for iOS new release v6.12.5'
           Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
@@ -45,7 +26,6 @@
           Product_Update: 'true'
           Feature: ''
           Status: Released
-        
         - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
           Description: 'SDK v6.12.4 Previous release added'
           Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
@@ -54,34 +34,8 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released 
-        
-        - Title: 'Multi Language Audio with the Live API'
-          Description: 'DRM Playback section updated'
-          Link: https://apis.support.brightcove.com/live-api/guides/live-multi-language-audio.html#DRM_Playback
-          Product: Video Cloud
-          Product_area: 'Live API'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-    
     - type: Minor updates
       docs:
-        - Title: 'Entfernte Vermögenswerte'
-          Description: 'fixed a URL'
-          Link: https://de.apis.support.brightcove.com/cms/managing-videos/using-cms-api-remote-assets.html#api-Video-Update_Video
-          Product: Video Cloud
-          Product_area: 'API'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Overview: Brightcove Native SDK for iOS'
-          Description: 'Fixed wording on note'
-          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
-          Product: Device SDKs
-          Product_area: 'IOS'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
         - Title: 'Multilingual Metadata'
           Description: 'add note'
           Link: https://apis.support.brightcove.com/cms/managing-videos/multilingual-metadata.html
