@@ -3,7 +3,7 @@
     - type: New Docs
       docs:
         - Title: 'Integration: Eloqua'
-          Description: 'New document for the Eloqua integration'
+          Description: 'The Eloqua integration enables sending audience data to an Eloqua application'
           Link: https://audience-insights.support.brightcove.com/integrations/integration_eloqua.html
           Product: Audience Insights
           Product_area: 'Integrations'
