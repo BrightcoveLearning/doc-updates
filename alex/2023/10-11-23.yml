@@ -1,0 +1,12 @@
+- date: 27-Oct-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Update to support iOS 17'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html#Supported_versions
+          Product: Device SDKs
+          Product_area: 'ios'
+          Product_Update: ' false'
+          Feature: ''
+          Status: Released
