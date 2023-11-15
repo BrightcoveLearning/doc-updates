@@ -24,11 +24,19 @@
     
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Configuring a Brightcove Player with the Interactivity Plugin'
+          Description: 'Link added to Custom tracking events section'
+          Link: https://studio.support.brightcove.com/interactivity/getting-started/configuring-player-plugin.html#:~:text=Custom%20tracking%20events
+          Product: Brightcove Interactivity
+          Product_area: 'Interactivity Plugin'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Installation Guide: Brightcove Video Connect for Sitecore'
+          Description: 'Wording for Pre-requisites updated'
+          Link: https://integrations.support.brightcove.com/sitecore/installation-guide.html#Pre_requisites
+          Product: Integrations
+          Product_area: 'Sitecore'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
