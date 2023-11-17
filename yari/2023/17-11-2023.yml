@@ -1,27 +1,5 @@
 - date: 17-Nov-2023
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
-    
-    - type: Major updates
-      docs:
-        - Title: 'Creating a Cloud Playout Channel'
-          Description: 'List of Output Regions added'
-          Link: 
-          Product: Video Cloud
-          Product_area: 'Cloud Playout'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-    
     - type: Minor updates
       docs:
         - Title: 'Configuring a Brightcove Player with the Interactivity Plugin'
