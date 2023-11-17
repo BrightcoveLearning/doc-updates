@@ -1,0 +1,38 @@
+- date: 17-Nov-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Image Token Management API'
+          Description: 'Include the base URL and Bearer token'
+          Link: https://apis.support.brightcove.com/images/references/image-token-api-reference.html
+          Product: Video Cloud 
+          Product_area: 'images'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Image API'
+          Description: 'New feature spritesheets'
+          Link: https://apis.support.brightcove.com/images/getting-started/spritesheet.html
+          Product: Video Cloud 
+          Product_area: 'images'
+          Product_Update: 'true'
+          Feature: 'Spritesheets'
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: 'Advertising with the FreeWheel Plugin'
+          Description: 'Fix blank script snippet'
+          Link: https://player.support.brightcove.com/plugins/advertising-freewheel-plugin.html#Consent_GDPR_support
+          Product: Brightcove Player
+          Product_area: 'plugings'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Lesson Experience'
+          Description: 'update LTI not supported anymore'
+          Link: https://studio.support.brightcove.com/interactivity/experiences/creating-lesson-experience.html
+          Product: Brightcove Interactivity
+          Product_area: 'experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
