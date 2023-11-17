@@ -1,0 +1,30 @@
+- date: 17-November-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Deleting an App User'
+          Description: 'App users create their own accounts when they first use a Brightcove Beacon app. These accounts can be deleted when the app users no longer need it.'
+          Link: https://beacon.support.brightcove.com/references/delete-app-user.html
+          Product:  Beacon 
+          Product_area: 'References'
+          Product_Update: 'true'
+          Feature: 'Account deletion functionality from platforms'
+          Status: Released 
+        - Title: 'Managing Google Subscriptions Part 1'
+          Description: 'Create a service account section updated with new steps'
+          Link: https://beacon.support.brightcove.com/publishing-apps/android/managing-google-subscriptions-1.html
+          Product:  Beacon 
+          Product_area: 'App Publishing and Behavior'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'OTT Catalog Export'
+          Description: 'Google automatically crawls sitemaps periodically Information added'
+          Link: https://beacon-help.support.brightcove.com/layout/ott-catalog-export.html
+          Product: Beacon 
+          Product_area: 'Managing Pages'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
