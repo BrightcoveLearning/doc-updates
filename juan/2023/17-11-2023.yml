@@ -1,0 +1,12 @@
+- date: 17-Nov-2023
+  types:  
+    - type: Major updates
+      docs:
+        - Title: 'Creating Series/Seasons/Episodes'
+          Description: 'Covered a new creation process using beacon studio'
+          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/series-seasons-episodes.html
+          Product: Beacon
+          Product_area: 'Beacon Studio'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
