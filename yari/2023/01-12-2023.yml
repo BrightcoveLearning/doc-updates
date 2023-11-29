@@ -1,0 +1,34 @@
+- date: 01-Dic-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Major updates
+      docs:
+        - Title: 'Player Configuration Guide'
+          Description: 'New JSON property added'
+          Link: https://player.support.brightcove.com/references/player-configuration-guide.html#multilingual_metadata_tracks_disabled
+          Product: Brightcove Player
+          Product_area: 'References'
+          Product_Update: 'true'
+          Feature: 'New multilingual_metadata_tracks_disabled property'
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
