@@ -1,0 +1,12 @@
+- date: 24-Nov-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Roku SDK Developer Guide'
+          Description: 'The Brightcove Roku SDK allows an easy access to Brightcove’s Playback services in a Roku channel'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/roku/sdk-developer-guide.html
+          Product: Beacon
+          Product_area: ''
+          Product_Update: 'true'
+          Feature: 'Roku SDK Developer Guide'
+          Status: Staging
