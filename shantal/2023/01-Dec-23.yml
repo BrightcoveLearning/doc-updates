@@ -10,14 +10,6 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released 
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
     - type: Minor updates
       docs:
         - Title: 'Device Apps Validation Guide'
@@ -31,8 +23,16 @@
         - Title: 'Social Sharing Plugin'
           Description: 'Adding New Steps and Notes for Social Sharing'
           Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+          Product: Brightcove Player 
+          Product_area: 'Plugins'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released 
+        - Title: 'Setting the Player Update Mode and Version'
+          Description: 'Adding Note about Brightcove Player Release Notes'
+          Link: https://studio.support.brightcove.com/players/properties/setting-player-update-mode-and-version.html
+          Product: Video Cloud
+          Product_area: 'Managing Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
