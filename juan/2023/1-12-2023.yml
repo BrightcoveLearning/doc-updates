@@ -1,0 +1,47 @@
+- date: 01-Dic-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Salesforce Properties Setup'
+          Description: 'Added additional fields in Registered User Export Properties'
+          Link: https://audience-insights.support.brightcove.com/integrations/salesforce-sales-cloud/salesforce-properties-setup.html
+          Product: Integrations
+          Product_area: 'Salesforce'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Live DRM'
+          Description: 'New note added'
+          Link: https://live.support.brightcove.com/general/live-drm.html
+          Product: Live 
+          Product_area: 'DRM'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Captions with Live Streams'
+          Description: 'New note added'
+          Link: https://live.support.brightcove.com/general/captions-with-live-streams.html
+          Product: Live 
+          Product_area: 'Captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'New note added'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
+          Product: Live 
+          Product_area: 'Captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Player E Selection'
+          Description: 'New note added'
+          Link: https://beacon-help.support.brightcove.com/layout/e-selection.html
+          Product: Brightcove Player
+          Product_area: 'Player E'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
