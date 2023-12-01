@@ -1,0 +1,42 @@
+- date: 01-Dic-2023
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Major updates
+      docs:
+        - Title: 'Player Configuration Guide'
+          Description: 'New JSON property added'
+          Link: https://player.support.brightcove.com/references/player-configuration-guide.html#multilingual_metadata_tracks_disabled
+          Product: Brightcove Player
+          Product_area: 'References'
+          Product_Update: 'true'
+          Feature: 'New multilingual_metadata_tracks_disabled property'
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for the WordPress CMS'
+          Description: 'Supported wordpress version updated'
+          Link: https://integrations.support.brightcove.com/wordpress/getting-started-brightcove-video-connect-wordpress-cms.html
+          Product: Integrations
+          Product_area: 'Wordpress'
+          Product_Update: 'true'
+          Feature: 'New wordpress version'
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Automated Captions using the Live API'
+          Description: 'New limitation added'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-auto-captions.html#Limitations
+          Product: Video Cloud
+          Product_area: 'Live API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
