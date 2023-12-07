@@ -2,7 +2,7 @@
   types:
     - type: Major updates
       docs:
-        - Title: 'https://apis.support.brightcove.com/analytics/dimension-guides/dimension-region.html'
+        - Title: 'Dimension: region'
           Description: 'The <code>region_name</code> field mapping is fixed. Reports obtained before December 6 may reflect different values for this dimension. You can re-run old reports and update the values for previous date reports to fix it. The changes retain the same Region identifier, but the number of unknowns in City or Region Name should be reduced.'
           Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-region.html
           Product: Video Cloud
