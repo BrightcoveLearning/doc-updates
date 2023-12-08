@@ -1,0 +1,54 @@
+- date: 08-Dec-23
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Adding/Deleting an App User'
+          Description: 'New section added about how to add an app user'
+          Link: https://beacon.support.brightcove.com/references/add-delete-app-user.html
+          Product:  Beacon 
+          Product_area: 'References'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'The GA plugin does not support specific parameters'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'New section added: Configuring Google Analytics'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Determining Which Rendition Will Play'
+          Description: 'Info added about MSE meaning'
+          Link: https://player.support.brightcove.com/playback/determining-which-rendition-will-play.html
+          Product: Brightcove Player 
+          Product_area: 'Playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Chrome Incognito for Android - DRM support information added'
+          Link: https://studio.support.brightcove.com/general/content-protection/overview-digital-rights-management-drm-video-cloud.html#DRM_support_details
+          Product: Video Cloud 
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Creating Promo Coupons'
+          Description: 'Editing coupon fields'
+          Link: https://beacon.support.brightcove.com/monetization/general/promo-codes.html
+          Product:  Beacon 
+          Product_area: 'Monetization'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
