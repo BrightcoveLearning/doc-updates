@@ -21,6 +21,14 @@
           Product_Update: 'true'
           Feature: 'New CAE setting'
           Status: Released
+        - Title: 'Working with Audio-Only Content'
+          Description: 'New limitations section added'
+          Link: https://beacon-help.support.brightcove.com/general/references/working-audio-content.html
+          Product: Beacon
+          Product_area: 'Audio Content'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     
     - type: Minor updates
       docs:
@@ -37,6 +45,22 @@
           Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html#Error_rate
           Product: Video Cloud
           Product_area: 'QOE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Brightcove Playback Restrictions'
+          Description: 'Note about playback restrictions with in-page experiences added'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/overview-playback-restrictions.html#Which_products_support_Playback_Restrictions
+          Product: Video Cloud
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Applying Templates to Projects'
+          Description: 'Note about videos already added to a project added'
+          Link: https://studio.support.brightcove.com/interactivity/templates/applying-templates-projects.html#all-projects
+          Product: Video Cloud
+          Product_area: 'Interactivity'
           Product_Update: 'false'
           Feature: ''
           Status: Released
