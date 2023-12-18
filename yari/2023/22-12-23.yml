@@ -1,4 +1,4 @@
-- date: 22-Dec-2023
+- date: 15-Dec-2023
   types:
     - type: New Docs
       docs:
@@ -21,13 +21,23 @@
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
+    
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Overview: Playback API'
+          Description: 'Clarification about cache added'
+          Link: https://apis.support.brightcove.com/playback/getting-started/overview-playback-api.html#avoid_hardcoded_urls
+          Product: Video Cloud
+          Product_area: 'Playback API'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Best Practices: CMS and Playback APIs'
+          Description: 'Clarification about cache added'
+          Link: https://apis.support.brightcove.com/cms/getting-started/best-practices-cms-and-playback-apis.html#using_media_urls
+          Product: Video Cloud
+          Product_area: 'Playback & CMS APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
