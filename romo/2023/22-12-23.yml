@@ -40,3 +40,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Broken link fixed'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: Live
+          Product_area: 'Live API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
