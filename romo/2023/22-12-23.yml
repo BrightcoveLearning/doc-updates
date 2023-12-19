@@ -32,7 +32,7 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-          - Title: 'Overview: OAuth API'
+        - Title: 'Overview: OAuth API'
           Description: 'Images fixed'
           Link: https://apis.support.brightcove.com/oauth/getting-started/overview-oauth-api-v4.html
           Product: Video Cloud
