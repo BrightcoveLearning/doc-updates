@@ -56,3 +56,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Managing Users'
+          Description: 'Added 2 informaiton notes'
+          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/introducing-pages.html
+          Product: Beacon
+          Product_area: 'Pages'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
