@@ -1,0 +1,33 @@
+- date: 22-Dec-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'The Brightcove Native SDKs'
+          Description: 'Added a note about not supporting frameworks.'
+          Link: https://sdks.support.brightcove.com/getting-started/brightcove-native-player-sdks.html
+          Product: Device SDKs
+          Product_area: 'Mobile SDKs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Integration Spotlight: HubSpot'
+          Description: 'Added a note about selected scopes.'
+          Link: https://audience-insights.support.brightcove.com/integrations/integration_spotlight_hubspot.html
+          Product: Integrations
+          Product_area: 'Audience Insights'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Implementing Server-Side Ads with the Native SDKs.'
+          Description: 'Added a note about mixing plugins.'
+          Link: https://sdks.support.brightcove.com/features/implementing-server-side-ads-native-player-sdks.html
+          Product: Device SDKs
+          Product_area: 'SSAI'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
