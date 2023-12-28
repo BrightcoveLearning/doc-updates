@@ -1,0 +1,28 @@
+- date: 22-Dec-2023
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Access Control Profiles'
+          Description: 'Add new Track SAML attribute'
+          Link: https://gallery.support.brightcove.com/settings/configuring-access-control-profiles.html
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Client-Side Ads with the Native SDKs'
+          Description: 'Add the SSAI and IMA combination are supported comment'
+          Link: https://sdks.support.brightcove.com/features/implementing-client-side-ads-native-sdks.html
+          Product: Device SDKs
+          Product_area: 'Features'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Server-Side Ads with the Native SDKs'
+          Description: 'Add the SSAI and IMA combination are supported comment'
+          Link: https://sdks.support.brightcove.com/features/implementing-server-side-ads-native-player-sdks.html
+          Product: Device SDKs
+          Product_area: 'Features'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
