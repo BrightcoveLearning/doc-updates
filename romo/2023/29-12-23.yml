@@ -1,0 +1,79 @@
+- date: 22-Dec-2023
+  types:
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Live Scheduler'
+          Description: 'Removed extra final dot'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-scheduler.html
+          Product: Video Cloud
+          Product_area: 'Live API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Player API'
+          Description: 'Removed word from text'
+          Link: https://player.support.brightcove.com/coding-topics/overview-player-api.html
+          Product: Brightcove Player
+          Product_area: 'Player API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Beacon Apps Ad Targeting'
+          Description: 'Added note to SSAI documents'
+          Link: https://beacon.support.brightcove.com/monetization/ssai/beacon-apps-ad-targeting.html
+          Product: Beacon
+          Product_area: 'Monetization'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Added note to SSAI documents'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html
+          Product: Video Cloud
+          Product_area: 'SSAI API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: HTTPS Support'
+          Description: 'Corrected typo'
+          Link: https://player.support.brightcove.com/playback/overview-https-support.html
+          Product: Brightcove Player
+          Product_area: 'HTTPS Support'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Restricting Video Playback Using IP Address'
+          Description: 'Corrected typo'
+          Link: https://player.support.brightcove.com/content-protection/restricting-video-playback-using-ip-address.html
+          Product: Brightcove Player
+          Product_area: 'DRM and Content protection'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Custom Metadata Fields'
+          Description: 'Corrected wording'
+          Link: https://studio.support.brightcove.com/admin/creating-custom-metadata-fields.html
+          Product: Video Cloud
+          Product_area: 'Studio'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Dimensions, Fields, and Parameters'
+          Description: 'Corrected 2 typos'
+          Link: https://apis.support.brightcove.com/analytics/getting-started/analytics-api-overview-dimensions-fields-and-parameters.html
+          Product: Video Cloud
+          Product_area: 'Analytics API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
