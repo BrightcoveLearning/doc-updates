@@ -13,6 +13,14 @@
     
     - type: Major updates
       docs:
+        - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
+          Description: 'Considerations for the new Aspera version added'
+          Link: https://apis.support.brightcove.com/aspera/overview.html
+          Product: Video Cloud
+          Product_area: 'Aspera'
+          Product_Update: 'true'
+          Feature: 'Aspera upgrade to 4.4.1'
+          Status: Released
         - Title: 'Chromecast with the Native SDKs'
           Description: 'Nee Limitations Section added'
           Link: https://sdks.support.brightcove.com/features/chromecast-with-sdks.html
@@ -31,11 +39,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'Note added to reflect that the version 10.0 is no longer supported'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Integrations
+          Product_area: 'Integrations'
+          Product_Update: 'true'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
