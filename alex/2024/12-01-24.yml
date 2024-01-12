@@ -1,0 +1,88 @@
+- date: 12-Jan-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Consent Management in Beacon Web'
+          Description: 'New OneTrust Web documentation'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/consent-management-in-beacon-web.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Managing Cookie Compliance for Mobile/CTVs Using OneTrust Cookie Consent'
+          Description: 'New OneTrust Mobile/CTV documentation'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/consent-management-in-ctv-mobile-beacon-apps.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Create GDPR Template for OneTrust Consent Management'
+          Description: 'New OneTrust about how to create a GDPR OneTrust Template'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/template-creation/gdpr-template.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Create a Quebec Law 25 Template for OneTrust Consent Management'
+          Description: 'New OneTrust about how to create a Quebec Law 25 OneTrust Template'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/template-creation/law-25-template.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Create CCPA Template for OneTrust Consent Management'
+          Description: 'New OneTrust about how to create a CCPA OneTrust Template'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/template-creation/ccpa-template.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Create Global Template for OneTrust Consent Management'
+          Description: 'New OneTrust about how to create a Global OneTrust Template'
+          Link: https://beacon.support.brightcove.com/references/consent-management-using-onetrust/template-creation/global-template.html
+          Product: Beacon
+          Product_area: 'consent management'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Sprinklr app'
+          Description: 'New Document of how to create an app in the Sprinklr developer portal in order to get an API key/secret.'
+          Link: https://studio.support.brightcove.com/social/module/creating-sprinklr-app.html
+          Product: Video Cloud
+          Product_area: 'social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pigeonhole Reactions to a Gallery Experience'
+          Description: 'New Document of how to add Pigeonhole Reactions to a Gallery Template.'
+          Link: https://gallery.support.brightcove.com/experiences/live/in-page/adding-pigeonhole-live-event-reactions.html
+          Product: Video Cloud
+          Product_area: 'gallery'
+          Product_Update: 'true'
+          Feature: 'Add Pigeonhole Reactions to Gallery Templates'
+          Status: Released
+    
+    - type: Major updates
+      docs:
+        - Title: 'Creating Social Media Publishing Destinations'
+          Description: 'New section about how to creata a Sprinklr destination'
+          Link: https://studio.support.brightcove.com/social/module/creating-social-media-publishing-destinations.html#sprinklr
+          Product: Video Cloud
+          Product_area: 'social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Auto Sync to Synchronize Videos to Social Media Accounts'
+          Description: 'New section about how to use autosync for sprinklr'
+          Link: https://studio.support.brightcove.com/social/general/using-auto-sync-synchronize-videos-social-media-accounts.html#sprinklr
+          Product: Video Cloud
+          Product_area: 'social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+   

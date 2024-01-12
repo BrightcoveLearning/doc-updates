@@ -1,0 +1,31 @@
+- date: 05-Jan-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Using a Non-Brightcove Player'
+          Description: 'Corrected typo'
+          Link: https://player.support.brightcove.com/publish/using-non-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: 'Non Brightcove player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Rephrase wording'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html
+          Product: Brightcove Player
+          Product_area: 'Player API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

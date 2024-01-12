@@ -1,0 +1,49 @@
+- date: 12-Jan-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
+          Description: 'Considerations for the new Aspera version added'
+          Link: https://apis.support.brightcove.com/aspera/overview.html
+          Product: Video Cloud
+          Product_area: 'Aspera'
+          Product_Update: 'true'
+          Feature: 'Aspera upgrade to 4.4.1'
+          Status: Released
+        - Title: 'Chromecast with the Native SDKs'
+          Description: 'Nee Limitations Section added'
+          Link: https://sdks.support.brightcove.com/features/chromecast-with-sdks.html
+          Product: Device SDKs
+          Product_area: 'Features'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Chromecast Plugin for Brightcove Player'
+          Description: 'Nee Limitations Section added'
+          Link: https://player.support.brightcove.com/plugins/chromecast-plugin-brightcove-player.html
+          Product: Brightcove Pleyr
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Getting Started with Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'Note added to reflect that the version 10.0 is no longer supported'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Integrations
+          Product_area: 'Integrations'
+          Product_Update: 'true'
+          Feature: ''
+          Status: Released

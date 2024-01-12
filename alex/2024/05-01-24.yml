@@ -1,0 +1,12 @@
+- date: 05-Jan-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating Social Media Publishing Destinations'
+          Description: 'Public documentation for Sprinklr'
+          Link: https://studio.support.brightcove.com/social/module/creating-social-media-publishing-destinations.html#sprinklr
+          Product: Video Cloud 
+          Product_area: 'social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

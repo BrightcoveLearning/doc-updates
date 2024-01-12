@@ -1,0 +1,31 @@
+- date: 12-Jan-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Brightcove Playback Restrictions'
+          Description: 'Replaced image'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/overview-playback-restrictions.html
+          Product: Video Cloud
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Audio Tracks to Videos using the Media Module'
+          Description: 'Added note'
+          Link: https://studio.support.brightcove.com/media/captions/adding-audio-tracks-videos-using-media-module.html
+          Product: Video Cloud
+          Product_area: 'Captions and Audiofiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
