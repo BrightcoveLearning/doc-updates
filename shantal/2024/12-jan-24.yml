@@ -1,0 +1,48 @@
+- date: 12-January-2024
+  types:
+    - type: New Docs
+      docs:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Brightcove Player SDK for iOS v6.12.7'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product: SDKs
+          Product_area: 'iOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
+          Description: 'Updated previous information section'
+          Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: 'iOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for tvOS'
+          Description: 'Brightcove Player SDK for iOS v6.12.7'
+          Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
+          Product: SDKs
+          Product_area: 'tvOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
+          Description: 'Updated previous information section'
+          Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
+          Product: SDKs
+          Product_area: 'tvOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Implementing Playback Rights'
+          Description: 'Link added to documentation about JSON Web Token (JWT)'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/implementing-playback-rights.html#Configure_your_player
+          Product: APIs
+          Product_area: ' Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
