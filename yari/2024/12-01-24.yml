@@ -55,4 +55,12 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'FairPlay Certificate Registration'
+          Description: 'New information added'
+          Link: https://beacon.support.brightcove.com/publishing-apps/ios-tvos/fairplay-certificate.html
+          Product: Beacon
+          Product_area: 'App Publishing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     
