@@ -1,0 +1,23 @@
+- date: 19-January-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Integration: Marketo'
+          Description: 'With this integration, you can update user data gathered from Audience Insights to a Marketo application.'
+          Link: https://audience-insights.support.brightcove.com/integrations/integration_marketo.html
+          Product: Audience Insights
+          Product_area: Integrations
+          Product_Update: 'true'
+          Feature: 'Marketo'
+          Status: Released
+
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Custom Metadata Fields'
+          Description: 'Added a note about required custom fields'
+          Link: https://studio.support.brightcove.com/admin/creating-custom-metadata-fields.html
+          Product: Video Cloud
+          Product_area: Custom fields
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

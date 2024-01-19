@@ -47,3 +47,20 @@
           Product_Update: 'true'
           Feature: ''
           Status: Released
+        - Title: 'Configuring Video Availability'
+          Description: 'Note about Availability Tab added'
+          Link: https://beacon-help.support.brightcove.com/media/properties/configuring-video-availability.html
+          Product: Beacon
+          Product_area: 'Media'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'FairPlay Certificate Registration'
+          Description: 'New information added'
+          Link: https://beacon.support.brightcove.com/publishing-apps/ios-tvos/fairplay-certificate.html
+          Product: Beacon
+          Product_area: 'App Publishing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
