@@ -1,0 +1,38 @@
+- date: 19-Jan-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Adding Pigeonhole Chat Support to a Gallery Experience'
+          Description: 'Created documentation regarding new Pigeonhole Chat feature'
+          Link: https://gallery.support.brightcove.com/experiences/portal/other/adding-pigeonhole-live-event-chat-support.html
+          Product: Integrations
+          Product_area: 'Pigeonhole'
+          Product_Update: 'true'
+          Feature: 'Pigeonhole Chat'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Player Controls'
+          Description: 'Replaced image'
+          Link: https://studio.support.brightcove.com/players/appearance/configuring-player-controls.html#picture-in-picture
+          Product: Brightcove Player
+          Product_area: 'Appearance'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Live API Reference'
+          Description: 'Adding 1 extra field on JSON'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html
+          Product: Live
+          Product_area: 'API paramenters'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Players Plugins'
+          Description: 'Replaced images'
+          Link: https://studio.support.brightcove.com/players/general/configuring-player-plugins.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
