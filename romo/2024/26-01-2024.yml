@@ -1,0 +1,28 @@
+- date: 26-Jan-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: '已知問題：工作室、布萊特灣播放器和 API'
+          Description: 'Fix broken image'
+          Link: https://zh-tw.apis.support.brightcove.com/support/known-issues-studio-brightcove-player-and-apis.html
+          Product: Video Cloud
+          Product_area: 'Known issues'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding Pigeonhole Q&A to a Live Event Portal Experience'
+          Description: 'Removed documentation about PH QA'
+          Link: https://gallery.support.brightcove.com/experiences/live/portal/adding-pigeonhole-live-event-portal-experience.html
+          Product: Pigeonhole
+          Product_area: 'QA Live chat'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Standard Ingest Profiles for Dynamic Delivery and Context Aware Encoding'
+          Description: 'Fixed broken links'
+          Link: https://studio.support.brightcove.com/admin/ingest-profiles/standard-ingest-profiles-dynamic-delivery-and-context-aware-encoding.html#multi-platform-extended-dynamic-hevc-mixed-codec
+          Product: Video Cloud
+          Product_area: 'Ingest Profiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
