@@ -1,0 +1,12 @@
+- date: 26-January-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Added a note about DVR not being supported on Chromecast.'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html
+          Product: Live
+          Product_area: DVR
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
