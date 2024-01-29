@@ -1,0 +1,36 @@
+- date: 26-Jan-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Adobe AEM Brightcove Connector: Overview'
+          Description: 'Rearrange the side menu'
+          Link: https://integrations.support.brightcove.com/adobe/adobe-aem-brightcove-connector-overview.html
+          Product: Integrations
+          Product_area: 'adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video SEO Schema Generator Plugin'
+          Description: 'Add instructions on how to remove flash tech from the BC Player.'
+          Link: https://player.support.brightcove.com/plugins/video-seo-schema-generator-plugin.html#Configuring_the_player
+          Product: Video Cloud
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Analytics Plugin'
+          Description: 'Sentence updated'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html
+          Product: Video Cloud
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'External key generator tool link removed'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#advanced
+          Product: Live
+          Product_area: 'live-module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
