@@ -1,0 +1,31 @@
+- date: 02-Feb-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Fields for Custom Live Ingest Profiles'
+          Description: 'Corrected typo'
+          Link: https://live.support.brightcove.com/admin/fields-custom-live-ingest-profiles.html
+          Product: Video Cloud
+          Product_area: 'Live Ingest Profiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'AMP Using a Video Cloud Video'
+          Description: 'Added note'
+          Link: https://player.support.brightcove.com/amp/amp-using-video-cloud-video.html
+          Product: Video Cloud
+          Product_area: 'AMP'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
