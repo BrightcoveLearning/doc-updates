@@ -1,0 +1,46 @@
+- date: 02-February-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'New devices added in the device group list'
+          Link: https://apis.support.brightcove.com/delivery-rules/getting-started/implementing-delivery-rules.html#Conditions
+          Product: APIs
+          Product_area: 'Delivery Rules API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Supported versions list updated'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product:  Device SDKs 
+          Product_area: 'Basics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Information added about maximum value allowed for this DVR Window field'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html
+          Product: Live 
+          Product_area: 'Using the Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Fields for Custom Live Ingest Profiles'
+          Description: 'Explanation of live sliding window duration is a legacy alias for live dvr sliding window duration.'
+          Link: https://live.support.brightcove.com/admin/ingest-profiles/fields-custom-live-ingest-profiles.html
+          Product:  Live 
+          Product_area: 'Administering Accounts'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Requesting Late Binding'
+          Description: 'Late Binding workflow currently does not support removing existing MP4 renditions'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/requesting-late-binding.html#notes_and_limitations
+          Product: APIs
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
