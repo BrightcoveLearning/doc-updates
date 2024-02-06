@@ -1,0 +1,22 @@
+- date: 02-Feb-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'CMS/Playback APIs Release Notes'
+          Description: 'Re-uploaded the release notes'
+          Link: https://apis.support.brightcove.com/cms/references/catalog-apis-cms-api-and-playback-api-release-notes.html
+          Product: Video Cloud
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Generic Stream Concurrency'
+          Description: 'Updated the introduction for clarity'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html
+          Product: Video Cloud
+          Product_area: 'Playback restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
