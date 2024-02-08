@@ -1,0 +1,32 @@
+- date: 26-Jan-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Configuring Viewer ID Tracking'
+          Description: 'In this topic you will learn how to configure the Viewer ID Tracking for a player.'
+          Link: https://studio.support.brightcove.com/players/properties/viewer-id-tracking.html
+          Product: Video Cloud
+          Product_area: 'Player Module'
+          Product_Update: 'true'
+          Feature: 'New Viewer ID Tracking section added to the Player Module'
+          Status: Staging
+    
+    - type: Major updates
+      docs:
+        - Title: 'Codecs And Formats'
+          Description: 'Information updated'
+          Link: https://zencoder.support.brightcove.com/general-information/faq-codecs-and-formats.html
+          Product: Zencoder
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Information about Delivery Rules drules claim updated'
+          Link: https://general.support.brightcove.com/developer/create-json-web-token.html
+          Product: Video Cloud
+          Product_area: 'Developers'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+   
