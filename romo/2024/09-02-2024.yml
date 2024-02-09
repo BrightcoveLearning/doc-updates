@@ -1,0 +1,61 @@
+- date: 05-Jan-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Editing Video Properties using the Media Module'
+          Description: 'Information about how to create a custom field for Genre tag'
+          Link: https://studio.support.brightcove.com/media/properties/editing-video-properties-using-media-module.html
+          Product: Video Cloud
+          Product_area: 'Video Properties'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Adding Captions to Videos using the Media Module'
+          Description: 'Added limitation note'
+          Link: https://studio.support.brightcove.com/media/captions/adding-captions-videos-using-media-module.html
+          Product: Video Cloud 
+          Product_area: 'Adding captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Media Sharing using the Media Module'
+          Description: 'Added informative note about media acceptance'
+          Link: https://studio.support.brightcove.com/media/general/media-sharing-using-media-module.html
+          Product: Video Cloud 
+          Product_area: 'Media sharing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Time Stamp'
+          Description: 'Added Known issues note about t parameter'
+          Link: https://studio.support.brightcove.com/publish/general/time-stamp.html
+          Product: Brightcove Player
+          Product_area: 'Player time stamp'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Dynamic Ingest API'
+          Description: 'Added note about API call size'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/getting-started/overview-dynamic-ingest-api-dynamic-delivery.html
+          Product: APIs
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
