@@ -1,0 +1,12 @@
+- date: 09-Feb-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'MAPs Section'
+          Description: 'Marketo Munchkin or Hubspot Clientside integration with a BC player'
+          Link: https://studio.support.brightcove.com/players/general/maps.html
+          Product: Integrations
+          Product_area: 'Player'
+          Product_Update: 'true'
+          Feature: 'MAPs'
+          Status: Staging
