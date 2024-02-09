@@ -1,0 +1,48 @@
+- date: 09-Feb-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Advertising with Google IMA DAI Plugin'
+          Description: 'The use of the IMA DAI plugin and how it can be implemented using Studio and through custom coding.'
+          Link: https://player.support.brightcove.com/plugins/google-ima-dai.html
+          Product: Beacon
+          Product_area: 'plugins'
+          Product_Update: 'true'
+          Feature: 'IMA DAI plugin'
+          Status: Staging 
+        - Title: 'Implementing DAI Plugin for Android'
+          Description: 'The use of the IMA DAI plugin and how it can be implemented using Studio and through custom coding.'
+          Link: https://sdks.support.brightcove.com/features/dai-plugin.html
+          Product: Beacon
+          Product_area: 'plugins'
+          Product_Update: 'true'
+          Feature: 'IMA DAI plugin'
+          Status: Staging 
+        - Title: 'Implementing DAI Plugin for iOS'
+          Description: 'The use of the IMA DAI plugin and how it can be implemented using Studio and through custom coding.'
+          Link: https://sdks.support.brightcove.com/ios/advertising/dai-plugin.html
+          Product: Beacon
+          Product_area: 'plugins'
+          Product_Update: 'true'
+          Feature: 'IMA DAI plugin'
+          Status: Staging 
+    - type: Major updates
+      docs:
+        - Title: 'Android SDK Release v8.4.1'
+          Description: ' Brightcove Native SDK for Android version 8.4.1'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'basics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: CMS API'
+          Description: 'hyperlink updated'
+          Link: https://support.brightcove.com/overview-cms-api.html#Notifications
+          Product: Video Cloud 
+          Product_area: 'home'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
