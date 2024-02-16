@@ -1,0 +1,30 @@
+- date: 16-Feb-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Localizing Plugins'
+          Description: 'new section Localizing Brightcove Plugins Loaded In-Page'
+          Link: https://player.support.brightcove.com/coding-topics/localizing-plugins.html
+          Product: Brightcove Player
+          Product_area: 'coding-topics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player Accessibility'
+          Description: 'Add another keyboard control PageUp and PageDown buttons'
+          Link: https://player.support.brightcove.com/playback/brightcove-player-accessibility.html#Keyboard_controls
+          Product: Brightcove Player
+          Product_area: 'playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising with the IMA3 Plugin'
+          Description: 'Change order of how to implement the plugin'
+          Link: https://player.support.brightcove.com/plugins/advertising-ima3-plugin.html#Implement_using_Players_module_plugins_section
+          Product: Brightcove Player
+          Product_area: 'playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
