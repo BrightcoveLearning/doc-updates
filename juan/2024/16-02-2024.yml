@@ -1,0 +1,47 @@
+- date: 16-Feb-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Publisher Insights: Overview'
+          Description: 'Aimed to provide relevant and time-sensitive insights about the viewers consumption habits.'
+          Link: https://studio.support.brightcove.com/analytics/reports/publisher-insights.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+        - Title: 'Publisher Insights: Trending'
+          Description: 'Explores the Trending tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-trending.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+        - Title: 'Publisher Insights: Engagement'
+          Description: 'Explores the Engagement tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-engagement.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+        - Title: 'Publisher Insights: Content'
+          Description: 'Explores the Content tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-content.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+    
+    - type: Major updates
+      docs:
+        - Title: 'Configuring Viewer ID Tracking'
+          Description: 'Added the Connect your Integration section.'
+          Link: https://studio.support.brightcove.com/players/properties/viewer-id-tracking.html
+          Product: Brightcove Player
+          Product_area: 'Integrations'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging

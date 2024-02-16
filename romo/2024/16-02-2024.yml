@@ -1,0 +1,21 @@
+- date: 16-Jan-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player Sample: Loading the Player Dynamically'
+          Description: 'Corrected wording'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-loading-player-dynamically.html
+          Product: Brightcove Player
+          Product_area: 'Dynamic player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'Added warning note regarding live encoder'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
+          Product: Brightcove Live
+          Product_area: 'Best Practices'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
