@@ -10,6 +10,30 @@
           Product_Update: 'true'
           Feature: 'Publisher Insights'
           Status: Released
+        - Title: 'Publisher Insights: Trending'
+          Description: 'Explores the Trending tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-trending.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+        - Title: 'Publisher Insights: Engagement'
+          Description: 'Explores the Engagement tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-engagement.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
+        - Title: 'Publisher Insights: Content'
+          Description: 'Explores the Content tab in Publisher Insights.'
+          Link: https://studio.support.brightcove.com/analytics/pi-content.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'true'
+          Feature: 'Publisher Insights'
+          Status: Released
     
     - type: Major updates
       docs:
