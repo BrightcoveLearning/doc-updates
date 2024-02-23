@@ -1,0 +1,20 @@
+- date: 23-February-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Third-Party Tracking for a Portal Experience'
+          Description: 'Instructions for GA4 migration using Gallery module updated'
+          Link: https://gallery.support.brightcove.com/experiences/portal/other/configuring-third-party-tracking-portal-experience.html#google
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Creating a Cloud Playout Channel'
+          Description: 'Updated note about SSAI-enabled channels, '
+          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/cloud-playout/getting-started/cloud-playout-stream-vod.html
+          Product: Beacon
+          Product_area: 'Using Brightcove Beacon'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
