@@ -1,0 +1,13 @@
+- date: 23-Feb-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Live API: Notifications'
+          Description: 'Request to clarify “live_to_vod” property in Live API with regard to notification'
+          Link: https://apis.support.brightcove.com/live-api/guides/live-api-notifications.html
+          Product: Brightcove Player
+          Product_area: 'live-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
