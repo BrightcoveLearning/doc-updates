@@ -1,0 +1,33 @@
+- date: 1-Mar-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'EPG Scheduling Backend API (1.0)'
+          Description: 'New EPG Scheduling API'
+          Link: https://apis.support.brightcove.com/cloud-playout-apis/references/reference-epg-scheduler.html
+          Product: Video Cloud
+          Product_area: 'Cloud Playout API'
+          Product_Update: 'true'
+          Feature: 'EPG Scheduling API'
+          Status: Released
+    
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Cloud Playout Channel Manager API Reference (1.0.0)'
+          Description: 'New updates related to FAST'
+          Link: https://apis.support.brightcove.com/cloud-playout-apis/references/reference-channels.html
+          Product: Video Cloud
+          Product_area: 'Cloud Playout API'
+          Product_Update: 'true'
+          Feature: 'New endpoints for FAST'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
