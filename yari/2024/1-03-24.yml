@@ -23,11 +23,11 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Download Video Masters'
+          Description: 'Paging the feed URL updated'
+          Link: https://apis.support.brightcove.com/social-syndication/getting-started/download-video-masters.html#Paging_the_feed
+          Product: Video Cloud
+          Product_area: 'Social Syndication API'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
