@@ -1,0 +1,46 @@
+- date: 01-Mar-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Update SSAI docs - URL variables'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Ad_variables
+          Product:  SSAI
+          Product_area: 'getting started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Third-Party Tracking for a Portal Experience'
+          Description: '3rd-party tracking capabilities in Immersion template'
+          Link: https://gallery.support.brightcove.com/experiences/portal/other/configuring-third-party-tracking-portal-experience.html
+          Product: Video Cloud
+          Product_area: 'experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Ingest Profiles for Dynamic Delivery'
+          Description: 'note about custom renditions do not show their properties'
+          Link: https://studio.support.brightcove.com/admin/creating-ingest-profiles-dynamic-delivery.html#custom-renditions
+          Product: Video Cloud
+          Product_area: 'admin'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native Player for iOS Reference'
+          Description: 'iOS SDK Reference - Broken internal links from the page index'
+          Link: https://sdks.support.brightcove.com/ios/reference/sdk/index.html
+          Product: Device SDKs
+          Product_area: 'ios'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Implementing Server-Side Ads with Brightcove Player'
+          Description: 'Update SSAI docs - URL variables endpoints'
+          Link: https://player.support.brightcove.com/plugins/implementing-server-side-ads-brightcove-player.html#Options
+          Product: Brightcove Player
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
