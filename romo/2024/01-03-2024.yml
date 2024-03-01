@@ -1,0 +1,54 @@
+- date: 01-Mar-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Ingest Profiles for Dynamic Delivery'
+          Description: 'Added a note regarding Audio renditions.'
+          Link: https://studio.support.brightcove.com/admin/creating-ingest-profiles-dynamic-delivery.html
+          Product: Video Cloud
+          Product_area: 'Studio Ingest Profiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Step-by-Step: Using the Live Module with Open Broadcaster Software (OBS)'
+          Description: 'Added a note about FPS limitation.'
+          Link: https://live.support.brightcove.com/get-started/step-step-using-live-module-open-broadcaster-software-obs.html
+          Product: Live
+          Product_area: 'OBS'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising with the IMA3 Plugin'
+          Description: 'Added a note about PAL SDK.'
+          Link: https://player.support.brightcove.com/plugins/advertising-ima3-plugin.html
+          Product: Brightcove Player
+          Product_area: 'SDKs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Known Issues: Brightcove Native Player SDKs'
+          Description: 'Added a note about Android 12 known issue.'
+          Link: https://sdks.support.brightcove.com/developer-support/questions/known-issues-brightcove-native-player-sdks.html
+          Product: Device SDKs
+          Product_area: 'Android 12 Known issues'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Player Controls'
+          Description: 'Added a note about PIP behaviour with Firefox.'
+          Link: https://studio.support.brightcove.com/players/appearance/configuring-player-controls.html
+          Product: Video Cloud
+          Product_area: 'Configuring player controls'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sending Push Notifications to Beacon App Viewers'
+          Description: 'Added a note about this behaviour is not supported with iOS.'
+          Link: https://beacon-help.support.brightcove.com/registered-users/sending-push-notifications.html
+          Product: Beacon
+          Product_area: 'Push Notifications'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
+        
