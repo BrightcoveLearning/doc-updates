@@ -1,0 +1,23 @@
+- date: 08-Mar-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Managing a Schedule Channel'
+          Description: 'Created documentation regarding Cloud Playout 2.0 Scheduled Channels for Video Cloud.'
+          Link: https://studio.support.brightcove.com/channels/fast/scheduled-calendar.html
+          Product: Video Cloud
+          Product_area: 'Cloud Playout'
+          Product_Update: 'true'
+          Feature: 'Scheduled Channels'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Working with Remote Asset Videos'
+          Description: 'Added limitation note about remote assets'
+          Link: https://studio.support.brightcove.com/media/manage/working-remote-asset-videos.html#limitations
+          Product: Video Cloud
+          Product_area: 'Video assets'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
