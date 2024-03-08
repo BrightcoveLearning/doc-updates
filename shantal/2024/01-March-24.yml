@@ -1,0 +1,32 @@
+- date: 01-March-2024
+  types:
+    - type: New Docs
+      docs:
+    - type: Major updates
+      docs:
+        - Title: 'Creating Custom Metadata Fields'
+          Description: 'Warning added about custom field deletion'
+          Link: https://studio.support.brightcove.com/admin/creating-custom-metadata-fields.html#remove
+          Product: Video Cloud 
+          Product_area: 'General Information'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sending Push Notifications to Beacon App Viewers'
+          Description: 'beacon Studio content updated'
+          Link:https://beacon-help.support.brightcove.com/registered-users/sending-push-notifications.html
+          Product: Beacon
+          Product_area: 'Registered Users'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Overview: Salesforce Sales Cloud Integration Integration'
+          Description: 'Prerequisites section updated'
+          Link: https://audience-insights.support.brightcove.com/integrations/salesforce-sales-cloud/overview-sfsc-integration.html
+          Product: Audience Insights 
+          Product_area: 'Integrations'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
