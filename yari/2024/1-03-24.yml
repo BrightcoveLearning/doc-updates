@@ -2,13 +2,13 @@
   types:
     - type: New Docs
       docs:
-        - Title: 'EPG Scheduling Backend API (1.0)'
+        - Title: 'Program Scheduler API (1.0)'
           Description: 'New EPG Scheduling API'
           Link: https://apis.support.brightcove.com/cloud-playout-apis/references/reference-epg-scheduler.html
           Product: Video Cloud
           Product_area: 'Cloud Playout API'
           Product_Update: 'true'
-          Feature: 'EPG Scheduling API'
+          Feature: 'Program Scheduler API'
           Status: Released
     
     - type: Major updates
@@ -28,6 +28,22 @@
           Link: https://apis.support.brightcove.com/social-syndication/getting-started/download-video-masters.html#Paging_the_feed
           Product: Video Cloud
           Product_area: 'Social Syndication API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Sprinklr Destination'
+          Description: 'Note abour Sprinklr APIs added'
+          Link: https://studio.support.brightcove.com/social/module/sprinklr.html
+          Product: Video Cloud
+          Product_area: 'Social Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: China Delivery'
+          Description: 'New Limitation related to Playback Restrictions added'
+          Link: https://studio.support.brightcove.com/general/references/china-delivery-overview.html#Limitations
+          Product: Video Cloud
+          Product_area: 'China Delivery'
           Product_Update: 'false'
           Feature: ''
           Status: Released

@@ -1,0 +1,23 @@
+- date: 8-March-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Video Details Analytics'
+          Description: 'This topic covers the metrics available in the Video Details Analytics Tab in Video Cloud Studio.'
+          Link: https://studio.support.brightcove.com/analytics/reports/video-editor-analytics.html
+          Product: Video Cloud
+          Product_area: 'Media and Analytics Module'
+          Product_Update: 'true'
+          Feature: 'New Video Editor Analytics'
+          Status: Released
+    
+    - type: Minor updates
+      docs:
+        - Title: 'Audio Only with Brightcove Player'
+          Description: 'Note about player height added'
+          Link: https://player.support.brightcove.com/playback/audio-only-player.html#Implementation_notes
+          Product: Brightcove Player
+          Product_area: 'Playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
