@@ -1,0 +1,32 @@
+- date: 8-March-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Publishing Videos with the Player programmatically'
+          Description: 'Brightcove Player-only pulishing videos without media module'
+          Link: https://player.support.brightcove.com/standalone-player/publishing-videos.html
+          Product: Video Cloud
+          Product_area: 'standalone-player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Major updates
+      docs:
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Update URL variables'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html#Ad_variables
+          Product: Brightcove Player
+          Product_area: 'ssai'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Interactivity Javascript Embed API'
+          Description: 'Update Custom User ID Methods for Brightcove Interactivity'
+          Link: https://apis.support.brightcove.com/interactivity/embed-api/reference.html#custom_user_identification_variables
+          Product: Brightcove Player
+          Product_area: 'interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
