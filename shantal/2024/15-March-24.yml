@@ -1,0 +1,40 @@
+- date: 15-March-2024
+  types:
+    - type: New Docs
+      docs:
+    - type: Major updates
+      docs:
+        - Title: 'Getting Started with Brightcove Social'
+          Description: 'Limitations of Redundancy in RTMP Outputs for Social Module Streaming note added'
+          Link: https://studio.support.brightcove.com/social/module/getting-started-brightcove-social.html#publish-live
+          Product: Video Cloud 
+          Product_area: 'Social Sharing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Determining Which Rendition Will Play'
+          Description: 'Information added about how does the web player choose renditions'
+          Link: https://player.support.brightcove.com/playback/determining-which-rendition-will-play.html
+          Product: Player
+          Product_area: 'Playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Player Configuration Guide'
+          Description: 'hls section updated with new information'
+          Link: https://apis.support.brightcove.com/player-management/guides/player-configuration-guide.html#hls
+          Product: Brightcove Player 
+          Product_area: 'Player Management API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Integrating Pigeonhole with a Virtual Event Experience'
+          Description: 'New screenshot in Integrating Pigeonhole with a Virtual Event Experience documentation'
+          Link: https://gallery.support.brightcove.com/experiences/virtual-event/customizing/integrating-pigeonhole-virtual-event-experience.html#sso-attributes
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
