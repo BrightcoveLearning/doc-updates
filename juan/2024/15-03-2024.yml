@@ -1,0 +1,12 @@
+- date: 15-March-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Brightcove Video Editor'
+          Description: 'Transform media content using the Brightcove Video Editor'
+          Link: https://studio.support.brightcove.com/media/manage/video-editor.html
+          Product: Video Cloud
+          Product_area: 'Media'
+          Product_Update: 'true'
+          Feature: 'Video Editor'
+          Status: Released
