@@ -1,0 +1,12 @@
+- date: 21-March-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''Watch from Start (Restart button)'
+          Description: 'In this topic, you will learn about the Restart button'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/app-behavior/watch-from-start.html
+          Product: Beacon 
+          Product_area: App Behavior''
+          Product_Update: 'true'
+          Feature: 'Watch from Start (Restart button)'
+          Status: Staging 
