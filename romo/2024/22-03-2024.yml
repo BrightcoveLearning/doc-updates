@@ -1,0 +1,37 @@
+- date: 22-Mar-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'HLS Plugin'
+          Description: 'Added warning note about the HLS Plugin is no longer available as of Brightcove Player version 7'
+          Link: https://player.support.brightcove.com/plugins/hls-plugin.html
+          Product: Brightcove Player
+          Product_area: 'HLS Plugin'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Picture-in-Picture Plugin (aka "floating" or "pinned")'
+          Description: 'Added informative note about using PIP in an AMP page'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html
+          Product: Brightcove Player
+          Product_area: 'Picture-in-Picture'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Programmatically Localizing Brightcove Player'
+          Description: 'Added tip note about process for setting the language in localization'
+          Link: https://player.support.brightcove.com/coding-topics/programmatically-localizing-brightcove-player.html
+          Product: Brightcove Player
+          Product_area: 'Localizing Brightcove Player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding WebVTT Captions (Text Tracks)'
+          Description: 'Added informative note about srclang'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/using-cms-api-add-webvtt-captions-text-tracks.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
