@@ -1,0 +1,62 @@
+Hi Team @here 
+Time for the monthly capitalization thing again. So I need to know approximately what percent of your time you spent on the following during this month. We have a new list for 2024.
+
+2024 Capitalized Projects
+Self Service/Ease of Use
+Beacon Video Cloud V3
+Studio v2 ( add'tl features and Video Cloud integration - begin Q4 2022)
+QoE Analytics and Insights
+Ad Monetization Phase 2
+Ad Insights Phase 3
+Brightcove Interactivity Phase 2
+VCPE - Roles and Permissions Phase 1
+VCPE - Manifest API
+VCPE - Roku SDK
+VCPE - Internal comms template enhancements
+VCPE - UHD Content Experience using HDR10
+VCPE - Smart TV SDK
+VCPE - Live 4k
+VCPE - Live Streaming Improvements
+VCPE - Byte Range Delivery
+2023 Integrations Q4
+NONE
+VCPE-Kepler SDK (PROG-863)
+InSync Frameformer - Phase 1
+Springserve support VOD SSAI
+VCPE - CAE and CDN Switching 
+Audience Insights - Data Speed and Costs
+VCPE - Comms Studio Phase 1
+Video Editor (Wochit)
+Video Editor (Wochit) - phase 2
+Vulnerability remediation
+Observability
+Audience Insights - Publisher Insights
+Audience Insights - MAP Integrations
+VCPE - Monetization Platform
+VCPE - Platform Metadata
+Audience Insights - Media Module Analytics
+VCPE - OTT Next Experience
+VCPE - Beacon Android TV Native
+COGS Initiative
+Platform Identity
+
+Total should be 70% or less. Doesn't have to be exact - just your best guess.
+
+March 27
+Yari
+Studio V2 - 30%
+InSync Frameformer - 20%
+Audience Insights Media Module - 15%
+
+JuanCa
+Video Editor (Wochit) (why do we have phase 2?) 50%
+Audience Insights - Publisher Insights 5%
+Audience Insights - MAP Integrations 10%
+
+Alex
+VCPE - Roku SDK - 40%
+VCPE - Beacon Android TV Native - 20%
+
+Romo
+VCPE - Roles and Permissions Phase 1 -60%
+2023 Integrations Q4 - 10%
