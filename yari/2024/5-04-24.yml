@@ -1,0 +1,73 @@
+- date: 05-April-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Adding a Lead Form to a video'
+          Description: 'In this topic you will learn how to add a lead form to a video.'
+          Link: https://studio.support.brightcove.com/interactivity/annotations/adding-lead-form.html
+          Product: Brightcove Interactivity
+          Product_area: 'Annotations'
+          Product_Update: 'true'
+          Feature: 'New Lead Form Annotation'
+          Status: Staging
+    
+    - type: Major updates
+      docs:
+        - Title: 'Overview of Context Aware Encoding'
+          Description: 'Updates for CAE 2.0 added'
+          Link: https://zencoder.support.brightcove.com/general-information/overview-context-aware-encoding.html
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'true'
+          Feature: 'Updated for CAE 2.0'
+          Status: Released
+        - Title: 'CAE Guide'
+          Description: 'Updates for CAE 2.0 added'
+          Link: https://zencoder.support.brightcove.com/encoding-guides/cae-guide.html
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'CAE Settings'
+          Description: 'Updates for CAE 2.0 added'
+          Link: https://zencoder.support.brightcove.com/encoding-settings/general/cae-settings.html
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Job Settings'
+          Description: 'Updates for CAE 2.0 added'
+          Link: https://zencoder.support.brightcove.com/encoding-settings/general/encoding-settings-job.html
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'HDR Settings'
+          Description: 'Updates for CAE 2.0 added. Insync Frameformer & Color Format'
+          Link: https://zencoder.support.brightcove.com/encoding-settings/formats-codecs/encoding-settings-hdr10.html
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Supported HDR Video Formats'
+          Description: 'Updates for CAE 2.0 added. Insync Frameformer & Color Format'
+          Link: https://zencoder.support.brightcove.com/encoding-guides/hdr10-video-output.html#Overview
+          Product: Zencoder
+          Product_area: 'CAE'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
