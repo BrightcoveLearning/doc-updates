@@ -1,7 +1,5 @@
 - date: 05-April-2024
   types:
-   
-    
     - type: Major updates
       docs:
         - Title: 'Roku SDK Developer Guide'
