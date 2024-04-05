@@ -1,0 +1,15 @@
+- date: 05-April-2024
+  types:
+   
+    
+    - type: Major updates
+      docs:
+        - Title: 'Roku SDK Developer Guide'
+          Description: 'Roku SDK - GA Release Documentation update'
+          Link: https://sdks.support.brightcove.com/developer-support/guides/roku-sdk-developer-guide.html
+          Product: Device SDKs
+          Product_area: 'Guides'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
