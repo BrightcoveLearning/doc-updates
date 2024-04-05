@@ -12,4 +12,12 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Configuring Adobe Analytics Event Tracking'
+          Description: 'Adobe docs eVar format delete'
+          Link: https://studio.support.brightcove.com/players/general/configuring-adobe-analytics-event-tracking.html#review_parameters
+          Product: Brightcove Player
+          Product_area: 'General'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     
