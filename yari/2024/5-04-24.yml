@@ -61,6 +61,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Live API Reference (1.0.0)'
+          Description: 'New attribute (number_of_segments_in_live_chunklist) added'
+          Link: https://apis.support.brightcove.com/live-api/references/reference.html#tag/Live-Jobs/operation/CreateALiveJob
+          Product: Video Cloud
+          Product_area: 'Live API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''

@@ -21,13 +21,14 @@
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
+    
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Protecting Videos with HLS Encryption'
+          Description: 'New note added'
+          Link: https://studio.support.brightcove.com/general/content-protection/protecting-videos-hls-encryption.html
+          Product: Video Cloud
+          Product_area: 'HLS Encryption'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
