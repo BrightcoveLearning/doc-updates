@@ -1,0 +1,37 @@
+- date: 05-April-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Watching from Start'
+          Description: 'In this topic, you will learn about the Restart button.'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/app-behavior/watch-from-start.html
+          Product:  Beacon 
+          Product_area: App Publishing and Behavior
+          Product_Update: 'true'
+          Feature: 'Restart button'
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Player Content Restrictions'
+          Description: 'If  you are using Playback Rights, you should NOT use the Content Restriction page in the player's module.'
+          Link: https://studio.support.brightcove.com/players/properties/configuring-player-content-restrictions.html
+          Product: Video Cloud 
+          Product_area: 'Managing Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Configuring Player Content Restrictions'
+          Description: 'If  you are using Playback Rights, you should NOT use the Content Restriction page in the player's module.'
+          Link: https://corptv.support.brightcove.com/players/properties/configuring-player-content-restrictions.html
+          Product: CorpTV
+          Product_area: 'Managing Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: OAuth API'
+          Description: 'Clarify wording about limitations account behavior'
+          Link: https://apis.support.brightcove.com/oauth/getting-started/overview-oauth-api-v4.html
+          Product: APIs
+          Product_area: 'OAuth API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
