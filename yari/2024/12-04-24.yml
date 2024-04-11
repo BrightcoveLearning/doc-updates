@@ -32,3 +32,20 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Known Issues'
+          Description: 'Known issue related to AndroidTV App added'
+          Link: https://beacon-help.support.brightcove.com/general/references/known-issues.html
+          Product: Beacon
+          Product_area: 'Known Issue'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Reducing Latency for Live Streams'
+          Description: 'New information added'
+          Link: https://studio.support.brightcove.com/live/general/reducing-latency-live-streams.html
+          Product: Live
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
