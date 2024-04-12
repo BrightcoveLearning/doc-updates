@@ -2,6 +2,22 @@
   types:
     - type: Major updates
       docs:
+        - Title: 'Getting Started with Scheduled Channels'
+          Description: 'FAST channels with SSAI work with the Gallery Immersion template'
+          Link: https://studio.support.brightcove.com/channels/fast/getting-started.html
+          Product: Video Cloud
+          Product_area: 'Managing Channels'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Portal Experiences'
+          Description: 'Brightcove allows FAST channels with SSAI work and the Gallery Immersion template.'
+          Link: https://gallery.support.brightcove.com/experiences/portal/
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
         - Title: 'Automated Captions using the Live API'
           Description: 'Automated Captions using the Live API - Limitations'
           Link: https://apis.support.brightcove.com/live-api/guides/live-auto-captions.html#Limitations
