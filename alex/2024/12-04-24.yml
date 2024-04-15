@@ -1,0 +1,12 @@
+- date: 12-April-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player 7 Migration Guide'
+          Description: 'delete the limitations reference since it doesn't exist any more'
+          Link: https://player.support.brightcove.com/references/bcp7-migration-guide.html#Limitations
+          Product: Brightcove Player
+          Product_area: 'references'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
