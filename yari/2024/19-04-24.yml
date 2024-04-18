@@ -13,14 +13,14 @@
     
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: '360°/VR Video Plugin'
+          Description: 'New option added'
+          Link: https://player.support.brightcove.com/plugins/360degvr-video-plugin.html#Options
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'true'
+          Feature: 'sphereDetail option added'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Editing Video Properties using Quick Edit'
@@ -28,6 +28,38 @@
           Link: https://studio.support.brightcove.com/media/properties/editing-video-properties-using-quick-edit.html
           Product: Video Cloud
           Product_area: 'Media Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Note related to SSAI Macros added to the notes section'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html
+          Product: Video Cloud
+          Product_area: 'SSAI API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dolby Atmos Audio'
+          Description: 'New limitation added'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/dolby-atmos-audio.html#limitations
+          Product: Video Cloud
+          Product_area: 'Ingest Profiles API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Step to enable CDN added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#publish
+          Product: Live
+          Product_area: 'Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Description for exp claim updated'
+          Link: https://player.support.brightcove.com/coding-topics/general/create-json-web-token.html#Claims_for_Playback_Restrictions
+          Product: Brightcove Player
+          Product_area: 'Playback Restrictions'
           Product_Update: 'false'
           Feature: ''
           Status: Released
