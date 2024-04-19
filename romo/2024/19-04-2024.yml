@@ -1,0 +1,30 @@
+- date: 19-April-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Managing Users'
+          Description: 'This doc explains how to manage the users, roles and permissions in Video Cloud.'
+          Link: https://studio.support.brightcove.com/admin/general/managing-users.html
+          Product: Video Cloud
+          Product_area: 'User management'
+          Product_Update: 'true'
+          Feature: 'Roles and Permissions'
+          Status: Limited Availability
+    - type: Minor updates
+      docs:
+        - Title: 'Implementing Live with DVR'
+          Description: 'Added informative note'
+          Link: https://beacon-help.support.brightcove.com/live/get-started/implement-live-with-dvr.html
+          Product: Beacon
+          Product_area: 'Live streaming'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Media Sharing using the Media Module'
+          Description: 'Added informative note about media sharing'
+          Link: https://studio.support.brightcove.com/media/general/media-sharing-using-media-module.html
+          Product: Video Cloud
+          Product_area: 'Media Sharing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
