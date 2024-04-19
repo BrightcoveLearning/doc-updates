@@ -1,0 +1,12 @@
+- date: 19-April-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'MP4s in Dynamic Delivery'
+          Description: 'Added using the video editor as a reason to use the MP4 format.'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/mp4s-dynamic-delivery.html#Do_I_need_MP4_renditions
+          Product: Video Cloud
+          Product_area: Ingest profiles
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
