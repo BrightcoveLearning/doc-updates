@@ -1,4 +1,4 @@
-- date: 12-January-2024
+- date: 26-April-2024
   types:
     - type: New Docs
       docs:
@@ -68,22 +68,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released 
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Downloading links'
+          Description: 'Note regarding retrieving downloading links for DRM'ed content added.'
+          Link: https://apis.support.brightcove.com/cms/code-samples/cms-api-sample-download-links.html
+          Product: APIs
+          Product_area: 'CMS API'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal 
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released 
     - type: Minor updates
       docs:
         - Title: 'Using Live Redundancy'
@@ -102,19 +94,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Managing a Schedule Channel'
+          Description: 'Note about deactivating associated live job added.'
+          Link: https://studio.support.brightcove.com/channels/fast/scheduled-calendar.html
+          Product: Video Cloud 
+          Product_area: 'Managing Channels'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+          Status: Released 
+        - Title: 'Getting Started with Scheduled Channels'
+          Description: 'Note about deactivating associated live job added.'
+          Link: https://studio.support.brightcove.com/channels/fast/getting-started.html
+          Product: Video Cloud
+          Product_area: 'Managing Channels'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
