@@ -1,0 +1,20 @@
+- date: 26-April-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Static URL Delivery'
+          Description: 'Added note to contact support'
+          Link: https://apis.support.brightcove.com/playback/guides/static-url-delivery.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Manifest/Metadata Reference'
+          Description: 'Added informative note'
+          Link: https://apis.support.brightcove.com/aspera/manifest-metadata-reference.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
