@@ -1,0 +1,24 @@
+- date: 26-April-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Ingest SCTE-35'
+          Description: 'Ingest SCTE-35 directly into CloudPlayout via RTP.'
+          Link: https://studio.support.brightcove.com/channels/cloud-playout/general/ingest-scte-35.html
+          Product: Video Cloud
+          Product_area: 'Cloud Playout'
+          Product_Update: 'true'
+          Feature: 'SCTE-35'
+          Status: Released
+
+    - type: Minor updates
+      docs:
+        - Title: 'Using Multiple Players on One Page'
+          Description: 'Updated players in sample'
+          Link: https://studio.support.brightcove.com/publish/general/using-multiple-players-one-page.html 
+          Product: Brightcove Player
+          Product_area: 'Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
