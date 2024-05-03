@@ -1,0 +1,46 @@
+- date: 03-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Pinning Plugin (aka "Picture-in-Picture Plugin" or "pinned")'
+          Description: 'Picture-in-Picture Plugin Name Change to "Pinning"'
+          Link: https://player.support.brightcove.com/plugins/picture-picture-plugin-aka-floating-or-pinned.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Claims for Static URL Delivery value added'
+          Link: https://general.support.brightcove.com/developer/create-json-web-token.html#Claims_for_Static_URL_Delivery
+          Product: Video Cloud
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Viewing Billing Information'
+          Description: 'Total storage in the billing dashboard explanation'
+          Link: https://studio.support.brightcove.com/admin/viewing-billing-information.html
+          Product: Video Cloud 
+          Product_area: 'Admin'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Debugging on Mobile Devices'
+          Description: 'Using Charles with Android 7 and later'
+          Link: https://sdks.support.brightcove.com/developer-support/guides/debugging-mobile-devices.html#Using_Charles_with_Android_7
+          Product: Device SDKs 
+          Product_area: 'Getting Started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Brightcove Player Release Notes'
+          Description: 'Brightcove Player current version'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
+          Product:  Brightcove Player 
+          Product_area: 'Release Notes'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
