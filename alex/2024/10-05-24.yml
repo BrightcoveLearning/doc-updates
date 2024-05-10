@@ -1,0 +1,38 @@
+- date: 10-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Dimensions, Fields, and Parameters'
+          Description: 'take down dimension combination tester'
+          Link: https://apis.support.brightcove.com/analytics/getting-started/analytics-api-overview-dimensions-fields-and-parameters.html
+          Product:  Audience Insights
+          Product_area: 'analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Dimensions, Fields, and Parameters'
+          Description: 'Viewer" Category Missing in Dimension Combinations table'
+          Link: https://apis.support.brightcove.com/analytics/getting-started/analytics-api-overview-dimensions-fields-and-parameters.html#metrics
+          Product:  Audience Insights
+          Product_area: 'analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Reducing Latency for Live Streams'
+          Description: 'Add a restriction/limitation to this documentation to call out that a 2-second segment length is not compatible with live jobs that have a redundancy aspect'
+          Link: https://live.support.brightcove.com/general/reducing-latency-live-streams.html
+          Product: Live
+          Product_area: 'general'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Studio System Requirements'
+          Description: 'update supported OS versions'
+          Link: https://studio.support.brightcove.com/general/references/studio-system-requirements.html
+          Product: Video Cloud
+          Product_area: 'general'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
