@@ -1,0 +1,48 @@
+- date: 10-May-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Managing Text and Audio Tracks'
+          Description: 'Include information about managing audio tracks'
+          Link: https://mstudio.support.brightcove.com/media/managing-text-audio-tracks.html
+          Product: Marketing Studio 
+          Product_area: 'Managing Videos'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Adding Audio Tracks to Videos using the Media Module'
+          Description: 'Adding audio track file section updated'
+          Link: https://studio.support.brightcove.com/media/captions/adding-audio-tracks-videos-using-media-module.html
+          Product: Video Cloud
+          Product_area: 'Captions and Audio Files'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'CMS API: Video Search v2'
+          Description: 'To see Version 1, go to CMS/Playback API: Videos Search v1.'
+          Link: https://apis.support.brightcove.com/cms/searching/cms-and-playback-apis-video-search-v2.html
+          Product: APIs
+          Product_area: 'CMS API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Interactivity Javascript Embed API'
+          Description: 'Update to interactivity viewer rather than HapYak'
+          Link: https://apis.support.brightcove.com/interactivity/embed-api/reference.html#viewer_api_hapyakviewer
+          Product: APIs
+          Product_area: 'Brightcove Interactivity APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
