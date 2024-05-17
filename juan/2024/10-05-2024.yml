@@ -1,0 +1,53 @@
+- date: 10-May-2024
+  types:
+
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player Sample: Automatically Set Caption Language'
+          Description: 'Disclaimer about code sample added.'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-automatically-set-caption-language.html
+          Product: Brightcove Player
+          Product_area: 'Captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Sample: Full Window Background Video'
+          Description: 'Disclaimer about code sample added.'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-full-window-background-video.html
+          Product: Brightcove Player
+          Product_area: 'Player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Sample: Automatically Set Audio Track Language'
+          Description: 'Disclaimer about code sample added'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-automatically-set-audio-track-language.html
+          Product: Brightcove Player
+          Product_area: 'Audio track'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Code Sample Index'
+          Description: 'Disclaimer about code sample added'
+          Link: https://player.support.brightcove.com/code-samples/index.html
+          Product: Brightcove Player
+          Product_area: 'Player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Live Redundancy'
+          Description: 'Changed on air variable.'
+          Link: https://apis.support.brightcove.com/live-api/guides/using-live-redundancy.html
+          Product: Live
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Dynamic Ingest API'
+          Description: 'Added warning notes about not using a special character.'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/getting-started/overview-dynamic-ingest-api-dynamic-delivery.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
