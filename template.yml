@@ -1,4 +1,4 @@
-- date: 10-May-2024
+- date: 17-May-2024
   types:
     - type: New Docs
       docs:
@@ -10,7 +10,6 @@
           Product_Update: 'true | false'
           Feature: ''
           Status: Released | Limited Availability | Staging | Internal
-    
     - type: Major updates
       docs:
         - Title: ''

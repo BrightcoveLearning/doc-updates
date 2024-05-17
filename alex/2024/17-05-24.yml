@@ -1,0 +1,12 @@
+- date: 17-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Step-by-Step: Plugin Development'
+          Description: 'description of potential web player publishing failures'
+          Link: https://player.support.brightcove.com/coding-topics/step-step-plugin-development.html
+          Product: Video Cloud
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
