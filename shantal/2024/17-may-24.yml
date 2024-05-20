@@ -1,0 +1,86 @@
+- date: 17-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Getting Started with Scheduled Channels'
+          Description: 'Recommendations section added'
+          Link: https://studio.support.brightcove.com/channels/fast/getting-started.html
+          Product: Video Cloud
+          Product_area: 'Managing Channels'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Brightcove Player SDK for iOS v6.13.1'
+          Link: Overview Brightcove Native SDK for iOS
+          Product:  Device SDKs 
+          Product_area: 'iOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Overview: Brightcove Native SDK for tvOS'
+          Description: 'Brightcove Player SDK for iOS v6.13.1'
+          Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
+          Product: Device SDKs 
+          Product_area: 'tvOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove QoE Insights'
+          Description: 'Note for Android Errors'
+          Link: https://studio.support.brightcove.com/analytics/module/qoe-insights.html#Error_codes
+          Product: Video Cloud 
+          Product_area: ' Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Google Tag Manager Plugin for Brightcove Player'
+          Description: 'New Prerequisites section added'
+          Link: https://player.support.brightcove.com/plugins/google-tag-manager-plugin-brightcove-player.html
+          Product: Brightcove Player 
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Getting Started with Ramp Multicast+ and Video Cloud'
+          Description: 'RAMP Multicast plugin document updated'
+          Link: https://integrations.support.brightcove.com/ecdn/ramp/getting-started-ramp-multicast-and-video-cloud.html
+          Product: Integrations
+          Product_area: 'eCDN'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+         - Title: 'Brightcove Native SDK for Android: Previous SDK information'
+          Description: 'Previous section updated'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-player-sdk-android-previous-sdk-information.html
+          Product:  Device SDKs 
+          Product_area: 'Android Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
+          Description: 'Previous SDK information updated'
+          Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
+          Product:  Device SDKs 
+          Product_area: 'tvOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
+          Description: 'Previous SDK information updated'
+          Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
+          Product:  Device SDKs 
+          Product_area: 'iOS Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK Release v8.4.2'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs 
+          Product_area: 'Android Development'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
