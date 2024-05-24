@@ -1,0 +1,21 @@
+- date: 24-May-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Setting a Hard Start for a Channel'
+          Description: 'Broken link fix'
+          Link: https://studio.support.brightcove.com/channels/cloud-playout/publishing/hard-start.html
+          Product: Live
+          Product_area: 'Cloud Playout'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
+        - Title: 'Protecting Videos with HLS Encryption'
+          Description: 'Limitation added'
+          Link: https://studio.support.brightcove.com/general/content-protection/protecting-videos-hls-encryption.html
+          Product: Video Cloud
+          Product_area: 'Encription'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
