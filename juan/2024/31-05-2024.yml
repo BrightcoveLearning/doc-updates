@@ -1,0 +1,30 @@
+- date: 31-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Managing Slates'
+          Description: 'Updated the Adding a slate to a channel section'
+          Link: https://studio.support.brightcove.com/channels/cloud-playout/general/managing-slates.html
+          Product: Live 
+          Product_area: 'Cloud Playout'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Multiple Audio and Text Tracks for Offline Playback with the Native SDK for Android'
+          Description: 'Changed the title to better reflect the content of this document'
+          Link: https://sdks.support.brightcove.com/android/playback/multiple-audio-tracks-offline-playback-native-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'Android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Video Cloud SSAI API'
+          Description: 'Added a note about a limitation with UID2'
+          Link: https://apis.support.brightcove.com/ssai/getting-started/video-cloud-ssai-ad-config-api.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
