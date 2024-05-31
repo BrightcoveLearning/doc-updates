@@ -1,0 +1,47 @@
+- date: 31-May-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'FAST Streams integration for Immersion Template'
+          Description: 'Configure FAST streams (SSAI streaming) with the "Immersion" template.'
+          Link: https://gallery.support.brightcove.com/experiences/portal/other/fast-streams-for-immersion.html
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'true'
+          Feature: 'FAST (SSAI streaming) integration for "Immersion"'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Getting your BC_TOKEN'
+          Description: 'Updated the instructions to indicate how to generate a BC token in Postman'
+          Link: https://apis.support.brightcove.com/oauth/guides/get-your-bc-token.html
+          Product: Video Cloud 
+          Product_area: 'oauth'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Sample: Vertical Video'
+          Description: 'Brightcove Player Sample: Vertical Video deleted'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-vertical-video.html
+          Product: Brightcove Player
+          Product_area: 'code-samples'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Cast plugin for the Native SDK for Android'
+          Description: 'Implementation directive update & Google Cast Demo receiver app limitations added'
+          Link: https://sdks.support.brightcove.com/android/tv/cast-plugin-native-sdk-android.html#Understanding_the_Cast_plugin
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Code Snippets using the Native SDK for iOS'
+          Description: 'Code samples display Swift sample by default'
+          Link: https://sdks.support.brightcove.com/ios/resources/code-snippets-using-native-sdk-ios.html#Modifying_captions_programmatically
+          Product: Device SDKs
+          Product_area: 'iOS'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+  
