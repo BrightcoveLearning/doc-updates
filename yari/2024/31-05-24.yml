@@ -1,0 +1,22 @@
+- date: 31-May-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Jump Start: Header Bidding Ad'
+          Description: 'AppNexus section added'
+          Link: https://player.support.brightcove.com/advertising/jump-start-header-bidding-ad.html#AppNexus_Overview
+          Product: Brightcove Player
+          Product_area: 'Advertising'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Video Details Analytics'
+          Description: 'Note related to engagement and all time added'
+          Link: https://studio.support.brightcove.com/analytics/reports/video-editor-analytics.html
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
