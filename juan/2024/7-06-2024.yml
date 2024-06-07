@@ -1,0 +1,30 @@
+- date: 07-June-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Implementing Server-Side Ads in the Live Module'
+          Description: 'Warning and information notes added'
+          Link: https://live.support.brightcove.com/live-module/implementing-server-side-ads-live-module.html
+          Product: Live
+          Product_area: 'SSAI'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Digital Master Delete API'
+          Description: 'Warning added'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/digital-master-delete-api.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Dynamic Delivery Ingest Priority Queueing'
+          Description: 'Changed a limitation'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/dynamic-delivery-ingest-priority-queueing.html
+          Product: Video Cloud
+          Product_area: 'Ingest'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
