@@ -30,3 +30,11 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Static URL Delivery'
+          Description: 'Note about Static URLs added'
+          Link: https://apis.support.brightcove.com/playback/guides/static-url-delivery.html#Static_URLs
+          Product: Video Cloud
+          Product_area: 'Playback API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
