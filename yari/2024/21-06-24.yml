@@ -1,0 +1,32 @@
+- date: 21-Jun-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Major updates
+      docs:
+        - Title: 'Insights Glossary'
+          Description: 'Definitions updated'
+          Link: https://studio.support.brightcove.com/analytics/module/insights-glossary.html
+          Product: Video Cloud 
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
