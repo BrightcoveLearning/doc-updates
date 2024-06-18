@@ -1,144 +1,96 @@
-- date: 26-April-2024
+- date: 14-Jun-2024
   types:
     - type: New Docs
       docs:
-        - Title: 'Ingest SCTE-35'
-          Description: 'Ingest SCTE-35 directly into CloudPlayout via RTP.'
-          Link: https://studio.support.brightcove.com/channels/cloud-playout/general/ingest-scte-35.html
-          Product: Video Cloud
-          Product_area: 'Cloud Playout'
-          Product_Update: 'true'
-          Feature: 'SCTE-35'
-          Status: Released
-        - Title: 'Brightcove Outstream Player'
-          Description: In this topic, you will learn the basic set up of an Outstream Player type and available customizable features.'
-          Link: https://player.support.brightcove.com/code-samples/brightcove-player-outstream.html
-          Product: Brightcove Player 
-          Product_area: ''
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging 
     - type: Major updates
       docs:
-        - Title: 'Google Analytics Self Configuration'
-          Description: 'Brightcove strongly recommends switch over to Google Analytics 4.'
-          Link: https://player.support.brightcove.com/analytics/ga-self-configure.html#Introduction
-          Product: Brightcove Player 
-          Product_area: 'Analytics'
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK v8.4.4 Release'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'android'
           Product_Update: 'false'
           Feature: ''
-          Status: Released 
-        - Title: 'Google Analytics Plugin'
-          Description: 'Brightcove strongly recommends switch over to Google Analytics 4, if you are not already using it. All new users will only be using Google Analytics 4.'
-          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html
+          Status: Released
+        - Title: 'iOS: Working with Media Content'
+          Description: 'iOS SDK update deprecated method findVideoWithConfiguration'
+          Link: https://sdks.support.brightcove.com/ios/basics/ios-working-media-content.html
+          Product: Device SDKs
+          Product_area: 'ios'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Add Player setting control_bar'
+          Link: https://player.support.brightcove.com/references/player-configuration-guide.html#control_bar
+          Product: Brightcove Player
+          Product_area: 'references'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'Add bug fixes for 6.1.4 and 6.1.5 versions'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising with Google IMA DAI Plugin'
+          Description: 'replaceAdTagParameters table added'
+          Link: https://player.support.brightcove.com/plugins/google-ima-dai.html#instance-methods
           Product: Brightcove Player
           Product_area: 'Plugins'
           Product_Update: 'false'
           Feature: ''
-          Status: Released 
-        - Title: 'Reviewing Player Event Data in Google Analytics'
-          Description: 'Redirected URL to Google Analytics Plugin '
-          Link: https://studio.support.brightcove.com/analytics/general/reviewing-player-event-data-google-analytics.html
-          Product: Video Cloud
-          Product_area: 'Analytics'
-          Product_Update: 'false'
-          Feature: ''
           Status: Released
-        - Title: 'Overview: Brightcove Native SDK for iOS'
-          Description: 'Brightcove Native Player for iOS release 6.13.0'
-          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
-          Product:  Device SDKs
-          Product_area: 'iOS Development'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released 
-        - Title: 'Brightcove Native SDK for iOS: Previous SDK information'
-          Description: 'Previous releases section updated.'
-          Link: https://sdks.support.brightcove.com/ios/resources/brightcove-player-sdk-ios-previous-sdk-information.html
-          Product: Device SDKs 
-          Product_area: 'iOS Development'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Overview: Brightcove Native SDK for tvOS'
-          Description: 'Brightcove Native Player for iOS release 6.13.0'
-          Link: https://sdks.support.brightcove.com/tvos/basics/overview-brightcove-player-sdk-tvos.html
-          Product:  Device SDKs 
-          Product_area: 'tvOS Development'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released 
-        - Title: 'Brightcove Native SDK for tvOS: Previous SDK information'
-          Description: 'Previous releases section updated.'
-          Link: https://sdks.support.brightcove.com/tvos/resources/brightcove-player-sdk-tvos-previous-sdk-information.html
-          Product:  Device SDKs 
-          Product_area: ' tvOS Development'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released 
-        - Title: 'Downloading links'
-          Description: 'Note regarding retrieving downloading links for DRMed content added.'
-          Link: https://apis.support.brightcove.com/cms/code-samples/cms-api-sample-download-links.html
-          Product: APIs
-          Product_area: 'CMS API'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released 
     - type: Minor updates
       docs:
-        - Title: 'Using Multiple Players on One Page'
-          Description: 'Updated players in sample'
-          Link: https://studio.support.brightcove.com/publish/general/using-multiple-players-one-page.html 
+        - Title: 'Brightcove Native SDK for Android Release Notes'
+          Description: 'Add release notes for Android SDK v8.4.2'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-native-sdk-android-release-notes.html
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Quick Start: Using RTMP Outputs for Live Events'
+          Description: 'Update logo'
+          Link: https://apis.support.brightcove.com/live-api/code-samples/quick-start-using-rtmp-outputs-live-events.html
+          Product: Video Cloud
+          Product_area: 'live-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Images and the Dynamic Ingest API'
+          Description: 'Code indentation '
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/images-and-dynamic-ingest-api.html
+          Product: Video Cloud
+          Product_area: 'dynamic-ingest'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Release Notes'
+          Description: 'Brightcove Player current version updated'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
           Product: Brightcove Player
-          Product_area: 'Players'
+          Product_area: 'Release Notes'
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Static URL Delivery'
-          Description: 'Added note to contact support'
-          Link: https://apis.support.brightcove.com/playback/guides/static-url-delivery.html
-          Product: Video Cloud
-          Product_area: 'APIs'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Manifest/Metadata Reference'
-          Description: 'Added informative note'
-          Link: https://apis.support.brightcove.com/aspera/manifest-metadata-reference.html
-          Product: Video Cloud
-          Product_area: 'APIs'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Using Live Redundancy'
-          Description: 'Field names have changed'
-          Link: https://apis.support.brightcove.com/live-api/guides/using-live-redundancy.html
-          Product: APIs
-          Product_area: 'Live API'
+        - Title: 'Brightcove Player Documentation'
+          Description: 'Brightcove Player current version updated'
+          Link: https://player.support.brightcove.com/index.html
+          Product:  Brightcove Player 
+          Product_area: 'Home'
           Product_Update: 'false'
           Feature: ''
           Status: Released 
-        - Title: 'Live DRM'
-          Description: 'Playback technologies used section updated'
-          Link: https://live.support.brightcove.com/general/live-drm.html
-          Product: Live
-          Product_area: 'General Information'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Managing a Schedule Channel'
-          Description: 'Note about deactivating associated live job added.'
-          Link: https://studio.support.brightcove.com/channels/fast/scheduled-calendar.html
+        - Title: 'Supported Encoders for Live Events'
+          Description: 'Not listed encoders that can meet our best practices should work, we recommend testing'
+          Link: https://studio.support.brightcove.com/live/general/supported-encoders-live-events.html
           Product: Video Cloud 
-          Product_area: 'Managing Channels'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released 
-        - Title: 'Getting Started with Scheduled Channels'
-          Description: 'Note about deactivating associated live job added.'
-          Link: https://studio.support.brightcove.com/channels/fast/getting-started.html
-          Product: Video Cloud
-          Product_area: 'Managing Channels'
+          Product_area: 'Live Streaming'
           Product_Update: 'false'
           Feature: ''
           Status: Released
