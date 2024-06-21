@@ -1,0 +1,15 @@
+ date: 21-Jun-2024
+  types:
+    
+    - type: Major updates
+      docs:
+        - Title: 'Quality Selection Plugin'
+          Description: 'Update Deprecated smoothQualityChange option'
+          Link: https://player.support.brightcove.com/plugins/quality-selection-plugin.html#Buffering
+          Product: Brightcove Player
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
+-

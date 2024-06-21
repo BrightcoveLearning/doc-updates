@@ -1,0 +1,62 @@
+- date: 14-Jun-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK v8.4.4 Release'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'iOS: Working with Media Content'
+          Description: 'iOS SDK update deprecated method findVideoWithConfiguration'
+          Link: https://sdks.support.brightcove.com/ios/basics/ios-working-media-content.html
+          Product: Device SDKs
+          Product_area: 'ios'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Player Configuration Guide'
+          Description: 'Add Player setting control_bar'
+          Link: https://player.support.brightcove.com/references/player-configuration-guide.html#control_bar
+          Product: Brightcove Player
+          Product_area: 'references'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'Add bug fixes for 6.1.4 and 6.1.5 versions'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Native SDK for Android Release Notes'
+          Description: 'Add release notes for Android SDK v8.4.2'
+          Link: https://sdks.support.brightcove.com/android/resources/brightcove-native-sdk-android-release-notes.html
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Quick Start: Using RTMP Outputs for Live Events'
+          Description: 'Update logo'
+          Link: https://apis.support.brightcove.com/live-api/code-samples/quick-start-using-rtmp-outputs-live-events.html
+          Product: Video Cloud
+          Product_area: 'live-api'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Images and the Dynamic Ingest API'
+          Description: 'Code indentation '
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/images-and-dynamic-ingest-api.html
+          Product: Video Cloud
+          Product_area: 'dynamic-ingest'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
