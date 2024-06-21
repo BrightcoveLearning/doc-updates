@@ -1,6 +1,5 @@
  date: 21-Jun-2024
   types:
-    
     - type: Major updates
       docs:
         - Title: 'Quality Selection Plugin'
@@ -11,5 +10,3 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
-    
--
