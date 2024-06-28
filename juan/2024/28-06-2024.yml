@@ -1,0 +1,46 @@
+- date: 28-Jun-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Social Sharing Plugin'
+          Description: 'Updated twitter references to X'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Video Cloud
+          Product_area: 'Social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sharing Videos to X (formerly Twitter) Player Cards'
+          Description: 'Updated twitter references to X'
+          Link: https://studio.support.brightcove.com/social/general/sharing-videos-twitter-player-cards.html
+          Product: Video Cloud
+          Product_area: 'Social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Auto Sync to Synchronize Videos to Social Media Accounts'
+          Description: 'Updated twitter references to X'
+          Link: https://studio.support.brightcove.com/social/general/using-auto-sync-synchronize-videos-social-media-accounts.html
+          Product: Video Cloud
+          Product_area: 'Social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Introducing JSON'
+          Description: 'broken link fixed'
+          Link: https://general.support.brightcove.com/developer/concepts-introducing-json.html#createJSONText
+          Product: Video Cloud 
+          Product_area: 'JSON topics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Request to update best practice (frame rate) of live streaming'
+          Description: 'Changed a note about an encoder setting limitations'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
+          Product: Live
+          Product_area: 'Live'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
