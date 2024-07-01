@@ -1,0 +1,22 @@
+- date: 28-Jun-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Interactivity with Player SDK'
+          Description: 'Interactivity Mobile SDK document for ios and android'
+          Link: https://sdks.support.brightcove.com/getting-started/interactivity-with-player-sdk.html
+          Product: Device SDKs
+          Product_area: 'interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Accessing Reporting Endpoints'
+          Description: 'Update Interactivity Reporting API Endpoint widget_user_sentiment_summary'
+          Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
+          Product: Video Cloud
+          Product_area: 'interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
