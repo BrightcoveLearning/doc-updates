@@ -2,24 +2,24 @@
   types:
     - type: New Docs
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Adding a Lead Form'
+          Description: 'In this topic you will learn how to add a lead form annotation.'
+          Link: https://studio.support.brightcove.com/interactivity/annotations/adding-lead-form.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'true'
+          Feature: 'Lead Form annotation'
+          Status: Staging
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Social Sharing Plugin'
+          Description: 'Twitter references removed and replaced for X'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Viewing Billing Information'
@@ -27,6 +27,14 @@
           Link: https://studio.support.brightcove.com/admin/viewing-billing-information.html#deleted_videos
           Product: Video Cloud
           Product_area: 'Admin Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Social Media Publishing Destinations'
+          Description: 'Note added to the Deleting destinations section'
+          Link: https://studio.support.brightcove.com/social/module/creating-social-media-publishing-destinations.html#delete
+          Product: Video Cloud
+          Product_area: 'Social'
           Product_Update: 'false'
           Feature: ''
           Status: Released
