@@ -1,0 +1,13 @@
+- date: 05-Jul-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove CMS API Reference (1.0.0)'
+          Description: 'Added query parameter'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html#tag/Videos
+          Product: Video Cloud
+          Product_area: 'apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
