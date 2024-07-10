@@ -1,0 +1,12 @@
+- date: 05-Jul-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for iOS'
+          Description: 'Brightcove Native Player for iOS release 6.13.2'
+          Link: https://sdks.support.brightcove.com/ios/basics/overview-brightcove-player-sdk-ios.html
+          Product: Device SDKs
+          Product_area: 'ios'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
