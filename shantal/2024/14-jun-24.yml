@@ -1,0 +1,38 @@
+- date: 14-June-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Advertising with Google IMA DAI Plugin'
+          Description: 'replaceAdTagParameters table added'
+          Link: https://player.support.brightcove.com/plugins/google-ima-dai.html#instance-methods
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Player Release Notes'
+          Description: 'Brightcove Player current version updated'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
+          Product: Brightcove Player
+          Product_area: 'Release Notes'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+       - Title: 'Brightcove Player Documentation'
+          Description: 'Brightcove Player current version updated'
+          Link: https://player.support.brightcove.com/index.html
+          Product:  Brightcove Player 
+          Product_area: 'Home'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Supported Encoders for Live Events'
+          Description: 'Not listed encoders that can meet our best practices should work, we recommend testing'
+          Link: https://studio.support.brightcove.com/live/general/supported-encoders-live-events.html
+          Product: Video Cloud 
+          Product_area: 'Live Streaming'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
