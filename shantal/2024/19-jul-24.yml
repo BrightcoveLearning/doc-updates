@@ -1,0 +1,54 @@
+- date: 16-July-2024
+  types:
+    - type: New Docs
+      docs:
+       - Title: 'Immersion builder'
+         Description: 'In this topic, you will learn about the Immersion Builder.'
+         Link: https://gallery.support.brightcove.com/experiences/immersion-template/immersion-builder.html
+         Product: Gallery
+         Product_area: 'Experiences'
+         Product_Update: 'true'
+         Feature: 'Immersion builder'
+         Status: Released
+       - Title: 'Agenda Widget on the Immersion Gallery template'
+          Description: 'In this topic, you will learn how to use the Agenda widget using the Immersion Gallery Template.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/agenda-widget.html
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'true'
+          Feature: 'Agenda Widget on the Immersion Gallery template'
+          Status: Released 
+       - Title: 'People Widget on the Immersion Gallery template'
+          Description: 'In this topic you will learn about how to use the People Widget using the Immersion Gallery Template.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/people-widget.html
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'true'
+          Feature: 'People Widget on the Immersion Gallery template'
+          Status: Released
+        - Title: 'Using setUser'
+          Description: 'In this topic, you will learn about how to obtain data on unique users via the Analytics API.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/viewer-id/analytics-api-unique-users.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'true'
+          Feature: 'Using setUser'
+          Status: Released
+        - Title: 'Configuring Viewer ID Tracking'
+          Description: 'In this topic you will learn how to configure the Viewer ID Tracking for a player.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/viewer-id/viewer-id-tracking.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'true'
+          Feature: 'Configuring Viewer ID Tracking'
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Customizing the Style of an In-Page Experience'
+          Description: 'Note added about custom CSS'
+          Link: https://gallery.support.brightcove.com/experiences/inpage/customizing/customizing-style-page-experience.html#customcss
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

@@ -1,0 +1,28 @@
+- date: 12-July-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Google PAL SDK for Brightcove SSAI'
+          Description: 'In this topic, you will learn about Google PAL SDK.'
+          Link: https://player.support.brightcove.com/plugins/google-pal-sdk.html
+          Product:  Brightcove Player 
+          Product_area: 'Plugins'
+          Product_Update: 'true'
+          Feature: ''
+          Status: Released 
+        - Title: 'Agenda Widget on the Immersion Gallery template'
+          Description: 'In this topic, you will learn how to use the Agenda widget using the Immersion Gallery Template.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/agenda-widget.html
+          Product: Gallery
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+       - Title: 'People Widget on the Immersion Gallery template'
+          Description: 'In this topic you will learn about how to use the People Widget using the Immersion Gallery Template.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/people-widget.html
+          Product: Gallery
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status:  Staging 
