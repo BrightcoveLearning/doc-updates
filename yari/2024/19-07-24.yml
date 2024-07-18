@@ -1,0 +1,61 @@
+- date: 05-Jul-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Bright Spot: Community Access'
+          Description: 'In this topic, you will learn how to access Bright Spot Community through Video Cloud Studio.'
+          Link: https://studio.support.brightcove.com/general/community/bright-spot-redirect.html
+          Product: Video Cloud
+          Product_area: 'General'
+          Product_Update: 'true'
+          Feature: 'Community Link'
+          Status: Released
+        - Title: 'Adding a Lead Form'
+          Description: 'In this topic you will learn how to add a lead form annotation.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/lead-forms/adding-lead-form.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'true'
+          Feature: 'Marketing Automation 2.0 release'
+          Status: Released
+        - Title: 'Integrating Video Cloud with HubSpot Using the Client-Side APIs'
+          Description: 'This topic explains how to configure the integration with HubSpot using the Client-Side APIs.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/client-side/integrating-video-cloud-hubspot-using-client-side-apis.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating Video Cloud with Marketo using Munchkin'
+          Description: 'This topic explains the integration with Marketo Munchkin.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/client-side/integrating-video-cloud-marketo-using-munchkin.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Server-side Connections'
+          Description: 'In this topic, you will learn about the Viewing Data and Contact Object integrations.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/overview-server-side.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Viewing Data Integration: Eloqua'
+          Description: 'In this topic, you will learn how to set up the Eloqua integration in the Viewing Data Integration section.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/eloqua-integration.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Viewing Data Integration: S3'
+          Description: 'In this topic, you will learn how to set up the S3 integration in the Viewing Data Integration section'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/s3-integration.html
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
