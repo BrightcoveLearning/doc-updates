@@ -1,0 +1,28 @@
+- date: 19-Jul-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Player Playback Properties'
+          Description: 'Added informative note'
+          Link: https://studio.support.brightcove.com/players/properties/configuring-player-playback-properties.html#preload
+          Product: Video Cloud
+          Product_area: 'Brightcove Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Dynamic Ingest with S3'
+          Description: 'Update code sample'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/general/using-dynamic-ingest-s3.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating a Network Log'
+          Description: 'Added HAR file info'
+          Link: https://player.support.brightcove.com/troubleshooting/creating-network-log.html
+          Product: Video Cloud
+          Product_area: 'Brightcove Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
