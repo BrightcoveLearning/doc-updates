@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'General Output Settings'
+          Description: 'reference_profile_for_comparision option added'
+          Link: https://zencoder.support.brightcove.com/encoding-settings/general/encoding-settings-general-output-settings.html#reference_profile_for_comparision
+          Product: Zencoder
+          Product_area: 'Encoding Settings'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
     - type: Minor updates
       docs:
         - Title: ''
