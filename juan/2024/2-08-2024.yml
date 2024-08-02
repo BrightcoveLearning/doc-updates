@@ -1,0 +1,30 @@
+- date: 02-Aug-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring Viewer ID Tracking'
+          Description: 'Note for the Salesforce ID tracking'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/viewer-id/viewer-id-tracking.html
+          Product: Video Cloud
+          Product_area: 'ID tracking'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        
+        - Title: 'Configuring Interactivity Settings'
+          Description: 'Note for quiz anotations language'
+          Link: https://studio.support.brightcove.com/interactivity/settings/configuring-settings.html
+          Product: Brightcove Interactivity
+          Product_area: 'Interactivity Settings'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Note update, best practices'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
