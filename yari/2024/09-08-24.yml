@@ -1,0 +1,40 @@
+- date: 09-Aug-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'DMA Codes Reference'
+          Description: 'This topic provides a DMA Codes reference for Brightcove Playback Restrictions.'
+          Link: https://apis.support.brightcove.com/playback-restrictions/references/dma-codes.html
+          Product: Video Cloud
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'true'
+          Feature: 'DMAs & Zip Codes'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Implementing Playback Rights'
+          Description: 'Updates related to DMAs & Zip Codes added.'
+          Link: https://apis.support.brightcove.com/playback-restrictions/getting-started/implementing-playback-rights.html
+          Product: Video Cloud
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Domains and Ports that Must Be Accessible to Video Cloud'
+          Description: 'CSP section updated'
+          Link: https://studio.support.brightcove.com/general/architecture/domains-and-ports-must-be-accessible-video-cloud.html
+          Product: Video Cloud
+          Product_area: 'Architecture'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
