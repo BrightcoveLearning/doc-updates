@@ -30,11 +30,19 @@
           Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Policy Keys'
+          Description: 'Note about current policy key deletion added'
+          Link: https://player.support.brightcove.com/content-protection/policy-keys.html
+          Product: Brightcove Player
+          Product_area: 'Content Protection'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
+        - Title: 'Configuring Player Content Restrictions'
+          Description: 'Note about current policy key deletion added'
+          Link: https://studio.support.brightcove.com/players/properties/configuring-player-content-restrictions.html
+          Product: Video Cloud
+          Product_area: 'Player Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
