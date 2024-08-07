@@ -1,0 +1,21 @@
+- date: 02-Aug-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Device Apps Validation Guide'
+          Description: 'Update minimum OS versions supported by Beacon platforms'
+          Link: https://beacon.support.brightcove.com/publishing-apps/general/device-apps-validation-guide.html#Supported_platforms_and_versions
+          Product: Beacon
+          Product_area: 'publish apps'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Uploading Videos Using Remote URLs'
+          Description: 'Add note, upload from Google Cloud Storage (GCS) is not supported'
+          Link: https://studio.support.brightcove.com/media/manage/uploading-videos-remote-urls.html#other
+          Product: Video Cloud
+          Product_area: 'media'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
