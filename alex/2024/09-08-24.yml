@@ -1,0 +1,143 @@
+- date: 09-Aug-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Overview: Brightcove Web & Smart TV SDK'
+          Description: 'Here you will find comprehensive instructions and examples for utilizing the Web & Smart TV SDK in your development.'
+          Link: https://sdks.support.brightcove.com/web-sdk/getting-started/overview.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Web & Smart TV SDK'
+          Description: 'This section provides the initial steps required to set up and begin using the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/getting-started/getting-started.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating IMA Client Side with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides detailed instructions on integrating Interactive Media Ads (IMA) Client Side with the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/ima-csai.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating SSAI with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides detailed instructions on integrating SSAI (Server-Side Ad Insertion) with the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/ima-ssai.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating EndScreen with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides comprehensive instructions on how to integrate end screen capabilities using both Custom and Social EndScreen features for the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/endscreen.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating Social Sharing with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides comprehensive instructions on how to integrate Social Sharing with the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/social-sharing.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating Pinning with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides detailed instructions on integrating Pinning with the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/pinning.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integrating Thumbnails with Brightcove Web & Smart TV SDK'
+          Description: 'This document provides detailed instructions on integrating Tumbnails with the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/code-samples/thumbnails.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Web & Smart TV SDK Release Notes'
+          Description: 'In this topic, you will find the latest information on changes and enhancements to the Brightcove Web & Smart TV SDK.'
+          Link: https://sdks.support.brightcove.com/web-sdk/release-notes/release-notes.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting started developing with Tizen'
+          Description: 'In this topic, you will learn how you can launch your apps and start developing with Tizen Studio.'
+          Link: https://sdks.support.brightcove.com/web-sdk/references/samsung.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting started developing with LG webOS'
+          Description: 'This document provides detailed instructions for installing and testing applications on LG webOS devices.'
+          Link: https://sdks.support.brightcove.com/web-sdk/references/lg.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK Release v9.2.0'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'Android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'New section about "Updating the player version".'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html#update-player
+          Product: Live
+          Product_area: 'get started'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Troubleshooting Brightcove Gallery Issues'
+          Description: 'Search restriction added'
+          Link: https://gallery.support.brightcove.com/general/troubleshooting-brightcove-gallery-issues.html
+          Product: Video Cloud
+          Product_area: 'general'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Add the player requirements for Trending Now'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html#parameters_for_specific_events
+          Product: Audience Insights
+          Product_area: 'Data Collection'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using Page Layouts'
+          Description: 'The combination of Hero Image with Tabs is not currently supported.'
+          Link: https://beacon-help.support.brightcove.com/layout/using-page-layouts.html#Hero_Image
+          Product: Beacon
+          Product_area: 'Layout'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Accessing Reporting Endpoints'
+          Description: 'Update the code sample'
+          Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
+          Product: Brightcove Interactivity
+          Product_area: 'Interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
