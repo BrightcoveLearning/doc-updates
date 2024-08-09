@@ -1,0 +1,20 @@
+- date: 09-Aug-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Dimension: viewer'
+          Description: 'Added a note'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html
+          Product: Video Cloud
+          Product_area: 'API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Available Options for the Standard (iframe) Embed Code'
+          Description: 'Added a note for lazy player'
+          Link: https://player.support.brightcove.com/publish/available-options-standard-iframe-embed-code.html
+          Product:  Brightcove Player 
+          Product_area: 'Iframe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
