@@ -28,6 +28,14 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Additional requirements added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#low-latency
+          Product: Live
+          Product_area: 'Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Policy Keys'
