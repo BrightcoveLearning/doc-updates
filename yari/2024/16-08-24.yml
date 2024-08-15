@@ -1,15 +1,5 @@
 - date: 16-Aug-2024
   types:
-    - type: New Docs
-      docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
         - Title: 'Static URL Delivery'
@@ -20,13 +10,21 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Limitations section added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#Limitations
+          Product: Live
+          Product_area: 'Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Note about creating a Live event selecting a Convert event to video asset when complete option, added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#create
+          Product: Live
+          Product_area: 'Live Module'
+          Product_Update: 'false'
           Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+          Status: Released
