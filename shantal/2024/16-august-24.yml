@@ -1,0 +1,12 @@
+- date: 16-August-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Quality Selector'
+          Description: 'The Quality Selector allows Beacon users to access, view, and select from various rendition levels, which allows the viewer to save bandwidth or watch a higher-quality video.'
+          Link: https://beacon-help.support.brightcove.com/media/properties/quality-selector.html
+          Product: Beacon 
+          Product_area: 'Media'
+          Product_Update: 'false'
+          Feature: ''
+          Status:  Staging 
