@@ -1,0 +1,64 @@
+- date: 23-August-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Quality Selector'
+          Description: 'In this topic you will learn how use the quality selector feature.'
+          Link: https://beacon-help.support.brightcove.com/media/properties/quality-selector.html
+          Product: Beacon
+          Product_area: 'Managing Media'
+          Product_Update: 'true'
+          Feature: 'Quality Selector'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Linear Channel integration for Immersion Template'
+          Description: 'The scope has changed for the FAST solution. Now, this does not support ads. This mean what we really are supporting is a linear channel'
+          Link: https://gallery.support.brightcove.com/experiences/portal/other/fast-streams-for-immersion.html
+          Product: Gallery
+          Product_area: 'Experiences'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Images and the Dynamic Ingest API'
+          Description: 'New Correct way to send images using Images API section added'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/images-and-dynamic-ingest-api.html
+          Product: APIs
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Configuring Player Controls'
+          Description: 'Seek forward/backward section added'
+          Link: https://studio.support.brightcove.com/players/appearance/configuring-player-controls.html
+          Product: Video Cloud
+          Product_area: 'Configuring Player Controls'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: ''
+          Description: ''
+          Link: 
+          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Managing Account Settings'
+          Description: 'Removed references to Video Content Type'
+          Link: https://studio.support.brightcove.com/admin/general/managing-account-settings.html#account_settings
+          Product: Video Cloud 
+          Product_area: 'Administration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Ad Insights'
+          Description: 'Updated document according the real workflow of the product'
+          Link: https://studio.support.brightcove.com/analytics/module/ad-insights.html#Key_metrics
+          Product: Video Cloud 
+          Product_area: 'Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
