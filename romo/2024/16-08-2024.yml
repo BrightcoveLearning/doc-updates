@@ -1,0 +1,46 @@
+- date: 16-Aug-2024
+  types:
+    - type: Major Updates
+      docs:
+        - Title: 'Brightcove Player Sample: Download Transcript'
+          Description: 'Remake code sample and modified doc structure'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-download-transcript.html
+          Product: Brightcove Player
+          Product_area: 'code samples'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Rename 608/708 Captions in the Player'
+          Description: 'Added 708 captions code samples and descriptions'
+          Link: https://player.support.brightcove.com/user-interface/rename-608-708-captions.html#708_captions
+          Product: Brightcove Player
+          Product_area: 'captions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor Updates
+      docs:
+        - Title: 'Creating Videos with Brightcove Screen and Camera Recorder'
+          Description: 'Reword for note'
+          Link: https://studio.support.brightcove.com/media/manage/screen-recorder.html
+          Product: Video Cloud
+          Product_area: 'screen recorder'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Ingest Profiles Fields Reference'
+          Description: 'Added ingest profile'
+          Link: https://apis.support.brightcove.com/ingest-profiles/references/ingest-profiles-api-fields-reference-dynamic-delivery-and-context-aware-encoding.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Digital Rights Management (DRM)'
+          Description: 'Fixed typo'
+          Link: https://studio.support.brightcove.com/general/content-protection/overview-digital-rights-management-drm-video-cloud.html
+          Product: Video Cloud
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

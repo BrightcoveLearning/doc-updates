@@ -1,0 +1,20 @@
+- date: 12-Jul-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Managing Account Settings'
+          Description: 'Restored account settings sections'
+          Link: https://studio.support.brightcove.com/admin/managing-account-settings.html
+          Product: Video Cloud
+          Product_area: 'Studio'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Ingesting Videos with Multi-Language Audio Tracks'
+          Description: 'Added limitation note'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/ingesting-videos-multiple-audio-tracks.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
