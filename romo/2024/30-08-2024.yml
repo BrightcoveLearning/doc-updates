@@ -1,0 +1,31 @@
+- date: 30-Aug-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Viewing Data Integration: Salesforce'
+          Description: 'In this topic, you will learn how to set up the Salesfprce integration in the Viewing Data Integration section.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/salesforce-integration.html
+          Product: Video Cloud
+          Product_Update: 'false'
+          Feature: 'Salesforce Integration'
+          Status: Released
+    - type: Major Updates
+      docs:
+        - Title: 'Dimension: viewer'
+          Description: 'Added requirements'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html#Send_viewer_id_web_player
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor Updates
+      docs:
+        - Title: 'Social Sharing Plugin'
+          Description: 'Replaced images with X logo'
+          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+          Product: Brightcove Player
+          Product_area: 'Plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
