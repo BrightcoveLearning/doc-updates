@@ -1,0 +1,62 @@
+- date: 23-Aug-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Server-Side Troubleshooting'
+          Description: 'This guide outlines comprehensive troubleshooting steps for server-side connections with Eloqua.'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/troubleshooting/server-side-ts.html
+          Product: Video Cloud
+          Product_Update: 'false'
+          Feature: 'Troubleshooting'
+          Status: Released
+    - type: Major Updates
+      docs:
+        - Title: 'Dimension: viewer'
+          Description: 'Change user method'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-viewer.html#Send_viewer_id_web_player
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Ingest Videos and Assets'
+          Description: 'Added component to reference'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/references/reference.html#tag/Ingest/operation/AccountsVideosIngestRequestsByAccountIdAndVideoIdPost
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor Updates
+      docs:
+        - Title: 'Content Delivery Options'
+          Description: 'Change wording'
+          Link: https://studio.support.brightcove.com/general/architecture/content-delivery-options.html#cdns
+          Product: Video Cloud
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'HEVC Video'
+          Description: 'Change wording'
+          Link: https://apis.support.brightcove.com/ingest-profiles/guides/hevc-video.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+        - Title: 'Viewing Billing Information'
+          Description: 'Added informative note'
+          Link: https://studio.support.brightcove.com/admin/general/viewing-billing-information.html#export
+          Product: Video Cloud
+          Product_area: 'Billing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Videos with Brightcove Screen and Camera Recorder'
+          Description: 'Added additional bullet point'
+          Link: https://studio.support.brightcove.com/media/manage/screen-recorder.html
+          Product: Video Cloud
+          Product_Update: 'false'
+          Feature: 'Screen recorder'
+          Status: Staging

@@ -26,3 +26,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Data Collection API Sample'
+          Description: 'Restored Codepen sample'
+          Link: https://apis.support.brightcove.com/data-collection/code-samples/data-collection-api-sample.html#player
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Standard Live Ingest Profiles'
+          Description: 'Restored standard live ingest profiles section'
+          Link: https://studio.support.brightcove.com/admin/ingest-profiles/standard-live-ingest-profiles.html
+          Product: Video Cloud
+          Product_area: 'ingest profiles'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

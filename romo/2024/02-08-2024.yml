@@ -1,0 +1,36 @@
+- date: 02-Aug-2024
+  types:
+    - type: Minor Updates
+      docs:
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'Added 4 informative note'
+          Link: https://studio.support.brightcove.com/live/get-started/live-module-guidelines-and-best-practices.html
+          Product: Live
+          Product_area: 'live module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Installing a Roku Test Build'
+          Description: 'Fixed broken link'
+          Link: https://beacon.support.brightcove.com/publishing-apps/roku/installing-roku-test-build.html
+          Product: Beacon
+          Product_area: 'Publishin apps'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Advertising with the FreeWheel Plugin'
+          Description: 'Change wording'
+          Link: https://player.support.brightcove.com/plugins/advertising-freewheel-plugin.html#Configuration
+          Product: Brightcove Player
+          Product_area: 'Advertising'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Data Collection API v2'
+          Description: 'Change wording'
+          Link: https://apis.support.brightcove.com/data-collection/getting-started/overview-data-collection-api-v2.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

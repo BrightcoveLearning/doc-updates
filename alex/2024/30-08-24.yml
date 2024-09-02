@@ -1,0 +1,81 @@
+- date: 30-Aug-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'IMA クライアントサイドと Brightcove ウェブ & スマートTV SDK の統合'
+          Description: 'Integrating IMA Client Side with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/ima-csai.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'SSAI と Brightcove ウェブ & スマートTV SDK の統合'
+          Description: 'Integrating SSAI with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/ima-ssai.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'EndScreen と Brightcove ウェブ & スマートTV SDK の統合'
+          Description: 'Integrating EndScreen with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/endscreen.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Web & Smart TV SDK とピンニング統合'
+          Description: 'Integrating Pinning with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/pinning.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove ウェブ & スマートTV SDK によるソーシャル共有の統合'
+          Description: 'Integrating Social Sharing with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/social-sharing.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'サムネイルと Brightcove Web & Smart TV SDK の統合'
+          Description: 'Integrating Thumbnails with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/thumbnails.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'サムネイルと Brightcove Web & Smart TV SDK の統合'
+          Description: 'Integrating Thumbnails with Brightcove Web & Smart TV SDK Japanese'
+          Link: https://ja.sdks.support.brightcove.com/web-sdk/code-samples/thumbnails.html
+                https://ja.sdks.support.brightcove.com/web-sdk/getting-started/getting-started.html
+          Product: Device SDKs
+          Product_area: 'Web SDK'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Analytics API: Live Metrics'
+          Description: 'Add the base URL in the document'
+          Link: https://apis.support.brightcove.com/analytics/general/live-metrics.html
+          Product: Audience Insights
+          Product_area: ''
+          Product_Update: 'true | false'
+          Feature: ''
+          Status: Released | Limited Availability | Staging | Internal
+    - type: Minor updates
+      docs:
+        - Title: 'Styling Captions'
+          Description: 'fix misleading information in Styling Captions documentation'
+          Link: https://studio.support.brightcove.com/media/captions/styling-captions.html#studio
+          Product: Video Cloud
+          Product_area: 'media'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

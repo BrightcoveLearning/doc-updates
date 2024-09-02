@@ -1,0 +1,46 @@
+- date: 09-Aug-2024
+  types:
+    - type: Major Updates
+      docs:
+        - Title: 'Google Analytics Plugin'
+          Description: 'Removed Universal Analytics information'
+          Link: https://player.support.brightcove.com/plugins/google-analytics-plugin.html
+          Product: Brightcove Player
+          Product_area: 'plugins'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating Videos with Brightcove Screen and Camera Recorder'
+          Description: 'Added performance recommendations section'
+          Link: https://studio.support.brightcove.com/media/manage/screen-recorder.html
+          Product: Video Cloud
+          Product_area: 'screen recorder'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Staging
+    - type: Minor Updates
+      docs:
+        - Title: 'Sending Push Notifications to Beacon App Viewers'
+          Description: 'Added informative note'
+          Link: https://beacon-help.support.brightcove.com/registered-users/sending-push-notifications.html
+          Product: Beacon
+          Product_area: 'registered users'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sending Push Notifications to Beacon App Viewers'
+          Description: 'Fixed wording from note'
+          Link: https://beacon-help.support.brightcove.com/registered-users/sending-push-notifications.html
+          Product: Beacon
+          Product_area: 'registered users'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Requesting Auto Captions'
+          Description: 'Fixed typo'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/ingest-guides/requesting-auto-captions.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released

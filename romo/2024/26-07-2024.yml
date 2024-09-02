@@ -1,0 +1,53 @@
+- date: 26-Jul-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Creating Videos with Brightcove Screen and Camera Recorder'
+          Description: 'This topic covers how to create a video using the Brightcove Screen and Camera Recorder.'
+          Link: https://studio.support.brightcove.com/media/manage/screen-recorder.html
+          Product: Video Cloud
+          Product_Update: 'false'
+          Feature: 'Screen recorder'
+          Status: Staging
+    - type: Minor updates
+      docs:
+        - Title: 'Digital Master Delete API'
+          Description: 'Added error note'
+          Link: https://apis.support.brightcove.com/cms/managing-videos/digital-master-delete-api.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating and Managing Templates'
+          Description: 'Added informative note'
+          Link: https://studio.support.brightcove.com/interactivity/templates/creating-and-managing-templates.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Cross-Device Resume with Brightcove Player'
+          Description: 'Added informative note'
+          Link: https://player.support.brightcove.com/playback/xdr-with-bcplayer.html
+          Product: Video Cloud
+          Product_area: 'Brightcove Player'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Overview: Cross-Device Resume'
+          Description: 'Change wording'
+          Link: https://apis.support.brightcove.com/xdr/getting-started/xdr-overview.html
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Get All Video Variants'
+          Description: 'Added video variants to reference doc'
+          Link: https://apis.support.brightcove.com/cms/references/reference.html#tag/Videos/operation/DeleteVideoImage
+          Product: Video Cloud
+          Product_area: 'Apis'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
