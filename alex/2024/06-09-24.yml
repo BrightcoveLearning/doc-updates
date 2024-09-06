@@ -1,0 +1,22 @@
+- date: 6-Sep-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Understanding SCORM Integration'
+          Description: 'update section SCORM download option is only available with Lesson Experience projects'
+          Link: https://studio.support.brightcove.com/interactivity/general/understanding-scorm-integration.html#user-experience
+          Product: Video Cloud
+          Product_area: 'interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Overview: Using Aspera for Ingestion to Video Cloud'
+          Description: 'Include minimum version info for Aspera'
+          Link: https://apis.support.brightcove.com/aspera/overview.html
+          Product: Video Cloud
+          Product_area: 'aspera'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
