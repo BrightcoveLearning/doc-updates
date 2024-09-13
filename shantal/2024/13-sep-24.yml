@@ -1,0 +1,77 @@
+- date: 13-September-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Playback Restrictions with Brightcove Player'
+          Description: 'Using Concurrency and Registration section new steps'
+          Link: https://player.support.brightcove.com/playback/playback-restrictions-with-bcp.html#Using_Concurrency_and_Registration
+          Product:  Brightcove Player
+          Product_area: ' Playback'
+          Product_Update: 'false'
+          Status: Released 
+        - Title: 'Overview: In-Page Experience Client API'
+          Description: 'Gallery IPX: document a way to track user/viewer (Audience Insights)'
+          Link: https://gallery.support.brightcove.com/develop/overview-page-experience-client-api.html
+          Product: Gallery
+          Product_area: 'Developers'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Configuring a Brightcove Player with the Interactivity Plugin'
+          Description: 'Note added about only player 7 is supported'
+          Link: https://studio.support.brightcove.com/interactivity/getting-started/configuring-player-plugin.html#:~:text=note%3A%20the%20interactivity%20plugin%20requires%20brightcove%20player%20version%206.66%20or%20newer
+          Product: Video Cloud 
+          Product_area: 'Managing Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'If you would like to enable the extended monitoring, please contact your Brightcove account representative'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html#ext-monitoring
+          Product: Live
+          Product_area: 'Using the Live Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Using the Caption Editor'
+          Description: 'The preview player in the caption editor does not support custom CSS'
+          Link: https://studio.support.brightcove.com/media/captions/using-the-caption-editor.html
+          Product: Video Cloud
+          Product_area: 'Managing Videos'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Source File Upload API for Dynamic Ingest'
+          Description: 'Note: Video upload can fail if any part of the source file URL contains illegal characters'
+          Link: https://apis.support.brightcove.com/dynamic-ingest/getting-started/source-file-upload-api-dynamic-ingest.html#Source_file_names
+          Product: APIs
+          Product_area: 'Dynamic Ingest API'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Getting Started with the Analytics Module'
+          Description: 'Audience Insights Essentials note added'
+          Link: https://studio.support.brightcove.com/analytics/module/getting-started-analytics-module.html
+          Product: Video Cloud 
+          Product_area: 'Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Customizing Portals'
+          Description: 'Script tags are not supported in the Header and Footer sections note added to the documents'
+          Link: https://gallery.support.brightcove.com/experiences/portal/customizing/index.html
+          Product: Gallery
+          Product_area: 'Customizing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Core Reports Reference'
+          Description: 'Replacing 'anonymize' word for legal purposes'
+          Link: https://studio.support.brightcove.com/interactivity/analytics/core-reports-reference.html
+          Product: Video Cloud 
+          Product_area: 'Interactivity'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
