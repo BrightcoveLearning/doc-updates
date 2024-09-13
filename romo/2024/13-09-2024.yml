@@ -1,0 +1,35 @@
+- date: 13-Sep-2024
+  types:
+    - type: Minor Updates
+      docs:
+        - Title: 'Debugging on Mobile Devices'
+          Description: 'Added Charles Proxy note'
+          Link: https://general.support.brightcove.com/developer/debugging-mobile-devices.html#Using_Charles_with_iOS_devices
+          Product: Video Cloud
+          Product_area: 'mobile'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Viewing Data Integration: Salesforce'
+          Description: 'Added data requirements'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/salesforce-integration.html
+          Product: Video Cloud
+          Product_area: 'server side integration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Customizing the Site Features of a Portal Experience'
+          Description: 'Added tag note'
+          Link: https://gallery.support.brightcove.com/experiences/portal/customizing/customizing-site-features-portal-experience.html#search
+          Product: Video Cloud
+          Product_area: 'Gallery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+	      
+	      
+        
+
+
+
+
