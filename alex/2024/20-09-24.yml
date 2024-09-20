@@ -1,0 +1,12 @@
+- date: 20-Sep-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Player Events'
+          Description: 'Autoplay player events'
+          Link: https://player.support.brightcove.com/coding-topics/player-events.html#autoplay-events
+          Product: Brightcove Player
+          Product_area: 'Coding Topics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
