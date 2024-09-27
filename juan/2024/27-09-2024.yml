@@ -1,0 +1,13 @@
+- date: 27-September-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Test Integration'
+          Description: 'Allows you to test the connection of your MAP integrations.'
+          Link: https://audience-insights.support.brightcove.com/integrations/test_integration.html
+          Product: Integrations
+          Product_area: 'MAP Integrations'
+          Product_Update: 'true'
+          Feature: 'Integrations'
+          Status: Released
+   
