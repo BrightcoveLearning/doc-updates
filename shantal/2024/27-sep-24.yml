@@ -1,0 +1,38 @@
+- date: 27-September-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating and Managing Live Events using the Live Module'
+          Description: 'Visual example of live regions added'
+          Link: https://live.support.brightcove.com/live-module/creating-and-managing-live-events-using-live-module.html
+          Product: Live 
+          Product_area: 'Using the Live Module'
+          Product_Update: ' false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Available Options for the Advanced (in-page) Embed Code'
+          Description: 'Preload details section modify about using HLS and DASH as a main playback tech (Mp4 is less popular)'
+          Link: https://player.support.brightcove.com/publish/available-options-advanced-page-embed-code.html
+          Product: Brightcove Player 
+          Product_area: 'Publishing Videos & Players'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'FAQ: Analytics Module'
+          Description: 'Note added: it is not possible to filter out the deleted video from analytics reports'
+          Link: https://studio.support.brightcove.com/analytics/module/faq-analytics-module.html 
+          Product: Video Cloud 
+          Product_area: 'Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Setting Up an Automatic Ingestion Folder on Google Drive'
+          Description: 'Note added about how is needed an administrator account for a managed Google services, such as Google Workspace or Cloud Identity'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/watched-folders/google-drive.html#whitelisting_app
+          Product: Video Cloud 
+          Product_area: 'Integrations'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
