@@ -1,0 +1,30 @@
+- date: 27-Sep-2024
+  types:
+    - type: Major Updates
+      docs:
+        - Title: 'Beacon Apps Ad Targeting'
+          Description: 'Added macro to table'
+          Link: https://beacon.support.brightcove.com/monetization/ssai/beacon-apps-ad-targeting.html
+          Product: Beacon
+          Product_area: 'ssai'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Campaign 2.0 Setup and Integration Manual'
+          Description: 'Added new section to the Integrations Setup'
+          Link: https://studio.support.brightcove.com/marketing-automation/getting-started/campaign-migration-set-up.html#Set_up_an_integration
+          Product: Video Cloud
+          Product_area: 'campaign'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor Updates
+      docs:
+        - Title: 'Brightcove Player Accessibility'
+          Description: 'Added keyboard instructions'
+          Link: https://player.support.brightcove.com/playback/brightcove-player-accessibility.html#Keyboard_controls
+          Product: Brightcove Player
+          Product_area: 'accesibility'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
