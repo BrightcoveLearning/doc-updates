@@ -1,0 +1,12 @@
+- date: 27-Sep-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Overview: Brightcove Native SDK for Android'
+          Description: 'Android SDK Release v9.2.1'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
