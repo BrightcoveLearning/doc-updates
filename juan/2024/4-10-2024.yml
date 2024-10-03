@@ -1,0 +1,32 @@
+- date: 20-Sep-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Finding your customer ID'
+          Description: 'Describes how to find your customer ID across different platforms'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/data-to-external-systems/server-side/finding-your-customer-id.html
+          Product: Integrations
+          Product_area: 'Test Integration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Test Integration'
+          Description: 'Migrated section'
+          Link: https://audience-insights.support.brightcove.com/integrations/test_integration.html
+          Product: Integrations
+          Product_area: 'Test Integration'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Live: Best Practices'
+          Description: 'VBR description'
+          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
+          Product: Live
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
