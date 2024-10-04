@@ -1,0 +1,36 @@
+- date: 07-June-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Publishing a Video to One Social Media Platform'
+          Description: 'Social platforms are required to have a business account note added'
+          Link:  https://studio.support.brightcove.com/social/general/publishing-video-one-social-platform.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Creating Social Media Publishing Destinations'
+          Description: 'Social platforms are required to have a business account note added'
+          Link: https://studio.support.brightcove.com/social/module/creating-social-media-publishing-destinations.html
+          Product: Video Cloud
+          Product_area: 'Social Sharing'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Performance Report Reference
+          Description: 'Explanation of how Video Engagement Score works'
+          Link: https://studio.support.brightcove.com/analytics/reports/performance-report-reference.html
+          Product: Video Cloud
+          Product_area: 'Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Engagement Report Reference'
+          Description: 'Explanation of how Video Engagement Score works'
+          Link: https://studio.support.brightcove.com/analytics/reports/engagement-report-reference.html
+          Product: Video Cloud
+          Product_area: 'Reviewing Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
