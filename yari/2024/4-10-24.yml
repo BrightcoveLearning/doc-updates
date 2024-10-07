@@ -1,0 +1,12 @@
+- date: 04-Oct-2024
+  types:
+    - type: Minor updates
+      docs:
+        - Title: 'Setting the Player Update Mode and Version'
+          Description: 'Images and Setting the player version section updated'
+          Link: https://studio.support.brightcove.com/players/properties/setting-player-update-mode-and-version.html
+          Product: Video Cloud
+          Product_area: 'Player Module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
