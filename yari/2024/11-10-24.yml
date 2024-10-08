@@ -20,6 +20,22 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'China Delivery with the Native SDKs'
+          Description: 'New section for custom players added'
+          Link: https://sdks.support.brightcove.com/features/china-delivery-sdks.html
+          Product: Device SDKs
+          Product_area: 'China Delivery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'SSAI Performance Analytics'
+          Description: 'Information about response codes added'
+          Link: https://studio.support.brightcove.com/analytics/general/ssai-performance-data.html#SSAI_Performance
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'Creating a Beacon Channel'
@@ -27,6 +43,14 @@
           Link: https://beacon-help.support.brightcove.com/channels/beacon-channels/creating-a-channel.html#textual-data
           Product: Beacon
           Product_area: 'Channels'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Integration: S3'
+          Description: 'Note added for AWS Account ID'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/customer-data-platforms/integration-s3.html
+          Product: Video Cloud
+          Product_area: 'Integrations'
           Product_Update: 'false'
           Feature: ''
           Status: Released
