@@ -54,3 +54,19 @@
           Product_Update: 'false'
           Feature: ''
           Status: Released
+        - Title: 'Overview: China Delivery'
+          Description: 'Limitations updated'
+          Link: https://studio.support.brightcove.com/general/references/china-delivery-overview.html#Limitations
+          Product: Video Cloud 
+          Product_area: 'China Delivery'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Adding a Lead Form'
+          Description: 'Note about Google and Microsoft forms added'
+          Link: https://studio.support.brightcove.com/marketing-automation/general/lead-forms/adding-lead-form.html#Adding_a_Lead_Form
+          Product: Video Cloud
+          Product_area: 'Marketing Automation 2.0'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
