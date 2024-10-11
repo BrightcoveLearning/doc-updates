@@ -1,0 +1,22 @@
+- date: 11-Oct-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Creating a JSON Web Token (JWT)'
+          Description: 'Update workflow Creating a JSON Web Token (JWT)'
+          Link: https://general.support.brightcove.com/developer/create-json-web-token.html
+          Product: Video Cloud
+          Product_area: 'developer'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Brightcove Native SDK for Android Version Support'
+          Description: 'The Brightcove Native Player SDK for Android now provides passive support for Android OS versions 5.0 and 5.1.'
+          Link: https://sdks.support.brightcove.com/developer-support/announcements/announcement-brightcove-sdk-android-version-support.html
+          Product: Device SDKs
+          Product_area: 'developer-support'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
