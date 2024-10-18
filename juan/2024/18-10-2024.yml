@@ -1,0 +1,12 @@
+- date: 18-Oct-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Video Editor'
+          Description: 'Video editor new updates'
+          Link: https://studio.support.brightcove.com/media/manage/video-editor.html
+          Product: Video Cloud
+          Product_area: 'Video Editor'
+          Product_Update: 'true'
+          Feature: ''
+          Status: Released
