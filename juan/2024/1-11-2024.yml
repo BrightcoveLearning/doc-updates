@@ -1,0 +1,21 @@
+- date: 01-Nov-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Setting Up an Automatic Ingestion Folder on Google Drive'
+          Description: 'Watch Folders update'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/watched-folders/google-drive.html
+          Product: Integrations
+          Product_area: 'Watch folders'
+          Product_Update: 'true'
+          Feature: 'Watch Folders'
+          Status: Released
+        - Title: 'Setting Up an Automatic Ingestion Folder on Dropbox'
+          Description: 'Watch Folders update'
+          Link: https://studio.support.brightcove.com/integrations/integrations-module/watched-folders/dropbox.html
+          Product: Integrations
+          Product_area: 'Watch folders'
+          Product_Update: 'true'
+          Feature: 'Watch Folders'
+          Status: Released
+   
