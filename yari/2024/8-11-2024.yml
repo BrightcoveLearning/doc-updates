@@ -1,4 +1,4 @@
-- date: 8-Nov-2024
+- date: 15-Nov-2024
   types:
     - type: New Docs
       docs:
@@ -12,14 +12,14 @@
           Status: Released | Limited Availability | Staging | Internal
     - type: Major updates
       docs:
-        - Title: ''
-          Description: ''
-          Link: 
-          Product: Video Cloud | Brightcove Player | Device SDKs | Live | Beacon | SSAI | Zencoder | CorpTV | Audience Insights | Brightcove Interactivity | Integrations
-          Product_area: ''
-          Product_Update: 'true | false'
-          Feature: ''
-          Status: Released | Limited Availability | Staging | Internal
+        - Title: 'Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'New Sitecore version added'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Integrations
+          Product_area: 'Sitecore'
+          Product_Update: 'true'
+          Feature: 'Sitecore v10.4'
+          Status: Released
     - type: Minor updates
       docs:
         - Title: 'WordPress-Brightcove Connector: Frequently Asked Questions'
