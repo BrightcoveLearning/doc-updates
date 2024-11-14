@@ -1,0 +1,38 @@
+- date: 15-Nov-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Video Cloud Search'
+          Description: 'Media module search function updates'
+          Link: https://studio.support.brightcove.com/media/module/video-cloud-search.html
+          Product: Video Cloud
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Brightcove Player Sample: Download Transcript'
+          Description: 'New download transcript sample'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-download-transcript.html
+          Product: Brightcove Player
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'People Widget on the Immersion Gallery template'
+          Description: 'People widget UI updates and upgrades.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/people-widget.html
+          Product: Video Cloud
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Custom Live Ingest Profiles'
+          Description: 'Updated the live pricebook to reflect the most recent changes.'
+          Link: https://live.support.brightcove.com/admin/creating-custom-live-ingest-profiles.html
+          Product: Brightcove Live
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
