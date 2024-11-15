@@ -1,104 +1,85 @@
-- date: 28-Jun-2024
+- date: 15-Nov-2024
   types:
-    - type: New Docs
-      docs:
-        - Title: 'Android SDK v9.0 Migration Guide'
-          Description: 'In this topic, you will learn about the new improvements and features in the major version release of Android SDK v9.0.'
-          Link: https://sdks.support.brightcove.com/android/basics/android-v9-migration-guide.html
-          Product: Device SDKs
-          Product_area: 'Android SDK'
-          Product_Update: 'true'
-          Feature: 'Android SDK v9.0 release'
-          Status: Staging
-        - Title: 'Android: Background Playback'
-          Description: 'In this topic, you will learn about enabling Background Playback.'
-          Link: https://sdks.support.brightcove.com/android/playback/android-background-playback.html
-          Product: Device SDKs
-          Product_area: 'Android SDK'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Staging
-        - Title: 'Interactivity with Player SDK'
-          Description: 'Interactivity Mobile SDK document for ios and android'
-          Link: https://sdks.support.brightcove.com/getting-started/interactivity-with-player-sdk.html
-          Product: Device SDKs
-          Product_area: 'interactivity'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
     - type: Major updates
       docs:
-        - Title: 'Offline Playback with the Native Player SDKs'
-          Description: 'Setup section updated with new steps'
-          Link: https://sdks.support.brightcove.com/features/offline-playback-native-player-sdks.html#Setup
-          Product: Device SDKs
-          Product_area: 'Android SDK'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Setup for the Beacon Web App'
-          Description: 'FAQ section added'
-          Link: https://beacon.support.brightcove.com/using-brightcove-beacon/setup-beacon-web-app.html
-          Product: Beacon
-          Product_area: 'Beacon Apps'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
-        - Title: 'Accessing Reporting Endpoints'
-          Description: 'Update Interactivity Reporting API Endpoint widget_user_sentiment_summary'
-          Link: https://apis.support.brightcove.com/interactivity/accessing-reporting-endpoints.html
+        - Title: 'Brightcove Video Connect for the Sitecore Experience Platform'
+          Description: 'New Sitecore version added'
+          Link: https://integrations.support.brightcove.com/sitecore/getting-started-brightcove-video-connect-sitecore-experience-platform.html
+          Product: Integrations
+          Product_area: 'Sitecore'
+          Product_Update: 'true'
+          Feature: 'Sitecore v10.4'
+        - Title: 'Video Cloud Search'
+          Description: 'Media module search function updates'
+          Link: https://studio.support.brightcove.com/media/module/video-cloud-search.html
           Product: Video Cloud
-          Product_area: 'interactivity'
+          Product_area: ''
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Social Sharing Plugin'
-          Description: 'Updated twitter references to X'
-          Link: https://player.support.brightcove.com/plugins/social-sharing-plugin.html
+        - Title: 'Brightcove Player Sample: Download Transcript'
+          Description: 'New download transcript sample'
+          Link: https://player.support.brightcove.com/code-samples/brightcove-player-sample-download-transcript.html
+          Product: Brightcove Player
+          Product_area: ''
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'People Widget on the Immersion Gallery Template'
+          Description: 'People widget UI updates and upgrades.'
+          Link: https://gallery.support.brightcove.com/experiences/immersion-template/people-widget.html
           Product: Video Cloud
-          Product_area: 'Social'
+          Product_area: ''
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Sharing Videos to X (formerly Twitter) Player Cards'
-          Description: 'Updated twitter references to X'
-          Link: https://studio.support.brightcove.com/social/general/sharing-videos-twitter-player-cards.html
-          Product: Video Cloud
-          Product_area: 'Social'
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'AEM connector version 6.1.6'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'Adobe'
           Product_Update: 'false'
           Feature: ''
-          Status: Released
-        - Title: 'Using Auto Sync to Synchronize Videos to Social Media Accounts'
-          Description: 'Updated twitter references to X'
-          Link: https://studio.support.brightcove.com/social/general/using-auto-sync-synchronize-videos-social-media-accounts.html
-          Product: Video Cloud
-          Product_area: 'Social'
-          Product_Update: 'false'
-          Feature: ''
-          Status: Released
+          Status: Released 
     - type: Minor updates
       docs:
-        - Title: 'Video SEO Schema Generator Plugin'
-          Description: 'Code block added to step three'
-          Link: https://player.support.brightcove.com/plugins/video-seo-schema-generator-plugin.html
-          Product: Brightcove Player
-          Product_area: 'Plugins'
+        - Title: 'Creating Custom Live Ingest Profiles'
+          Description: 'Updated the live pricebook to reflect the most recent changes.'
+          Link: https://live.support.brightcove.com/admin/creating-custom-live-ingest-profiles.html
+          Product: Brightcove Live
+          Product_area: ''
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Introducing JSON'
-          Description: 'broken link fixed'
-          Link: https://general.support.brightcove.com/developer/concepts-introducing-json.html#createJSONText
-          Product: Video Cloud 
-          Product_area: 'JSON topics'
+        - Title: 'WordPress-Brightcove Connector: Frequently Asked Questions'
+          Description: 'How can I increase Maximum upload file size section updated to reflect the right information'
+          Link: https://integrations.support.brightcove.com/wordpress/wordpress-brightcove-connector-frequently-asked-questions.html
+          Product: Integrations
+          Product_area: 'Wordpress'
           Product_Update: 'false'
           Feature: ''
           Status: Released
-        - Title: 'Request to update best practice (frame rate) of live streaming'
-          Description: 'Changed a note about an encoder setting limitations'
-          Link: https://live.support.brightcove.com/get-started/live-module-guidelines-and-best-practices.html
-          Product: Live
-          Product_area: 'Live'
+        - Title: 'Native Video Playback'
+          Description: 'iOS Native Player link updated'
+          Link: https://sdks.support.brightcove.com/getting-started/native-video-playback.html#Using_the_Native_Player
+          Product: Device SDKs
+          Product_area: 'Playback'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'On-Premise Version added for 6.1.5 version'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'Adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Generic Stream Concurrency'
+          Description: 'GSC Heartbeat Intervals - Note added that its minimum value is 60000'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html
+          Product: APIs
+          Product_area: 'Playback Restrictions'
           Product_Update: 'false'
           Feature: ''
           Status: Released
