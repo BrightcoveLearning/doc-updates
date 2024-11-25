@@ -1,0 +1,30 @@
+- date: 15-November-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'AEM connector version 6.1.6'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'Adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+    - type: Minor updates
+      docs:
+        - Title: 'Getting Started with Brightcove Video Connect for Adobe Experience Manager'
+          Description: 'On-Premise Version added for 6.1.5 version'
+          Link: https://integrations.support.brightcove.com/adobe/getting-started-brightcove-video-connect-adobe-experience-manager.html
+          Product: Integrations
+          Product_area: 'Adobe'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+        - Title: 'Generic Stream Concurrency'
+          Description: 'GSC Heartbeat Intervals - Note added that its minimum value is 60000'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html
+          Product: APIs
+          Product_area: 'Playback Restrictions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
