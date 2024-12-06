@@ -1,0 +1,21 @@
+- date: 6-Dec-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'CMS API Custom Fields Reference'
+          Description: 'Updates to the Custom Fields to accept types Boolean, Date and Numeric'
+          Link: https://apis.support.brightcove.com/cms/references/cms-api-custom-fields-reference.html
+          Product: Video Cloud
+          Product_area: 'CMS'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Android SDK Release v10.0.0'
+          Description: 'Android SDK Release v10.0.0'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'Android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+   
