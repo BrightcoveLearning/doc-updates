@@ -1,0 +1,31 @@
+- date: 20-Dec-2024
+  types:
+    - type: Major updates
+      docs:
+        - Title: 'Publisher Insights: Engagement'
+          Description: 'Update new parameters'
+          Link: https://studio.support.brightcove.com/analytics/pi-engagement.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+         - Title: 'Publisher Insights: Content'
+          Description: 'Update new parameters'
+          Link: https://studio.support.brightcove.com/analytics/pi-content.html
+          Product: Video Cloud
+          Product_area: 'Analytics'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Social Media Publishing Destinations'
+          Description: 'X reference update'
+          Link: https://studio.support.brightcove.com/social/module/creating-social-media-publishing-destinations.html
+          Product: Video Cloud
+          Product_area: 'Social'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released 
+
