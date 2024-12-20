@@ -1,0 +1,12 @@
+- date: 20-Dec-2024
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Packaged Plugins'
+          Description: 'In this topic, we introduced Packaged Plugins with Brightcove Player version 7.21.0, a new way to manage core player features. This replaces the Plugin Registry.'
+          Link: https://apis.support.brightcove.com/player-management/guides/packaged-plugin.html
+          Product: Video Cloud
+          Product_area: 'APIs'
+          Product_Update: 'False'
+          Feature: 'Plugins'
+          Status: Released
