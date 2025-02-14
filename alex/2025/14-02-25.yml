@@ -1,0 +1,47 @@
+- date: 14-Feb-2025
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'New Beacon Search'
+          Description: 'Improved search functionalities in Brightcove Beacon OTT apps'
+          Link: https://beacon-help.support.brightcove.com/publishing-apps/app-behavior/search.html
+          Product: Beacon
+          Product_area: 'apps'
+          Product_Update: 'true'
+          Feature: 'Improved search functionalities'
+          Status: Limited Availability
+    - type: Major updates
+      docs:
+        - Title: 'Android SDK Release v10.0.1'
+          Description: 'Android SDK Release v10.0.1'
+          Link: https://sdks.support.brightcove.com/android/basics/overview-brightcove-player-sdk-android.html
+          Product: Device SDKs
+          Product_area: 'android'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Simplified UI'
+          Description: 'Hide inactive modules and display only the modules that are relevant to the role.'
+          Link: https://studio.support.brightcove.com/admin/general/managing-users.html#add
+          Product: Video Cloud
+          Product_area: 'admin'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Sharing Options'
+          Description: 'You can now choose whether to upload a video as Private or Shared. '
+          Link: https://studio.support.brightcove.com/media/manage/uploading-videos-using-upload-module.html#sharing
+          Product: Video Cloud
+          Product_area: 'Upload module'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'minutes instead of months'
+          Description: 'Change the months into minutes in from and to params Analytics API'
+          Link: https://apis.support.brightcove.com/analytics/dimension-guides/dimension-player.html
+          Product: Audience Insights
+          Product_area: 'dimensions'
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    
