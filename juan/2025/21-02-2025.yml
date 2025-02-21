@@ -1,0 +1,48 @@
+- date: 21-February-2025
+  types:
+    - type: New Docs
+      docs:
+        - Title: 'Content Multiplier'
+          Description: 'AI Content Suite Release'
+          Link: https://studio.support.brightcove.com/ai-features/content-suite/content-multiplier.html
+          Product: Video Cloud
+          Product_area: Content Suite
+          Product_Update: 'true'
+          Feature: 'Content Multiplier'
+          Status: Released
+        - Title: 'AI Metadata Optimizer'
+          Description: 'AI Content Suite Release'
+          Link: https://studio.support.brightcove.com/ai-features/content-suite/metadata-enhancer.html
+          Product: Video Cloud
+          Product_area: Content Suite
+          Product_Update: 'true'
+          Feature: 'AI Metadata Optimizer'
+          Status: Released
+    - type: Major updates
+      docs:
+        - Title: 'Brightcove Player Error Reference'
+          Description: 'GSC Error codes section added'
+          Link: https://player.support.brightcove.com/references/brightcove-player-error-reference.html
+          Product: Playback restrictions
+          Product_area: API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+        - Title: 'Generic Stream Concurrency'
+          Description: 'GSC Error codes section added'
+          Link: https://apis.support.brightcove.com/playback-restrictions/guides/generic-stream-concurrency.html
+          Product: Playback restrictions
+          Product_area: API
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
+    - type: Minor updates
+      docs:
+        - Title: 'Creating Custom Metadata Fields'
+          Description: 'Current player version updated'
+          Link: https://player.support.brightcove.com/release-notes/brightcove-player-release-notes.html
+          Product: Video Cloud
+          Product_area: Player
+          Product_Update: 'false'
+          Feature: ''
+          Status: Released
